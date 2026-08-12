@@ -1,0 +1,50 @@
+name: Weekly maintenance
+
+# Two jobs in one weekly run:
+#  1. keepalive — the daily job's state commit normally resets GitHub's 60-day
+#     scheduler clock, but if the daily job ever starts failing silently this
+#     touch-commit keeps the schedules alive so you can still fix things.
+#  2. token check — reminds about the 60-day Instagram token expiry.
+#     (Full auto-refresh would need to write the new token back to the secret;
+#     see README for the `gh secret set` variant.)
+
+on:
+  schedule:
+    - cron: "23 8 * * 1" # Mondays 08:23 Prague
+      timezone: "Europe/Prague"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  maintenance:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Keepalive commit
+        run: |
+          git config user.name "contenthub-bot"
+          git config user.email "actions@users.noreply.github.com"
+          date -u +%FT%TZ > .keepalive
+          git add .keepalive
+          git commit -m "chore: weekly keepalive [skip ci]"
+          git push
+
+      - name: Refresh IG long-lived token (no-op until secrets are set)
+        if: ${{ secrets.IG_ACCESS_TOKEN != '' }}
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT_FOR_SECRETS }} # optional PAT with secrets:write
+          PYTHONPATH: src
+        run: |
+          pip install -q requests PyYAML Pillow
+          NEW=$(python -m contenthub refresh-token | tail -1) || exit 0
+          if [ -n "$GH_TOKEN" ] && [ -n "$NEW" ]; then
+            gh secret set IG_ACCESS_TOKEN --body "$NEW"
+            echo "IG_ACCESS_TOKEN rotated."
+          else
+            echo "::warning::Token refreshed but no GH_PAT_FOR_SECRETS set — update the secret manually before day 60."
+          fi

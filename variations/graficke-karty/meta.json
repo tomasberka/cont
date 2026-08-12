@@ -1,0 +1,21 @@
+{
+  "topic": "graficke-karty",
+  "day": "11-22",
+  "year": 1995,
+  "headline": "Toy Story dokazuje, co zvládne počítačová grafika",
+  "story": "Do amerických kin dorazil Toy Story, první celovečerní film vytvořený čistě počítačovou grafikou. Buzz a Woody tak odstartovali éru CGI animace.",
+  "keywords": [
+    "pocitac",
+    "graficka",
+    "software"
+  ],
+  "style": "duotone",
+  "product": {
+    "id": "ASUSPRIME5070OC_NOV",
+    "name": "ASUS PRIME GeForce RTX 5070 12GB OC Stav: Nový 90YV0M10-M0NA00",
+    "price": "17 490 Kč",
+    "url": "https://www.hellocomp.cz/asus-prime-geforce-rtx-5070-12gb-oc/?variantId=49381",
+    "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/8000_ecr57p1.jpg?6a4a78a2",
+    "category": "Heureka.cz | Elektronika | Počítače a notebooky | Počítačové komponenty | Grafické karty"
+  }
+}

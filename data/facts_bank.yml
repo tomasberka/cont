@@ -1,0 +1,3462 @@
+# Curated 'v tento den' fact bank — full year, EVERY day has a story (366/366).
+# 2026-08-11 tech sweep + 2026-08-12 gap-fill. Optional per-entry field:
+# product_hint (precise product search term, beats keyword rules).
+01-01:
+  evergreen: false
+  headline_cs: Den, kdy se z ARPANETu stal internet
+  keywords:
+  - arpanet
+  - internet
+  - network
+  source_lang: cs
+  story_cs: Síť ARPANET, přímý předchůdce internetu, přešla na protokoly TCP/IP jako standard. Právě na těch dodnes běží celý internet, takže si klidně připijte na narozeniny sítě sítí.
+  year: 1983
+01-02:
+  evergreen: false
+  headline_cs: Narodila se Lynn Conway, průkopnice návrhu čipů
+  keywords:
+  - chip
+  - procesor
+  - pocitac
+  source_lang: en
+  story_cs: V tento den se narodila Lynn Conway, americká počítačová vědkyně a elektroinženýrka. Její práce na návrhu VLSI čipů pomohla položit základy moderních procesorů, které dnes pohánějí každý počítač.
+  year: 1938
+01-03:
+  evergreen: false
+  headline_cs: Apple se oficiálně stal firmou
+  keywords:
+  - apple
+  - computer
+  - macintosh
+  source_lang: en
+  story_cs: Apple Computer byl v tento den oficiálně zapsán jako společnost. Z garážového projektu se tak formálně stala firma, která později dala světu Macintosh i iPhone.
+  year: 1977
+01-04:
+  evergreen: false
+  headline_cs: Sputnik 1 se po měsících na orbitě vrátil na Zem
+  keywords:
+  - pocitac
+  - network
+  source_lang: en
+  story_cs: První umělá družice Sputnik 1 v tento den dohořela v atmosféře a ukončila svou misi. Legendární pípající koule odstartovala kosmické závody i éru satelitní techniky, bez které by nebyla ani dnešní navigace.
+  year: 1958
+01-05:
+  evergreen: false
+  headline_cs: Narodil se Stephen Kleene, otec regulárních výrazů
+  keywords:
+  - algoritmus
+  - programator
+  - computer
+  source_lang: en
+  story_cs: V tento den se narodil americký matematik a informatik Stephen Cole Kleene. Jeho teorie výpočtů a regulární výrazy dodnes používá každý programátor, aniž by o tom často věděl.
+  year: 1909
+01-06:
+  evergreen: false
+  headline_cs: Morse poprvé úspěšně otestoval elektrický telegraf
+  keywords:
+  - network
+  - internet
+  - telefon
+  source_lang: cs
+  story_cs: Samuel Morse v tento den provedl první úspěšné pokusy s elektrickým telegrafem. Tečky a čárky se staly prvním digitálním kódem světa a předchůdcem všech dnešních sítí.
+  year: 1838
+01-07:
+  evergreen: false
+  headline_cs: IBM poprvé předvedla strojový překlad
+  keywords:
+  - ibm
+  - computer
+  - software
+  source_lang: cs
+  story_cs: IBM v New Yorku veřejně představila první systém pro strojový překlad. Byl to pradědeček dnešních překladačů, které nosíme v kapse úplně samozřejmě.
+  year: 1954
+01-08:
+  evergreen: false
+  headline_cs: Patent na děrné štítky odstartoval éru výpočtů
+  keywords:
+  - calculator
+  - computer
+  - ibm
+  source_lang: en
+  story_cs: Herman Hollerith získal patent na svůj kalkulátor s děrnými štítky. Jeho vynález na zpracování statistik položil základy strojového počítání dávno před prvními počítači.
+  year: 1889
+01-09:
+  evergreen: false
+  headline_cs: Steve Jobs vytáhl z kapsy první iPhone
+  keywords:
+  - iphone
+  - apple
+  - smartphone
+  - telefon
+  source_lang: en
+  story_cs: Steve Jobs na keynote Macworldu v San Francisku představil původní iPhone. Jedna prezentace stačila, aby se navždy změnilo, co čekáme od telefonu.
+  year: 2007
+01-10:
+  evergreen: false
+  headline_cs: Narodil se Donald Knuth, legenda programování
+  keywords:
+  - algoritmus
+  - programator
+  - pocitac
+  source_lang: cs
+  story_cs: V tento den se narodil Donald Knuth, americký počítačový vědec a autor bible programátorů The Art of Computer Programming. Jeho analýzy algoritmů se učí informatici po celém světě dodnes.
+  year: 1938
+01-11:
+  evergreen: false
+  headline_cs: 'Apple ukázal počítač do dlaně: Mac mini'
+  keywords:
+  - apple
+  - pocitac
+  - macintosh
+  source_lang: cs
+  story_cs: Apple představil svůj miniaturní počítač Mac mini. Dokázal, že plnohodnotný počítač se vejde do krabičky, která zmizí na stole vedle monitoru.
+  year: 2005
+01-12:
+  evergreen: false
+  headline_cs: NASA vypustila sondu Deep Impact ke kometě
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: NASA v tento den vyslala do vesmíru sondu Deep Impact, která měla prozkoumat kometu 9P/Tempel. Sonda do komety později úmyslně navedla projektil a vědci tak poprvé nahlédli pod její povrch.
+  year: 2005
+01-13:
+  evergreen: false
+  headline_cs: Gates předal kormidlo Microsoftu Ballmerovi
+  keywords:
+  - microsoft
+  - windows
+  - software
+  source_lang: en
+  story_cs: Steve Ballmer nahradil Billa Gatese na pozici výkonného ředitele Microsoftu. Zakladatel Windows tak po letech pustil řízení firmy, kterou vybudoval z nuly.
+  year: 2000
+01-14:
+  evergreen: false
+  headline_cs: Elvis odvysílal první satelitní megakoncert v historii
+  keywords:
+  - televize
+  - audio
+  source_lang: en
+  story_cs: Koncert Elvise Presleyho Aloha from Hawaii se v tento den vysílal živě přes satelit divákům napříč kontinenty. Šlo o rekordně sledovaný přenos jednoho umělce v dějinách televize.
+  year: 1973
+01-15:
+  evergreen: false
+  headline_cs: První editace Wikipedie spustila lavinu vědění
+  keywords:
+  - internet
+  - web
+  - www
+  source_lang: en
+  story_cs: Na internetové encyklopedii Wikipedia proběhla úplně první editace. Z jednoho kliknutí vyrostla největší encyklopedie, do které dnes klikáme všichni.
+  year: 2001
+01-16:
+  evergreen: false
+  headline_cs: Astronomové z Kleti objevili planetku Járacimrman
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: cs
+  story_cs: Hvězdárna na Kleti v tento den objevila planetku, která později dostala jméno Járacimrman. Největší Čech, který nikdy nežil, tak má díky českým astronomům vlastní kus vesmíru.
+  year: 1996
+01-17:
+  evergreen: false
+  headline_cs: Narodila se Anita Borg, bojovnice za ženy v IT
+  keywords:
+  - pocitac
+  - software
+  - programator
+  source_lang: en
+  story_cs: V tento den se narodila americká počítačová vědkyně Anita Borg. Kromě výzkumu operačních systémů založila institut podporující ženy v technologiích, který dodnes nese její jméno.
+  year: 1949
+01-18:
+  evergreen: false
+  headline_cs: Zrodil se základ legendární československé TESLY
+  keywords:
+  - radio
+  - televize
+  source_lang: cs
+  story_cs: V Praze vznikla společnost Elektra, výrobce žárovek, elektronek a rozhlasové techniky. Právě z ní se v roce 1946 stal základ obřího národního podniku TESLA.
+  year: 1921
+01-19:
+  evergreen: false
+  headline_cs: 'Apple Lisa: revoluční počítač dorazil na trh'
+  keywords:
+  - apple
+  - pocitac
+  - macintosh
+  source_lang: cs
+  story_cs: Apple uvedl na trh revoluční osobní počítač Lisa. Přestože se z něj nestal trhák, prošlapal cestu, po které o rok později vykročil slavný Macintosh.
+  year: 1983
+01-20:
+  evergreen: false
+  headline_cs: Narodil se Will Wright, tvůrce SimCity a The Sims
+  keywords:
+  - videohra
+  - software
+  source_lang: cs
+  story_cs: V tento den se narodil americký herní designér Will Wright. Jeho SimCity a The Sims patří mezi nejprodávanější videohry historie a ukázaly, že simulace běžného života může být pořádná zábava.
+  year: 1960
+01-21:
+  evergreen: false
+  headline_cs: Rover na Marsu zachránila oprava flash paměti
+  keywords:
+  - pamet
+  - memory
+  - storage
+  source_lang: en
+  story_cs: Marsovský rover Spirit přestal komunikovat s řídicím střediskem kvůli problému se správou flash paměti. NASA ho opravila na dálku přímo ze Země — servis přes půl Sluneční soustavy.
+  year: 2004
+01-22:
+  evergreen: false
+  headline_cs: Reklama v Super Bowlu představila Macintosh
+  keywords:
+  - macintosh
+  - apple
+  - pocitac
+  source_lang: en
+  story_cs: Apple během Super Bowlu XVIII představil televizní reklamou Macintosh. Šlo o první úspěšný osobní počítač s grafickým rozhraním — myš a okna místo příkazů.
+  year: 1984
+01-23:
+  evergreen: false
+  headline_cs: Mosaic naučil svět brouzdat po webu
+  keywords:
+  - web
+  - internet
+  - www
+  - software
+  source_lang: en
+  story_cs: Vyšla první verze prohlížeče Mosaic od Marca Andreessena a Erica Biny. Stal se prvním populárním webovým prohlížečem a otevřel internet obyčejným lidem.
+  year: 1993
+01-24:
+  evergreen: false
+  headline_cs: První Macintoshe dorazily do obchodů
+  keywords:
+  - macintosh
+  - apple
+  - pocitac
+  source_lang: cs
+  story_cs: Na trh byly uvedeny první počítače Macintosh. Legenda od Applu tak vyrazila mezi lidi a začala psát jednu z nejslavnějších kapitol historie počítačů.
+  year: 1984
+01-25:
+  evergreen: false
+  headline_cs: Edison a Bell založili společnou telefonní firmu
+  keywords:
+  - telefon
+  source_lang: en
+  story_cs: Thomas Edison a Alexander Graham Bell založili společnost Oriental Telephone Company. Dva největší vynálezci své doby se spojili, aby šířili telefon do světa.
+  year: 1881
+01-26:
+  evergreen: false
+  headline_cs: Baird poprvé veřejně předvedl fungující televizi
+  keywords:
+  - televize
+  - displej
+  - monitor
+  source_lang: cs
+  story_cs: Skotský vynálezce John Logie Baird v tento den poprvé veřejně demonstroval televizi. Z rozmazaného obrázku v londýnské laboratoři se za pár desítek let staly obrazovky, na které koukáme denně.
+  year: 1926
+01-27:
+  evergreen: false
+  headline_cs: Apple ohlásil iPad a stvořil novou kategorii
+  keywords:
+  - apple
+  - notebook
+  source_lang: en
+  story_cs: Apple oznámil iPad. Tablet, kterému mnozí nevěřili, si nakonec našel místo v miliónech domácností mezi telefonem a notebookem.
+  year: 2010
+01-28:
+  evergreen: false
+  headline_cs: Lego si patentovalo kostičku, která spojuje generace
+  keywords:
+  - videohra
+  source_lang: en
+  story_cs: Dánské Lego si v tento den nechalo patentovat design své kostičky. Geniální spoj funguje dodnes, takže i dnešní kostky pasují na ty vyrobené před desítkami let.
+  year: 1958
+01-29:
+  evergreen: false
+  headline_cs: Karl Benz si patentoval první benzínový automobil
+  keywords:
+  - chip
+  - pocitac
+  source_lang: cs
+  story_cs: Karl Benz v tento den získal patent na první automobil plně poháněný benzínem. Z jednoválcové třkolky se zrodil průmysl, jehož dnešní auta jsou v podstatě počítače na kolech.
+  year: 1886
+01-30:
+  evergreen: false
+  headline_cs: Puberťák napsal první počítačový virus na světě
+  keywords:
+  - virus
+  - apple
+  - software
+  source_lang: cs
+  story_cs: Richard Skrenta vytvořil první počítačový virus — 400 řádků kódu přestrojených za zaváděcí program Applu jménem Elk Cloner. Éra antivirů mohla začít.
+  year: 1982
+01-31:
+  evergreen: false
+  headline_cs: Final Fantasy VII skočilo do třetí dimenze
+  keywords:
+  - videohra
+  - playstation
+  - konzole
+  source_lang: en
+  story_cs: Vyšlo Final Fantasy VII, první díl série s 3D počítačovou grafikou. Kultovní RPG ukázalo, jak velkolepé mohou videohry být.
+  year: 1997
+02-01:
+  evergreen: false
+  headline_cs: Procesor, který naučil PC chránit paměť
+  keywords:
+  - intel
+  - procesor
+  - cpu
+  - ibm
+  source_lang: en
+  story_cs: Intel vypustil do světa procesor 80286 s chráněným režimem paměti. Poháněl legendární IBM PC/AT i jeho nespočet klonů.
+  year: 1982
+02-02:
+  evergreen: false
+  headline_cs: Narodil se Ralph Merkle, průkopník moderní kryptografie
+  keywords:
+  - cyber
+  - hacker
+  - internet
+  source_lang: en
+  story_cs: V tento den se narodil Ralph Merkle, jeden z otců kryptografie s veřejným klíčem. Bez jeho nápadů by dnes bezpečné nakupování na internetu prostě nefungovalo.
+  year: 1952
+02-03:
+  evergreen: false
+  headline_cs: Steve Jobs kupuje studio, ze kterého bude Pixar
+  keywords:
+  - apple
+  - computer
+  - pocitac
+  source_lang: en
+  story_cs: Steve Jobs odkoupil Pixar od Lucasfilmu a rozjel ho jako nezávislé studio počítačové animace. Počítače a filmy si tehdy podaly ruce naplno.
+  year: 1986
+02-04:
+  evergreen: false
+  headline_cs: Narodil se Ken Thompson, legenda, která stvořila Unix
+  keywords:
+  - linux
+  - software
+  - programator
+  source_lang: en
+  story_cs: V tento den se narodil Ken Thompson, spolutvůrce operačního systému Unix a jazyka B. Jeho práce dodnes žije v Linuxu, Androidu i macOS.
+  year: 1943
+02-05:
+  evergreen: false
+  headline_cs: Kyberloupež století začala jedním převodem
+  keywords:
+  - cyber
+  - hacker
+  - network
+  source_lang: en
+  story_cs: Kyberzločinci spustili loupež v Bangladesh Bank a přes síť SWIFT podvodně převedli 101 milionů dolarů. Banku vykradli bez kukly, jen s klávesnicí.
+  year: 2016
+02-06:
+  evergreen: false
+  headline_cs: Narodil se Eduard Smutný, otec československých počítačů
+  keywords:
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: V tento den se narodil Eduard Smutný, konstruktér legendárních československých počítačů a mikropočítačů. Díky nadšencům jako on se u nás programovalo už dávno před érou notebooků.
+  year: 1944
+02-07:
+  evergreen: false
+  headline_cs: Steve Jobs se vrací do Apple
+  keywords:
+  - apple
+  - software
+  source_lang: en
+  story_cs: Po akvizici jeho startupu NeXT se Steve Jobs vrátil do Applu jako konzultant. Jeden z největších comebacků v historii techniky mohl začít.
+  year: 1997
+02-08:
+  evergreen: false
+  headline_cs: Amerika zkusila zregulovat internet zákonem
+  keywords:
+  - internet
+  - web
+  source_lang: cs
+  story_cs: Podpisem prezidenta Clintona vstoupil v platnost Communications Decency Act, který měl regulovat šíření pornografie na internetu. Debata o svobodě sítě se rozjela naplno.
+  year: 1996
+02-09:
+  evergreen: false
+  headline_cs: Narodil se Kevin Warwick, první člověk s čipem v těle
+  keywords:
+  - chip
+  - cyber
+  source_lang: cs
+  story_cs: V tento den se narodil Kevin Warwick, britský profesor kybernetiky. Proslavil se tím, že si nechal do těla voperovat čip a stal se prvním kyborgem na světě.
+  year: 1954
+02-10:
+  evergreen: false
+  headline_cs: Stroj poprvé porazil šachového mistra světa
+  keywords:
+  - ibm
+  - pocitac
+  - algoritmus
+  source_lang: cs
+  story_cs: Superpočítač Deep Blue od IBM poprvé vyhrál partii nad úřadujícím mistrem světa Garrim Kasparovem. Křemík ten den šachovému světu vytřel zrak.
+  year: 1996
+02-11:
+  evergreen: false
+  headline_cs: Falešná fotka tenistky zavirovala miliony mailů
+  keywords:
+  - virus
+  - cyber
+  source_lang: en
+  story_cs: Nizozemský programátor vypustil virus Anna Kournikova, který se šířil jako údajná fotka slavné tenistky. Miliony lidí klikly a jejich e-maily rozeslaly nákazu dál.
+  year: 2001
+02-12:
+  evergreen: false
+  headline_cs: Narodil se Phil Zimmermann, muž, který zašifroval naše e-maily
+  keywords:
+  - software
+  - cyber
+  - hacker
+  source_lang: en
+  story_cs: V tento den se narodil Phil Zimmermann, autor legendárního šifrovacího programu PGP. Obyčejným lidem dal nástroj na soukromou komunikaci, ze kterého se dodnes ježí vlasy nejedné tajné službě.
+  year: 1954
+02-13:
+  evergreen: false
+  headline_cs: Den, kdy se Československo připojilo k internetu
+  keywords:
+  - internet
+  - network
+  source_lang: cs
+  story_cs: ČSFR se oficiálně připojila k internetu a jako první bylo online ČVUT v Praze. Odtud vede přímá linka k dnešnímu skrolování.
+  year: 1992
+02-14:
+  evergreen: false
+  headline_cs: Bell si patentoval vynález, který spojil svět
+  keywords:
+  - telefon
+  source_lang: cs
+  story_cs: Alexander Graham Bell si nechal patentovat telefon. Na Valentýna tak vznikl přístroj, přes který se od té doby vyznaly miliardy lásek.
+  year: 1876
+02-15:
+  evergreen: false
+  headline_cs: Nejhledanější hacker Ameriky konečně v poutech
+  keywords:
+  - hacker
+  - cyber
+  source_lang: en
+  story_cs: FBI zatkla Kevina Mitnicka, tehdy nejhledanějšího počítačového hackera v USA, a obvinila ho z počítačových podvodů. Legenda kyberbezpečnosti tím teprve začala.
+  year: 1995
+02-16:
+  evergreen: false
+  headline_cs: V Chicagu vznikla první počítačová nástěnka
+  keywords:
+  - pocitac
+  - network
+  - computer
+  source_lang: en
+  story_cs: Spatřil světlo světa první bulletin board system, chicagský CBBS. Lidé si přes počítač poprvé nechávali vzkazy — praprarodič dnešních diskuzí a sociálních sítí.
+  year: 1978
+02-17:
+  evergreen: false
+  headline_cs: Microsoft vypustil Windows 2000 do světa
+  keywords:
+  - microsoft
+  - windows
+  - software
+  source_lang: cs
+  story_cs: Microsoft uvolnil operační systém Windows 2000. Nové milénium tak dostalo i nová okna, hlavně pro firmy a kanceláře.
+  year: 2000
+02-18:
+  evergreen: false
+  headline_cs: Vozítko Perseverance úspěšně přistálo na Marsu
+  keywords:
+  - pocitac
+  - software
+  source_lang: cs
+  story_cs: V tento den dosedlo vozítko NASA Perseverance na povrch Marsu v kráteru Jezero. Robot velikosti auta tam dodnes hledá stopy dávného života a sbírá vzorky hornin.
+  year: 2021
+02-19:
+  evergreen: false
+  headline_cs: Edison si patentoval stroj, který zachytil zvuk
+  keywords:
+  - audio
+  source_lang: cs
+  story_cs: Thomas Alva Edison obdržel patent na fonograf. Lidstvo si poprvé mohlo nahrát a přehrát zvuk — pradědeček všech vašich sluchátek a playlistů.
+  year: 1878
+02-20:
+  evergreen: false
+  headline_cs: Falcon 9 zásoboval ISS a elegantně přistál zpátky
+  keywords:
+  - pocitac
+  - software
+  source_lang: cs
+  story_cs: V tento den vynesla raketa Falcon 9 od SpaceX loď Dragon se zásobami pro ISS. První stupeň se pak otočil a přistál zpět na Zemi, připravený letět znovu.
+  year: 2017
+02-21:
+  evergreen: false
+  headline_cs: Vyšel první telefonní seznam na světě
+  keywords:
+  - telefon
+  source_lang: cs
+  story_cs: V americkém New Havenu vydali první telefonní seznam. Kontakty jsme si tehdy nescrollovali, ale listovali.
+  year: 1878
+02-22:
+  evergreen: false
+  headline_cs: Narodil se Thomas Kurtz, spolutvůrce jazyka BASIC
+  keywords:
+  - programator
+  - software
+  - pocitac
+  source_lang: en
+  story_cs: V tento den se narodil Thomas E. Kurtz, spoluautor programovacího jazyka BASIC. Právě na něm se učily programovat celé generace u svých prvních domácích počítačů.
+  year: 1928
+02-23:
+  evergreen: false
+  headline_cs: Japonsko vypustilo družici WINDS pro superrychlý internet
+  keywords:
+  - internet
+  - network
+  source_lang: en
+  story_cs: 'V tento den odstartovala japonská družice WINDS, experiment se superrychlým internetem přímo z oběžné dráhy. Cíl byl jasný: gigabitové připojení i tam, kam kabel nikdy nedosáhne.'
+  year: 2008
+02-24:
+  evergreen: false
+  headline_cs: Narodil se Steve Jobs, vizionář, který založil Apple
+  keywords:
+  - apple
+  - macintosh
+  - iphone
+  source_lang: cs
+  story_cs: V tento den se narodil Steve Jobs, spoluzakladatel Applu a Pixaru. Z garážového projektu udělal firmu, která dala světu Macintosh i iPhone a navždy změnila technologie.
+  year: 1955
+02-25:
+  evergreen: false
+  headline_cs: Thomas Davenport si nechal patentovat elektromotor
+  keywords:
+  - hard disk
+  - pocitac
+  source_lang: fill
+  story_cs: V tento den získal americký kovář Thomas Davenport patent na elektromotor. Malý vynález, který dnes roztáčí všechno od ventilátorů v počítači po pevné disky.
+  year: 1837
+02-26:
+  evergreen: false
+  headline_cs: Narodil se Levi Strauss, vynálezce džínsů
+  keywords:
+  - notebook
+  - programator
+  source_lang: cs
+  story_cs: V tento den se narodil Levi Strauss, muž, který dal světu džíny. Původně pracovní kalhoty pro zlatokopy jsou dnes uniformou programátorů i celé tech scény.
+  year: 1829
+02-27:
+  evergreen: false
+  headline_cs: Pokémoni vyrazili do světa poprvé chytat trenéry
+  keywords:
+  - videohra
+  - nintendo
+  - konzole
+  source_lang: en
+  story_cs: Vydáním videoher Pocket Monsters Red a Green odstartovala celá franšíza Pokémon. Z kapesních příšerek se stal herní fenomén na desítky let.
+  year: 1996
+02-28:
+  evergreen: false
+  headline_cs: Narodil se Andrew Tridgell, autor Samby a rsyncu
+  keywords:
+  - linux
+  - software
+  - network
+  source_lang: cs
+  story_cs: V tento den se narodil Andrew Tridgell, autor nástrojů Samba a rsync. Díky němu si počítače s Linuxem a Windows konečně rozumí na jedné síti.
+  year: 1967
+02-29:
+  evergreen: false
+  headline_cs: Narodil se Herman Hollerith, muž, který stál u zrodu IBM
+  keywords:
+  - ibm
+  - pocitac
+  - pamet
+  source_lang: cs
+  story_cs: V tento den, který přichází jen jednou za čtyři roky, se narodil Herman Hollerith. Jeho stroje na děrné štítky odstartovaly éru zpracování dat a daly vzniknout firmě IBM.
+  year: 1860
+03-01:
+  evergreen: false
+  headline_cs: Tesla poprvé veřejně předvedl rádio
+  keywords:
+  - radio
+  source_lang: en
+  story_cs: Nikola Tesla v St. Louis poprvé veřejně ukázal, že signál může letět vzduchem bez drátů. Bez tohoto momentu by dnes nehrálo žádné rádio ani bezdrátová technika.
+  year: 1893
+03-02:
+  evergreen: false
+  headline_cs: Vladimír Remek odstartoval a zapsal Česko do vesmírné historie
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: Vladimír Remek se na lodi Sojuz 28 stal prvním kosmonautem, který nepocházel ze SSSR ani z USA. Československo se tak rázem stalo třetí zemí s člověkem ve vesmíru.
+  year: 1978
+03-03:
+  evergreen: false
+  headline_cs: Nintendo Switch vtrhlo do obchodů
+  keywords:
+  - nintendo
+  - konzole
+  - videohra
+  source_lang: cs
+  story_cs: V tento den se začala prodávat herní konzole Nintendo Switch. Hybrid do ruky i k televizi se stal jednou z nejoblíbenějších konzolí vůbec.
+  year: 2017
+03-04:
+  evergreen: false
+  headline_cs: PlayStation 2 odstartoval v Japonsku
+  keywords:
+  - playstation
+  - konzole
+  - videohra
+  source_lang: en
+  story_cs: Sony vypustilo v Japonsku do prodeje PlayStation 2. Legendární černá krabička pak ovládla obýváky po celém světě.
+  year: 2000
+03-05:
+  evergreen: false
+  headline_cs: Malý ZX81 přivedl počítače do domácností
+  keywords:
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: Světu byl představen počítač ZX81. Právě takové dostupné stroje naučily celou generaci, že počítač patří domů na stůl.
+  year: 1981
+03-06:
+  evergreen: false
+  headline_cs: Den, kdy udeřil virus Michelangelo
+  keywords:
+  - virus
+  - pocitac
+  source_lang: cs
+  story_cs: Poprvé se projevil počítačový virus Michelangelo. Panika kolem něj naučila svět, že zálohovat a chránit počítač se prostě vyplatí.
+  year: 1992
+03-07:
+  evergreen: false
+  headline_cs: Bell si nechal patentovat telefon
+  keywords:
+  - telefon
+  source_lang: cs
+  story_cs: Alexander Graham Bell obdržel patent na telefon. Jeden papír, který odstartoval cestu až k mobilu ve vaší kapse.
+  year: 1876
+03-08:
+  evergreen: false
+  headline_cs: Narodil se otec videoher Ralph Baer
+  keywords:
+  - videohra
+  - konzole
+  - playstation
+  source_lang: en
+  story_cs: Narodil se Ralph Baer, vynálezce první herní konzole Magnavox Odyssey. Bez něj by dnes nebyl PlayStation, Xbox ani vaše prokrastinace u obrazovky.
+  year: 1922
+03-09:
+  evergreen: false
+  headline_cs: Sputnik 9 vynesl do vesmíru psa i figurínu
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: en
+  story_cs: Sovětský Sputnik 9 odstartoval se psem a lidskou figurínou na palubě. Byla to generálka na první let člověka do vesmíru, který přišel o měsíc později.
+  year: 1961
+03-10:
+  evergreen: false
+  headline_cs: První telefonní hovor v historii se povedl
+  keywords:
+  - telefon
+  source_lang: cs
+  story_cs: Alexander Graham Bell uskutečnil první úspěšný telefonní hovor. Pár slov po drátě a lidstvo už nikdy nepřestalo volat.
+  year: 1876
+03-11:
+  evergreen: false
+  headline_cs: Narodil se vizionář, který vymyslel internet dřív než internet
+  keywords:
+  - internet
+  - arpanet
+  - pocitac
+  source_lang: en
+  story_cs: Narodil se J. C. R. Licklider, počítačový vědec, který snil o celosvětové síti počítačů dávno před ARPANETem. Jeho vize „galaktické sítě“ se stala dnešním internetem.
+  year: 1915
+03-12:
+  evergreen: false
+  headline_cs: Nenápadný návrh, ze kterého vyrostl web
+  keywords:
+  - www
+  - web
+  - internet
+  source_lang: en
+  story_cs: Tim Berners-Lee podal v CERN návrh na systém správy informací. Právě z něj se později vyvinul World Wide Web, po kterém právě teď brouzdáte.
+  year: 1989
+03-13:
+  evergreen: false
+  headline_cs: V poušti Atacama se probudilo obří ucho do vesmíru
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: cs
+  story_cs: V chilské poušti Atacama zahájila provoz soustava ALMA s 66 radioteleskopy v nadmořské výšce přes 5000 metrů. Od té doby posílá vědcům ostřejší obraz vesmíru než kterýkoli monitor.
+  year: 2013
+03-14:
+  evergreen: false
+  headline_cs: Narodil se Albert Einstein, a to přesně na den pí
+  keywords:
+  - pocitac
+  - algoritmus
+  source_lang: fill
+  story_cs: Narodil se Albert Einstein, génius, který převrátil fyziku naruby teorií relativity. Vesmír si zjevně potrpí na detaily, protože si pro něj vybral zrovna den čísla pí.
+  year: 1879
+03-15:
+  evergreen: false
+  headline_cs: První doména .com na světě
+  keywords:
+  - internet
+  - web
+  source_lang: cs
+  story_cs: Byla zaregistrována vůbec první internetová doména s příponou .com – symbolics.com. Původnímu majiteli už dnes nepatří, ale historii internetu psala jako první.
+  year: 1985
+03-16:
+  evergreen: false
+  headline_cs: Narodil se Richard Stallman, rebel svobodného softwaru
+  keywords:
+  - software
+  - linux
+  - hacker
+  - programator
+  source_lang: cs
+  story_cs: Narodil se Richard Stallman, hacker a zakladatel hnutí svobodného softwaru. Jeho projekt GNU stojí za tím, že dnes máme Linux a spoustu programů zdarma.
+  year: 1953
+03-17:
+  evergreen: false
+  headline_cs: Do vesmíru vzlétla první družice na sluneční pohon
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: en
+  story_cs: USA vypustily první satelit poháněný solárními panely, družici Vanguard 1. Na oběžné dráze se drží dodnes a je tak nejstarším lidským výtvorem ve vesmíru.
+  year: 1958
+03-18:
+  evergreen: false
+  headline_cs: Narodil se Rudolf Diesel, muž s vlastním motorem
+  keywords:
+  - procesor
+  source_lang: cs
+  story_cs: Narodil se Rudolf Diesel, německý vynálezce vznětového motoru, který dodnes nese jeho jméno. Málokdo má patent tak slavný, že se po něm jmenuje palivo u pumpy.
+  year: 1858
+03-19:
+  evergreen: false
+  headline_cs: 'Politika naživo: startuje kabelovka C-SPAN'
+  keywords:
+  - televize
+  source_lang: en
+  story_cs: V USA odstartovala kabelová televizní síť C-SPAN, přenášející dění ve vládě a veřejné záležitosti. Sledovat politiky v přímém přenosu se najednou stalo normou.
+  year: 1979
+03-20:
+  evergreen: false
+  headline_cs: Einstein zveřejnil obecnou relativitu a ohnul časoprostor
+  keywords:
+  - telefon
+  - pocitac
+  - algoritmus
+  source_lang: cs
+  story_cs: Albert Einstein publikoval svou obecnou teorii relativity a navždy změnil pohled na gravitaci. Bez ní by dnes GPS ve vašem telefonu bloudila o kilometry vedle.
+  year: 1916
+03-21:
+  evergreen: false
+  headline_cs: 'Just setting up my twttr: první tweet světa'
+  keywords:
+  - internet
+  - programator
+  source_lang: cs
+  story_cs: Programátor Jack Dorsey odeslal první tweet „just setting up my twttr“. Tím de facto odstartovala sociální síť Twitter.
+  year: 2006
+03-22:
+  evergreen: false
+  headline_cs: Intel vypustil první Pentium
+  keywords:
+  - intel
+  - procesor
+  - cpu
+  - chip
+  source_lang: en
+  story_cs: Intel dodal první čipy Pentium (80586) s taktem 60 MHz, výkonem přes 100 MIPS a 64bitovou datovou sběrnicí. Jméno Pentium se stalo synonymem pro rychlý počítač.
+  year: 1993
+03-23:
+  evergreen: false
+  headline_cs: Gemini 3 vynesla první americkou dvoučlennou posádku
+  keywords:
+  - pocitac
+  - konzole
+  source_lang: en
+  story_cs: NASA vypustila Gemini 3, první americký kosmický let se dvěma astronauty na palubě. Gus Grissom a John Young si tak střihli vesmírnou kooperaci dávno před gamingem.
+  year: 1965
+03-24:
+  evergreen: false
+  headline_cs: Počítač poprvé navigoval chirurga při operaci kosti
+  keywords:
+  - computer
+  - pocitac
+  source_lang: en
+  story_cs: Dr. Rüdiger Marmulla provedl na univerzitě v Řezně první počítačem asistovanou navigaci kostního segmentu. Počítače tak dokázaly, že umí pomáhat i na operačním sále.
+  year: 1998
+03-25:
+  evergreen: false
+  headline_cs: Vznikla první wiki – web, který edituje každý
+  keywords:
+  - web
+  - internet
+  - programator
+  source_lang: en
+  story_cs: Programátor Ward Cunningham spustil první wiki stránku WikiWikiWeb. Nápad nechat návštěvníky upravovat obsah později inspiroval i Wikipedii.
+  year: 1995
+03-26:
+  evergreen: false
+  headline_cs: Narodil se Larry Page, spoluzakladatel Googlu
+  keywords:
+  - internet
+  - web
+  - algoritmus
+  source_lang: en
+  story_cs: Narodil se Larry Page, počítačový vědec, který spolu se Sergeyem Brinem založil Google. Jejich vyhledávač začínal v garáži a dnes bez něj neuděláme ani krok po webu.
+  year: 1973
+03-27:
+  evergreen: false
+  headline_cs: Narodila se Margaret Butler, průkopnice programování
+  keywords:
+  - programator
+  - pocitac
+  source_lang: en
+  story_cs: Narodila se Margaret K. Butler, americká matematička a programátorka počítačových pionýrských dob. Kódovala pro první elektronkové stroje v době, kdy počítač zabíral celou místnost.
+  year: 1924
+03-28:
+  evergreen: false
+  headline_cs: Škoda si plácla s Volkswagenem a vyrazila do světa
+  keywords:
+  - procesor
+  source_lang: cs
+  story_cs: Česká vláda a Volkswagen podepsaly smlouvu o vstupu německého koncernu do Škody. Z mladoboleslavské automobilky se tak začala rodit globální značka plná moderní elektroniky.
+  year: 1991
+03-29:
+  evergreen: false
+  headline_cs: Steinitz se stal prvním mistrem světa v šachu
+  keywords:
+  - algoritmus
+  - videohra
+  - pocitac
+  source_lang: cs
+  story_cs: Wilhelm Steinitz porazil Johannese Zukertorta a stal se historicky prvním šachovým mistrem světa. Šachy jsou vlastně nejstarší strategická hra, kterou dnes drtí i počítačové algoritmy.
+  year: 1886
+03-30:
+  evergreen: false
+  headline_cs: Gauss dokázal, že sedmnáctiúhelník jde sestrojit pravítkem a kružítkem
+  keywords:
+  - algoritmus
+  - kalkulacka
+  source_lang: cs
+  story_cs: Mladičký Carl Friedrich Gauss dokázal, že pravidelný sedmnáctiúhelník lze sestrojit jen pravítkem a kružítkem. Na tenhle geometrický kousek čekalo lidstvo přes dva tisíce let.
+  year: 1796
+03-31:
+  evergreen: false
+  headline_cs: 'UNIVAC I: první komerční počítač dorazil k zákazníkovi'
+  keywords:
+  - computer
+  - pocitac
+  source_lang: en
+  story_cs: Remington Rand dodal první počítač UNIVAC I americkému sčítacímu úřadu. Počítače tím vykročily z laboratoří do světa skutečné práce.
+  year: 1951
+04-01:
+  evergreen: false
+  headline_cs: Dva Stevové zakládají firmu, která změní svět
+  keywords:
+  - apple
+  - pocitac
+  - computer
+  source_lang: en
+  story_cs: Steve Jobs a Steve Wozniak založili Apple Computer, Inc. Z garážového projektu se stala jedna z nejikoničtějších technologických značek historie.
+  year: 1976
+04-02:
+  evergreen: false
+  headline_cs: Den, kdy Google pohřbil vlastní sociální síť
+  keywords:
+  - internet
+  - web
+  source_lang: cs
+  story_cs: Google ukončil provoz sociální sítě Google+. Ani internetový gigant zkrátka nevyhraje každou bitvu o naši pozornost.
+  year: 2019
+04-03:
+  evergreen: false
+  headline_cs: Soud rozhodl, že Microsoft porušil pravidla hry
+  keywords:
+  - microsoft
+  - windows
+  - internet
+  - software
+  source_lang: en
+  story_cs: Microsoft byl v USA shledán vinným z porušení antimonopolního práva kvůli přibalování Internet Exploreru k Windows. Jeden z nejslavnějších soudních sporů v dějinách softwaru.
+  year: 2000
+04-04:
+  evergreen: false
+  headline_cs: Gates a Allen startují Microsoft kvůli jednomu interpretu
+  keywords:
+  - microsoft
+  - software
+  - programator
+  source_lang: en
+  story_cs: Bill Gates a Paul Allen založili v Albuquerque Microsoft, aby vyvíjeli a prodávali interprety BASICu pro Altair 8800. Zbytek je softwarová historie.
+  year: 1975
+04-05:
+  evergreen: false
+  headline_cs: Den prvního kontaktu slaví trekkies po celém světě
+  keywords:
+  - televize
+  - monitor
+  source_lang: fill
+  story_cs: Podle ságy Star Trek se právě 5. dubna lidstvo poprvé setká s Vulkánci. Fanoušci sci-fi si tak dnes připomínají Den prvního kontaktu – klidně u seriálového maratonu.
+  year: 2063
+04-06:
+  evergreen: false
+  headline_cs: Pioneer 11 vyrazil na výlet, ze kterého se nevrací
+  keywords:
+  - pocitac
+  - kalkulacka
+  source_lang: cs
+  story_cs: NASA vypustila sondu Pioneer 11, která jako první proletěla kolem Saturnu. Dnes tiše míří mezihvězdným prostorem – a to všechno s výpočetním výkonem slabším než vaše kalkulačka.
+  year: 1973
+04-07:
+  evergreen: false
+  headline_cs: Symbolické narozeniny internetu slaví dokument RFC 1
+  keywords:
+  - internet
+  - arpanet
+  - network
+  source_lang: en
+  story_cs: Publikace RFC 1 se považuje za symbolické datum zrodu internetu. Celá dnešní síť tak vlastně začala obyčejným textovým dokumentem.
+  year: 1969
+04-08:
+  evergreen: false
+  headline_cs: Grace Hopper a spol. vymýšlejí jazyk pro byznys
+  keywords:
+  - programator
+  - software
+  - computer
+  source_lang: en
+  story_cs: Tým kolem Grace Hopper se sešel, aby navrhl nový programovací jazyk pro byznys – budoucí COBOL. Některé jeho řádky běží v bankách dodnes.
+  year: 1959
+04-09:
+  evergreen: false
+  headline_cs: Narodil se muž, který naučil fotky běhat
+  keywords:
+  - televize
+  - monitor
+  source_lang: cs
+  story_cs: Narodil se Eadweard Muybridge, fotograf, jenž sérií snímků cválajícího koně předznamenal film. Bez jeho pokusů s pohyblivým obrazem by dnes nebylo kino ani vaše oblíbené video.
+  year: 1830
+04-10:
+  evergreen: false
+  headline_cs: První telefonní linka v Čechách spojila důl s nádražím
+  keywords:
+  - telefon
+  source_lang: cs
+  story_cs: V Čechách zahájila provoz první telefonní linka mezi dolem Hartmann v Ledvicích a nádražím v Duchcově. Česká telekomunikace tedy začala pěkně po hornicku.
+  year: 1881
+04-11:
+  evergreen: false
+  headline_cs: Do prodeje jde legendární Apple I
+  keywords:
+  - apple
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: Byl zahájen prodej počítače Apple I, prvního stroje mladičkého Applu. Dnes je z něj sběratelský poklad astronomické hodnoty.
+  year: 1976
+04-12:
+  evergreen: false
+  headline_cs: Gagarin obletěl Zemi a odstartoval vesmírný věk
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: fill
+  story_cs: Jurij Gagarin se stal prvním člověkem ve vesmíru a za 108 minut obletěl celou planetu. Jeho Vostok 1 měl méně elektroniky než dnešní chytré hodinky.
+  year: 1961
+04-13:
+  evergreen: false
+  headline_cs: První satelitní navigace odstartovala dávno před GPS
+  keywords:
+  - network
+  - smartphone
+  source_lang: en
+  story_cs: USA vypustily družici Transit 1-B, základ prvního satelitního navigačního systému na světě. Než vás navigace poprvé poslala do pole, musela nejdřív do vesmíru.
+  year: 1960
+04-14:
+  evergreen: false
+  headline_cs: Lidstvo dočetlo vlastní návod k použití
+  keywords:
+  - pocitac
+  - storage
+  source_lang: fill
+  story_cs: Vědci oznámili dokončení projektu lidského genomu – přečtení kompletní DNA člověka. Bez armády výkonných počítačů by luštění tří miliard písmen trvalo staletí.
+  year: 2003
+04-15:
+  evergreen: false
+  headline_cs: Narodil se Leonardo, vynálezce s náskokem pěti století
+  keywords:
+  - pocitac
+  source_lang: fill
+  story_cs: Ve Vinci se narodil Leonardo da Vinci, malíř a geniální vynálezce. Kreslil létající stroje i mechanické roboty dávno předtím, než existovalo slovo inženýr.
+  year: 1452
+04-16:
+  evergreen: false
+  headline_cs: Narodil se Wilbur Wright, půlka dua, co naučilo lidstvo létat
+  keywords:
+  - videohra
+  - pocitac
+  source_lang: fill
+  story_cs: Narodil se Wilbur Wright, který se svým bratrem Orvillem sestrojil první úspěšné motorové letadlo. Dnes si jejich řemeslo můžete zkusit aspoň v leteckém simulátoru.
+  year: 1867
+04-17:
+  evergreen: false
+  headline_cs: Kepler našel první planetu velkou jako Země v obyvatelné zóně
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: en
+  story_cs: Vesmírný teleskop Kepler agentury NASA potvrdil objev Kepler-186f, první planety zemské velikosti v obyvatelné zóně cizí hvězdy. Objevila ji vlastně hromada dat a počítačů.
+  year: 2014
+04-18:
+  evergreen: false
+  headline_cs: Narodil se Andrew Ng, muž, který učí stroje myslet
+  keywords:
+  - algoritmus
+  - gpu
+  - programator
+  source_lang: en
+  story_cs: Narodil se Andrew Ng, průkopník umělé inteligence a spoluzakladatel projektu Google Brain. Jeho online kurzy strojového učení nastartovaly kariéru milionům programátorů.
+  year: 1976
+04-19:
+  evergreen: false
+  headline_cs: Vrtulníček Ingenuity zvládl první let na Marsu
+  keywords:
+  - procesor
+  - software
+  source_lang: cs
+  story_cs: Na Marsu poprvé vzlétl autonomní vrtulník Ingenuity od NASA. Malý stroj poháněný běžným mobilním procesorem dokázal, že létat se dá i v atmosféře cizí planety.
+  year: 2021
+04-20:
+  evergreen: false
+  headline_cs: Manželé Curieovi ukázali světu čisté radium
+  keywords:
+  - monitor
+  - displej
+  source_lang: fill
+  story_cs: Marie a Pierre Curieovi oznámili, že se jim podařilo izolovat radium. Zářící prvek odstartoval éru moderní fyziky – a Marie za něj později získala druhou Nobelovku.
+  year: 1902
+04-21:
+  evergreen: false
+  headline_cs: Phonofilm dostal zvuk a obraz na jeden pás
+  keywords:
+  - audio
+  source_lang: cs
+  story_cs: Lee de Forest oznámil vynález Phonofilmu, který spojil film a zvuk na jednom celuloidovém pásu. Velký krok k tomu, aby kino konečně promluvilo.
+  year: 1919
+04-22:
+  evergreen: false
+  headline_cs: Narodil se Jeff Minter, psychedelický guru videoher
+  keywords:
+  - videohra
+  - atari
+  - commodore
+  source_lang: en
+  story_cs: Narodil se Jeff Minter, legendární britský herní vývojář a autor kultovních titulů jako Tempest 2000. Jeho lamy a bizarní vizuály baví hráče už od dob osmibitů.
+  year: 1962
+04-23:
+  evergreen: false
+  headline_cs: Startuje prodej kultovního ZX Spectrum
+  keywords:
+  - pocitac
+  - videohra
+  - klavesnice
+  source_lang: cs
+  story_cs: Začal se prodávat počítač Sinclair ZX Spectrum. Malý gumový klávesničák přivedl k počítačům a hrám celou generaci nadšenců.
+  year: 1982
+04-24:
+  evergreen: false
+  headline_cs: Microsoft posílá do světa Windows Server 2003
+  keywords:
+  - microsoft
+  - windows
+  - software
+  source_lang: cs
+  story_cs: Microsoft vydal Windows Server 2003. Systém, který léta tiše dřel v serverovnách firem po celém světě.
+  year: 2003
+04-25:
+  evergreen: false
+  headline_cs: Noyce si nechal patentovat integrovaný obvod
+  keywords:
+  - chip
+  - procesor
+  - intel
+  source_lang: cs
+  story_cs: Robert Noyce, pozdější spoluzakladatel Intelu, získal patent na integrovaný obvod. Právě tenhle vynález zmenšil počítače z celých místností na čip menší než nehet.
+  year: 1961
+04-26:
+  evergreen: false
+  headline_cs: Virus CIH udeřil a položil statisíce počítačů
+  keywords:
+  - virus
+  - pocitac
+  - cyber
+  source_lang: en
+  story_cs: Masivně se aktivoval počítačový virus CIH, který poškodil stovky tisíc počítačů. Škody šly do stovek milionů dolarů – dobrá připomínka, proč zálohovat.
+  year: 1999
+04-27:
+  evergreen: false
+  headline_cs: Narodil se Morse, otec teček a čárek
+  keywords:
+  - radio
+  - network
+  source_lang: cs
+  story_cs: Narodil se Samuel Morse, vynálezce telegrafní abecedy z teček a čárek. Jeho kód byl vlastně první celosvětová datová síť – a ještě dnes zní jako SOS.
+  year: 1791
+04-28:
+  evergreen: false
+  headline_cs: Narodil se Ian Murdock, táta Debianu
+  keywords:
+  - linux
+  - software
+  - programator
+  source_lang: cs
+  story_cs: Narodil se Ian Murdock, programátor a zakladatel linuxové distribuce Debian. Na jeho práci dodnes stojí obrovská část serverů i populární Ubuntu.
+  year: 1973
+04-29:
+  evergreen: false
+  headline_cs: Turecko zablokovalo celou Wikipedii
+  keywords:
+  - internet
+  - web
+  source_lang: cs
+  story_cs: Turecký internetový regulátor zablokoval přístup na všechny jazykové verze Wikipedie. Připomínka, že svobodný internet není samozřejmost.
+  year: 2017
+04-30:
+  evergreen: false
+  headline_cs: CERN daroval web celému světu zdarma
+  keywords:
+  - www
+  - web
+  - internet
+  source_lang: en
+  story_cs: CERN oznámil, že protokoly World Wide Webu budou volně dostupné zdarma. Bez tohoto rozhodnutí by dnešní internet vypadal úplně jinak.
+  year: 1993
+05-01:
+  evergreen: false
+  headline_cs: Den, kdy se zrodil věčný vyzyvatel Intelu
+  keywords:
+  - amd
+  - procesor
+  - cpu
+  - chip
+  source_lang: cs
+  story_cs: V roce 1969 byla založena americká hardwarová firma Advanced Micro Devices, kterou dnes všichni známe jako AMD. Bez tohoto souboje o výkon by dnešní procesory nebyly tam, kde jsou.
+  year: 1969
+05-02:
+  evergreen: false
+  headline_cs: Přesná navigace přestala být jen pro armádu
+  keywords:
+  - mobil
+  - smartphone
+  source_lang: cs
+  story_cs: Prezident Bill Clinton oznámil, že přístup k systému GPS už nebude omezen jen na americkou armádu. Přesná poloha se tak otevřela civilnímu světu a dnes ji máme v každém mobilu.
+  year: 2000
+05-03:
+  evergreen: false
+  headline_cs: První spam v historii dorazil dřív než e-mailová etiketa
+  keywords:
+  - internet
+  - arpanet
+  - network
+  source_lang: en
+  story_cs: Marketér z Digital Equipment Corporation rozeslal první nevyžádaný hromadný komerční e-mail uživatelům sítě ARPANET. Zrodil se tak spam, fenomén, který nás v e-mailových schránkách straší dodnes.
+  year: 1978
+05-04:
+  evergreen: false
+  headline_cs: May the 4th be with you, ať vás provází Síla
+  keywords:
+  - videohra
+  - konzole
+  - playstation
+  source_lang: fill
+  story_cs: Čtvrtý květen patří fanouškům Star Wars po celém světě – slovní hříčka „May the fourth“ z něj udělala neoficiální svátek galaxie. Ideální den zapnout konzoli a vydat se do vzdálené galaxie.
+  year: null
+05-05:
+  evergreen: false
+  headline_cs: Apple II odstartoval éru počítačů pro každého
+  keywords:
+  - apple
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: Na pulty amerických obchodů se dostal Apple II, první sériově vyráběný počítač. Počítač přestal být hračkou pro laboratoře a začal se stěhovat do domácností.
+  year: 1977
+05-06:
+  evergreen: false
+  headline_cs: Barevný iMac ukázal, že počítač může být krásný
+  keywords:
+  - apple
+  - macintosh
+  - pocitac
+  source_lang: en
+  story_cs: Steve Jobs představil první iMac, osobní počítač iMac G3. Stroj, který pomohl Applu vrátit se na výsluní a dokázal, že design u počítačů rozhoduje.
+  year: 1998
+05-07:
+  evergreen: false
+  headline_cs: Nápad, na kterém stojí všechny moderní počítače
+  keywords:
+  - chip
+  - procesor
+  - pocitac
+  source_lang: cs
+  story_cs: Geoffrey Dummer poprvé publikoval koncept integrovaného obvodu. Právě na této myšlence dnes stojí každý čip ve vašem počítači i telefonu.
+  year: 1952
+05-08:
+  evergreen: false
+  headline_cs: Narodil se muž, který naučil počítače kreslit filmy
+  keywords:
+  - graficka
+  - gpu
+  - turing
+  - pocitac
+  source_lang: en
+  story_cs: Pat Hanrahan, průkopník počítačové grafiky a držitel Turingovy ceny, stál u zrodu renderovacích technologií Pixaru. Bez jeho práce by dnešní animáky ani herní grafika nevypadaly tak, jak je známe.
+  year: 1955
+05-09:
+  evergreen: false
+  headline_cs: Šéf FCC nazval televizi obrovskou pustinou
+  keywords:
+  - televize
+  source_lang: en
+  story_cs: Newton Minow, předseda americké komise FCC, v projevu k vysílatelům označil komerční televizní program za obrovskou pustinu. Debata o kvalitě obsahu na obrazovkách tedy rozhodně není vynálezem dneška.
+  year: 1961
+05-10:
+  evergreen: false
+  headline_cs: Narodil se konstruktér, který stavěl sovětské superpočítače
+  keywords:
+  - pocitac
+  - procesor
+  - computer
+  source_lang: cs
+  story_cs: Michail Karcev zasvětil život návrhu počítačové techniky a jeho stroje patřily k nejvýkonnějším své doby. Připomínka, že cesta k dnešním procesorům vedla přes obří sály plné elektroniky.
+  year: 1923
+05-11:
+  evergreen: false
+  headline_cs: Počítač poprvé sesadil šachového krále
+  keywords:
+  - pocitac
+  - computer
+  - algoritmus
+  source_lang: cs
+  story_cs: Superpočítač Deep Blue porazil Garryho Kasparova v poslední odvetné partii. Stal se tak prvním počítačem, který zdolal nejlepšího šachistu světa, a stroje si připsaly historický bod.
+  year: 1997
+05-12:
+  evergreen: false
+  headline_cs: WannaCry zablokoval statisíce počítačů po celém světě
+  keywords:
+  - virus
+  - hacker
+  - cyber
+  source_lang: en
+  story_cs: Ransomware WannaCry zasáhl přes 400 000 počítačů, včetně systémů britského zdravotnictví NHS a Telefóniky. Jeden z největších kyberútoků historie připomněl, proč se aktualizace nemají odkládat.
+  year: 2017
+05-13:
+  evergreen: false
+  headline_cs: Kostičkový fenomén Minecraft spatřil světlo světa
+  keywords:
+  - videohra
+  - pocitac
+  source_lang: cs
+  story_cs: V roce 2009 vznikla populární počítačová hra Minecraft. Z kostičkového světa se stal jeden z největších herních fenoménů vůbec.
+  year: 2009
+05-14:
+  evergreen: false
+  headline_cs: Narodil se Mark Zuckerberg, kluk co propojil svět
+  keywords:
+  - internet
+  - web
+  - programator
+  source_lang: en
+  story_cs: Zakladatel Facebooku začínal s kódem na koleji v Harvardu a skončil se sociální sítí pro miliardy lidí. Programátorská legenda, která navždy změnila internet.
+  year: 1984
+05-15:
+  evergreen: false
+  headline_cs: Narodila se Ida Rhodes, průkopnice programování
+  keywords:
+  - programator
+  - software
+  - pocitac
+  source_lang: en
+  story_cs: Ida Rhodes patřila k prvním programátorkám vůbec a pomáhala navrhovat software pro rané americké počítače. Psala kód v době, kdy počítač zabíral celou místnost.
+  year: 1900
+05-16:
+  evergreen: false
+  headline_cs: Tesla představil plán na střídavý proud pro celý svět
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: Nikola Tesla na slavné přednášce popsal zařízení pro efektivní výrobu a přenos střídavého proudu na dlouhé vzdálenosti. Právě díky tomu dnes bez starostí zapojíte počítač i monitor do zásuvky.
+  year: 1888
+05-17:
+  evergreen: false
+  headline_cs: Antický počítač vylovený z mořského dna
+  keywords:
+  - pocitac
+  - computer
+  - kalkulacka
+  source_lang: en
+  story_cs: Řecký archeolog Valerios Stais objevil mechanismus z Antikythéry, starověký mechanický analogový počítač. Ukázalo se, že chuť počítat pomocí strojů měli lidé už v antice.
+  year: 1902
+05-18:
+  evergreen: false
+  headline_cs: Amerika zažalovala Microsoft v obřím antimonopolním sporu
+  keywords:
+  - microsoft
+  - windows
+  - software
+  source_lang: cs
+  story_cs: Ministerstvo spravedlnosti USA a 20 amerických států zahájily protimonopolní soudní spor proti Microsoftu. Jeden z nejslavnějších soudních příběhů technologického světa byl na světě.
+  year: 1998
+05-19:
+  evergreen: false
+  headline_cs: Narodil se James Gosling, otec programovacího jazyka Java
+  keywords:
+  - programator
+  - software
+  - computer
+  source_lang: cs
+  story_cs: Kanadský programátor stvořil Javu, jazyk, který dodnes pohání miliardy zařízení od serverů po chytré karty. Šálek kávy v jejím logu není náhoda – bez kofeinu se nekóduje.
+  year: 1955
+05-20:
+  evergreen: false
+  headline_cs: Edison poprvé ukázal kinetoskop, pradědečka všech obrazovek
+  keywords:
+  - monitor
+  - displej
+  - televize
+  source_lang: en
+  story_cs: Thomas Edison veřejně předvedl prototyp kinetoskopu, přístroje na sledování pohyblivých obrázků. Od kukátka v dřevěné skříni jsme to dotáhli k 4K monitorům – slušný upgrade.
+  year: 1891
+05-21:
+  evergreen: false
+  headline_cs: Narodil se tvůrce OXO, jedné z prvních videoher
+  keywords:
+  - videohra
+  - pocitac
+  - konzole
+  source_lang: en
+  story_cs: Britský informatik Sandy Douglas navrhl OXO, počítačové piškvorky a jednu z úplně prvních videoher historie. Každá dnešní pařba na konzoli tak trochu začala právě u něj.
+  year: 1921
+05-22:
+  evergreen: false
+  headline_cs: Windows 3.0 naučily svět klikat
+  keywords:
+  - windows
+  - microsoft
+  - software
+  source_lang: cs
+  story_cs: Microsoft vydal operační systém Windows 3.0. Právě tahle verze pomohla dostat okna a klikání na miliony počítačů po celém světě.
+  year: 1990
+05-23:
+  evergreen: false
+  headline_cs: Sun poprvé ukázal světu jazyk Java
+  keywords:
+  - software
+  - programator
+  - pocitac
+  source_lang: cs
+  story_cs: Výrobce počítačů Sun Microsystems v San Jose Mercury News poprvé veřejnosti představil programovací jazyk Java. Zrodil se jazyk, který si programátoři oblíbili na desítky let dopředu.
+  year: 1995
+05-24:
+  evergreen: false
+  headline_cs: Narodil se programátor, který dal Wikipedii její software
+  keywords:
+  - software
+  - programator
+  - internet
+  - web
+  source_lang: en
+  story_cs: Magnus Manske, biochemik a programátor, vyvinul MediaWiki – software, na kterém běží Wikipedie. Díky němu má celý internet encyklopedii na jeden klik.
+  year: 1974
+05-25:
+  evergreen: false
+  headline_cs: Kennedy vyhlásil program Apollo, závod o Měsíc začal
+  keywords:
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: Americký prezident Kennedy oznámil cíl dopravit člověka na Měsíc a bezpečně zpět na Zemi. Zrodil se program Apollo – a s ním obří skok i pro počítačové technologie.
+  year: 1961
+05-26:
+  evergreen: false
+  headline_cs: Narodil se Ward Cunningham, vynálezce wiki
+  keywords:
+  - web
+  - internet
+  - programator
+  source_lang: en
+  story_cs: Americký programátor Ward Cunningham vytvořil první wiki – web, který mohl upravovat kdokoli. Bez jeho nápadu by nebyla Wikipedie ani půlka dnešního internetu.
+  year: 1949
+05-27:
+  evergreen: false
+  headline_cs: Narodil se Craig Federighi, softwarový šéf Applu
+  keywords:
+  - apple
+  - iphone
+  - software
+  - macintosh
+  source_lang: en
+  story_cs: Craig Federighi, informatik a inženýr, dnes řídí vývoj softwaru v Applu včetně systémů pro Mac a iPhone. Jeho keynote vystoupení baví techstack fanoušky po celém světě.
+  year: 1969
+05-28:
+  evergreen: false
+  headline_cs: Turing poslal do tisku základní kámen informatiky
+  keywords:
+  - turing
+  - algoritmus
+  - pocitac
+  source_lang: en
+  story_cs: Alan Turing odeslal k publikaci svou práci On Computable Numbers. Text, který položil teoretické základy všeho, čemu dnes říkáme počítače.
+  year: 1936
+05-29:
+  evergreen: false
+  headline_cs: Narodil se GeT_RiGhT, legenda Counter-Striku
+  keywords:
+  - videohra
+  - mys
+  - pocitac
+  source_lang: cs
+  story_cs: Švédský profesionální hráč Christopher Alesund se proslavil v herní sérii Counter-Strike a patří k ikonám esportu. Důkaz, že i klikání myší může být vrcholový sport.
+  year: 1990
+05-30:
+  evergreen: false
+  headline_cs: Narodila se Marissa Mayer, tvář raného Googlu
+  keywords:
+  - internet
+  - web
+  - software
+  source_lang: en
+  story_cs: Americká informatička Marissa Mayer patřila k prvním inženýrům Googlu a později vedla Yahoo. Spoluutvářela podobu vyhledávání, které dnes všichni bereme jako samozřejmost.
+  year: 1975
+05-31:
+  evergreen: false
+  headline_cs: Narodil se Jay Miner, otec legendárního Amiga hardwaru
+  keywords:
+  - chip
+  - atari
+  - pocitac
+  - commodore
+  source_lang: en
+  story_cs: Americký inženýr Jay Miner navrhl čipy, které pohánaly kultovní počítače Atari a Amiga. Jeho křemíkové kouzlení odstartovalo éru domácího hraní i multimédií.
+  year: 1932
+06-01:
+  evergreen: false
+  headline_cs: Edison si nechal patentovat volební stroj
+  keywords:
+  - pocitac
+  source_lang: cs
+  story_cs: Thomas Alva Edison získal svůj vůbec první patent – na elektrický volební stroj. Politiky tehdy nezaujal, ale nastartoval kariéru největšího vynálezce své doby.
+  year: 1869
+06-02:
+  evergreen: false
+  headline_cs: Marconi si nechal patentovat rádio
+  keywords:
+  - radio
+  - audio
+  source_lang: cs
+  story_cs: Guglielmo Marconi získal patent na svůj nejnovější vynález – rádio. Bezdrátový přenos tehdy zněl jako kouzlo, dnes je základem všeho od wifi po vaše sluchátka.
+  year: 1896
+06-03:
+  evergreen: false
+  headline_cs: První Američan se prošel vesmírem
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: en
+  story_cs: Odstartovala mise Gemini 4, první vícedenní americký let do vesmíru. Astronaut Ed White během ní absolvoval historicky první americkou procházku volným kosmem.
+  year: 1965
+06-04:
+  evergreen: false
+  headline_cs: Henry Ford poprvé nastartoval svůj Quadricycle
+  keywords:
+  - videohra
+  source_lang: cs
+  story_cs: Henry Ford dokončil a otestoval svůj úplně první automobil, čtyřkolku Quadricycle. Z garážového projektu se nakonec zrodilo impérium, které změnilo dopravu navždy.
+  year: 1896
+06-05:
+  evergreen: false
+  headline_cs: Nintendo Switch 2 dorazil do světa
+  keywords:
+  - nintendo
+  - konzole
+  - videohra
+  source_lang: en
+  story_cs: Herní konzole Nintendo Switch 2 vyšla celosvětově v jediný den. Fanoušci si tak konečně sáhli na nástupce jedné z nejoblíbenějších konzolí historie.
+  year: 2025
+06-06:
+  evergreen: false
+  headline_cs: V Moskvě se zrodil Tetris
+  keywords:
+  - videohra
+  - pocitac
+  source_lang: fill
+  story_cs: Programátor Alexej Pažitnov dokončil první verzi Tetrisu na počítači Elektronika 60. Skládání kostiček se stalo jednou z nejprodávanějších videoher všech dob.
+  year: 1984
+06-07:
+  evergreen: false
+  headline_cs: Československo dostalo oficiální rozhlasové zpravodajství
+  keywords:
+  - radio
+  - audio
+  source_lang: cs
+  story_cs: Bylo oficiálně ustanoveno Československé zpravodajství radiotelefonické. Éter se u nás rozezněl mezi prvními v Evropě a rádio se stalo hitem domácností.
+  year: 1923
+06-08:
+  evergreen: false
+  headline_cs: Děrné štítky odstartovaly éru počítání strojem
+  keywords:
+  - kalkulacka
+  - computer
+  source_lang: en
+  story_cs: Herman Hollerith podal patent na „umění sestavování statistik“ – svou kalkulačku na děrné štítky. Právě z tohoto nápadu později vyrostl celý svět výpočetní techniky.
+  year: 1887
+06-09:
+  evergreen: false
+  headline_cs: Narodil se Les Paul, otec elektrické kytary
+  keywords:
+  - audio
+  - sluchatka
+  source_lang: cs
+  story_cs: Narodil se Les Paul, jazzový kytarista a vynálezce, který stál u zrodu elektrické kytary. Jeho jméno dodnes nese legendární model, na který hrají hvězdy po celém světě.
+  year: 1915
+06-10:
+  evergreen: false
+  headline_cs: Rover Spirit vyrazil na cestu k Marsu
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: NASA vypustila sondu Spirit a zahájila misi Mars Exploration Rover. Robotický průzkumník plánovaný na 90 dní nakonec po rudé planetě brázdil přes šest let.
+  year: 2003
+06-11:
+  evergreen: false
+  headline_cs: 'Největší techno nákup: Compaq spolkl Digital'
+  keywords:
+  - computer
+  - pocitac
+  source_lang: en
+  story_cs: Compaq Computer zaplatil 9 miliard dolarů za Digital Equipment Corporation. Šlo o největší akvizici v historii high-tech branže – počítačový byznys ukázal, jak velká hra to je.
+  year: 1998
+06-12:
+  evergreen: false
+  headline_cs: Narodil se spolutvůrce prohlížeče Firefox
+  keywords:
+  - internet
+  - web
+  - software
+  source_lang: en
+  story_cs: Narodil se Blake Ross, programátor, který spoluvytvořil prohlížeč Mozilla Firefox. Na projektu začal pracovat už jako teenager a pomohl rozhýbat souboj prohlížečů.
+  year: 1985
+06-13:
+  evergreen: false
+  headline_cs: Narodil se muž, který pomohl zrodit internet
+  keywords:
+  - arpanet
+  - internet
+  source_lang: en
+  story_cs: Narodil se Leonard Kleinrock, počítačový vědec a průkopník sítě ARPANET. Z jeho laboratoře byla odeslána první zpráva mezi počítači, předchůdce dnešního internetu.
+  year: 1934
+06-14:
+  evergreen: false
+  headline_cs: Babbage dokončil první mechanický počítač světa
+  keywords:
+  - pocitac
+  - computer
+  - kalkulacka
+  source_lang: cs
+  story_cs: Matematik Charles Babbage dokončil konstrukci diferenčního stroje, prvního mechanického počítače na světě. Poháněl ho hodinový stroj – žádná elektřina, a přesto počítal.
+  year: 1822
+06-15:
+  evergreen: false
+  headline_cs: Kuličkové pero dostalo patent
+  keywords:
+  - klavesnice
+  source_lang: cs
+  story_cs: Novinář László Bíró získal britský patent na kuličkové pero, které vynalezl o sedm let dříve. Než přišly klávesnice, byl to největší upgrade psaní v historii.
+  year: 1938
+06-16:
+  evergreen: false
+  headline_cs: Narodil se modrý obr jménem IBM
+  keywords:
+  - ibm
+  - computer
+  - pocitac
+  source_lang: cs
+  story_cs: V tento den byla založena technologická společnost IBM. Firma, která později spoluutvářela dějiny počítačů, tak slaví narozeniny už přes sto let.
+  year: 1911
+06-17:
+  evergreen: false
+  headline_cs: Narodila se vynálezkyně sušenky s kousky čokolády
+  keywords:
+  - web
+  - internet
+  source_lang: en
+  story_cs: Narodila se Ruth Wakefieldová, kuchařka, která vymyslela sušenku s kousky čokolády. Původní cookies tedy chutnaly mnohem líp než ty, které odklikáváte na webu.
+  year: 1903
+06-18:
+  evergreen: false
+  headline_cs: NASA vyslala sondu mapovat Měsíc
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: en
+  story_cs: Odstartovala robotická sonda Lunar Reconnaissance Orbiter od NASA. Její detailní snímky měsíčního povrchu pomáhají plánovat návrat lidí na Měsíc.
+  year: 2009
+06-19:
+  evergreen: false
+  headline_cs: Street View konečně zmapoval skoro celé Čechy
+  keywords:
+  - internet
+  - web
+  source_lang: cs
+  story_cs: Google Maps vydaly nové snímky ve službě Street View a pokrytí Čech bylo najednou téměř kompletní. Procházka vlastní ulicí přes internet? Od toho dne samozřejmost.
+  year: 2012
+06-20:
+  evergreen: false
+  headline_cs: Bell zapojil první komerční telefonní síť
+  keywords:
+  - telefon
+  - smartphone
+  - network
+  source_lang: cs
+  story_cs: Alexander Graham Bell instaloval první komerční telefonní síť v kanadském Hamiltonu v Ontariu. Od tohohle okamžiku vedla přímá linka až k dnešním smartphonům.
+  year: 1877
+06-21:
+  evergreen: false
+  headline_cs: První program uložený v paměti se rozběhl
+  keywords:
+  - pocitac
+  - pamet
+  - software
+  - computer
+  source_lang: cs
+  story_cs: Na počítači Manchester Mark I běžel poprvé počítačový program uložený v paměti. Přesně tenhle princip pohání každý dnešní počítač, mobil i konzoli.
+  year: 1948
+06-22:
+  evergreen: false
+  headline_cs: Quake vtrhl na monitory a změnil střílečky
+  keywords:
+  - videohra
+  - pocitac
+  - software
+  source_lang: cs
+  story_cs: Vyšla počítačová hra Quake. Legenda mezi střílečkami, na kterou dodnes s láskou vzpomíná každý, kdo v devadesátkách seděl u počítače.
+  year: 1996
+06-23:
+  evergreen: false
+  headline_cs: IBM oddělila software od hardwaru a zrodil se průmysl
+  keywords:
+  - ibm
+  - software
+  source_lang: en
+  story_cs: IBM oznámila, že od ledna 1970 bude účtovat software a služby zvlášť od hardwaru. Tímhle krokem prakticky vznikl moderní softwarový průmysl.
+  year: 1969
+06-24:
+  evergreen: false
+  headline_cs: Televize odvysílala první western
+  keywords:
+  - televize
+  source_lang: en
+  story_cs: Stanice NBC odvysílala první televizní western Hopalong Cassidy s Williamem Boydem. Kovbojky se okamžitě staly hitem a ovládly obrazovky na dlouhé roky.
+  year: 1949
+06-25:
+  evergreen: false
+  headline_cs: Windows 98 dorazily na naše počítače
+  keywords:
+  - windows
+  - microsoft
+  - software
+  - pocitac
+  source_lang: cs
+  story_cs: Microsoft vydal Windows 98. Pro celou generaci to byl systém, na kterém se poprvé hrálo, brouzdalo a padalo do modré obrazovky.
+  year: 1998
+06-26:
+  evergreen: false
+  headline_cs: Shockley podal patent na tranzistor, srdce elektroniky
+  keywords:
+  - tranzistor
+  - chip
+  - procesor
+  source_lang: en
+  story_cs: William Shockley podal původní patent na první bipolární tranzistor. Malinká součástka, bez které by dnes nefungoval jediný procesor ani chip.
+  year: 1948
+06-27:
+  evergreen: false
+  headline_cs: Malware Petya ochromil weby po celém světě
+  keywords:
+  - cyber
+  - hacker
+  - virus
+  source_lang: en
+  story_cs: Masivní kyberútok malwarem Petya zavalil weby ukrajinských organizací, z útoku byli obviněni ruští vojenští hackeři. Připomínka, že antivirus a zálohy nejsou zbytečný luxus.
+  year: 2017
+06-28:
+  evergreen: false
+  headline_cs: Okopírovat vzhled tabulky? Soud řekl jasné ne
+  keywords:
+  - software
+  source_lang: en
+  story_cs: Firma Paperback Software byla shledána vinnou z porušení autorských práv, protože ve svém tabulkovém programu použila rozhraní Lotusu 1-2-3. I vzhled softwaru má tedy svého majitele.
+  year: 1990
+06-29:
+  evergreen: false
+  headline_cs: Apple pustil do prodeje první iPhone
+  keywords:
+  - iphone
+  - apple
+  - smartphone
+  - telefon
+  source_lang: cs
+  story_cs: Apple z kalifornského Cupertina začal prodávat svůj první mobilní telefon iPhone, zatím jen v USA. Po pořádné reklamní masáži začala revoluce, kterou nosíme v kapse dodnes.
+  year: 2007
+06-30:
+  evergreen: false
+  headline_cs: Narodila se programátorka, která pomohla otevřít unixový svět
+  keywords:
+  - software
+  - programator
+  - pocitac
+  source_lang: en
+  story_cs: Narodila se Lynne Jolitz, americká počítačová vědkyně a programátorka. Spoluvytvořila systém 386BSD, který přinesl unixový systém na běžná PC a inspiroval open source.
+  year: 1961
+07-01:
+  evergreen: false
+  headline_cs: Praha dostala první telefonní seznam
+  keywords:
+  - telefon
+  source_lang: cs
+  story_cs: V Praze vyšel první telefonní seznam s poetickým názvem Abecední seznam dosud ohlášených P.T. abonentů. Kontakty jsme si zkrátka ukládali dřív, než to bylo cool.
+  year: 1883
+07-02:
+  evergreen: false
+  headline_cs: Den, kdy si pára řekla o patent
+  keywords:
+  - procesor
+  source_lang: cs
+  story_cs: Thomas Savery si nechal patentovat první prakticky využitelný parní stroj. Bez podobných vynálezů by dnes nehučel ani jeden herní procesor.
+  year: 1698
+07-03:
+  evergreen: false
+  headline_cs: První opravdové auto vyjelo do světa
+  keywords:
+  - videohra
+  - konzole
+  source_lang: en
+  story_cs: Karl Benz oficiálně představil svůj Patent-Motorwagen, první vůz postavený od začátku jako automobil. Dnes si podobnou jízdu užijete i z gauče v závodní videohře.
+  year: 1886
+07-04:
+  evergreen: false
+  headline_cs: Tranzistor, který odstartoval éru čipů
+  keywords:
+  - tranzistor
+  - chip
+  - procesor
+  source_lang: en
+  story_cs: William Shockley oznámil vynález přechodového tranzistoru, za který s Bardeenem a Brattainem později dostal Nobelovu cenu za fyziku. Bez této součástky by dnes nebyl jediný procesor.
+  year: 1951
+07-05:
+  evergreen: false
+  headline_cs: Sonda Juno doletěla až k obřímu Jupiteru
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: cs
+  story_cs: Sonda Juno po pěti letech letu dorazila k Jupiteru. Její snímky největší planety Sluneční soustavy vypadají nejlépe na pořádném monitoru.
+  year: 2016
+07-06:
+  evergreen: false
+  headline_cs: Den, kdy nás Pokémon Go vyhnal ven
+  keywords:
+  - mobil
+  - videohra
+  - smartphone
+  source_lang: cs
+  story_cs: Vyšla mobilní hra Pokémon Go a lovci pokémonů zaplavili ulice po celém světě. Málokterá hra dostala tolik lidí od monitoru rovnou do parku.
+  year: 2016
+07-07:
+  evergreen: false
+  headline_cs: Microsoft vyladil DOS pro IBM PC
+  keywords:
+  - microsoft
+  - ibm
+  - software
+  source_lang: cs
+  story_cs: Microsoft vydal vylepšený operační systém IBM PC DOS ve verzi 3.2. Žádná okna, žádné myši – jen černá obrazovka a příkazový řádek, na kterém vyrostla celá generace.
+  year: 1986
+07-08:
+  evergreen: false
+  headline_cs: Narodil se František Křižík, český čaroděj elektřiny
+  keywords:
+  - displej
+  - monitor
+  source_lang: cs
+  story_cs: Na svět přišel vynálezce a podnikatel František Křižík, průkopník elektrického osvětlení u nás. Kdyby viděl, jak dnes svítí naše displeje, měl by radost.
+  year: 1847
+07-09:
+  evergreen: false
+  headline_cs: Mario se poprvé ukázal světu
+  keywords:
+  - nintendo
+  - videohra
+  source_lang: en
+  story_cs: Nintendo vydalo arkádovou hru Donkey Kong, ve které debutoval Mario, jedna z nejslavnějších postav herní historie. Instalatér skákal přes sudy a psal se začátek legendy.
+  year: 1981
+07-10:
+  evergreen: false
+  headline_cs: Narodil se Nikola Tesla, génius elektrického věku
+  keywords:
+  - wifi
+  source_lang: cs
+  story_cs: Narodil se Nikola Tesla, fyzik a vynálezce srbského původu, který snil o bezdrátovém přenosu energie. Tak trochu praděda vaší wifi, nemyslíte?
+  year: 1856
+07-11:
+  evergreen: false
+  headline_cs: Windows 98 definitivně odešly do důchodu
+  keywords:
+  - windows
+  - microsoft
+  - software
+  source_lang: cs
+  story_cs: Microsoft ukončil podporu Windows 98, systému vydaného v červnu 1998. Legendární modré obrazovky tak oficiálně odešly do počítačového nebe.
+  year: 2006
+07-12:
+  evergreen: false
+  headline_cs: Narodil se táta legendárního počítače Galaksija
+  keywords:
+  - pocitac
+  - computer
+  source_lang: en
+  story_cs: Narodil se Voja Antonić, konstruktér počítače Galaksija, který si nadšenci mohli sestavit doma podle časopisu. DIY počítač dávno před YouTube návody!
+  year: 1952
+07-13:
+  evergreen: false
+  headline_cs: První konference o umělé inteligenci na světě
+  keywords:
+  - pocitac
+  - computer
+  - algoritmus
+  source_lang: en
+  story_cs: V Dartmouthu odstartoval historicky první workshop věnovaný umělé inteligenci. Dnešní AI boom má kořeny právě v tomhle setkání vědců.
+  year: 1956
+07-14:
+  evergreen: false
+  headline_cs: New Horizons jako první proletěla kolem Pluta
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: cs
+  story_cs: Sonda NASA New Horizons poprvé v historii proletěla kolem trpasličí planety Pluto. Devět let letu za snímky, které stály za každý pixel monitoru.
+  year: 2015
+07-15:
+  evergreen: false
+  headline_cs: Nintendo a Sega vtrhly na konzolový trh
+  keywords:
+  - nintendo
+  - konzole
+  - videohra
+  source_lang: en
+  story_cs: V Japonsku vyšly ve stejný den Famicom od Nintenda a SG-1000 od Segy. Začala tak jedna z nejslavnějších konzolových rivalit historie.
+  year: 1983
+07-16:
+  evergreen: false
+  headline_cs: Narodil se spoluzakladatel Wikipedie Larry Sanger
+  keywords:
+  - internet
+  - web
+  source_lang: en
+  story_cs: Narodil se Larry Sanger, který spoluzaložil Wikipedii. Díky němu má internet místo, kde se dá prokrastinovat a ještě u toho zmoudřet.
+  year: 1968
+07-17:
+  evergreen: false
+  headline_cs: Narodil se Jacquard, děda programování na děrné štítky
+  keywords:
+  - programator
+  - pocitac
+  source_lang: cs
+  story_cs: Narodil se Joseph Marie Jacquard, vynálezce tkalcovského stavu řízeného děrnými štítky. Jeho nápad později inspiroval první počítače – programátoři, klobouk dolů.
+  year: 1752
+07-18:
+  evergreen: false
+  headline_cs: Noyce a Moore zakládají Intel
+  keywords:
+  - intel
+  - procesor
+  - chip
+  source_lang: cs
+  story_cs: Robert Noyce a Gordon Moore založili v kalifornské Santa Claře společnost Intel na výrobu procesorů. Firma, jejíž čipy dodnes pohánějí miliony počítačů, začínala jako malý startup.
+  year: 1968
+07-19:
+  evergreen: false
+  headline_cs: Jedna aktualizace položila počítače po celém světě
+  keywords:
+  - software
+  - cyber
+  - pocitac
+  source_lang: cs
+  story_cs: Špatně provedená aktualizace bezpečnostního softwaru CrowdStrike způsobila výpadky počítačových systémů firem a institucí po celém světě. Jeden vadný update, globální modrá obrazovka.
+  year: 2024
+07-20:
+  evergreen: false
+  headline_cs: Viking 1 měkce dosedl na rudou planetu
+  keywords:
+  - pocitac
+  - pamet
+  source_lang: cs
+  story_cs: Americká sonda Viking 1 přistála na Marsu a poslala první snímky přímo z jeho povrchu. Palubní počítač měl přitom méně paměti než vaše myš.
+  year: 1976
+07-21:
+  evergreen: false
+  headline_cs: Raketoplán Atlantis přistál naposledy
+  keywords:
+  - pocitac
+  - software
+  source_lang: cs
+  story_cs: Přistáním raketoplánu Atlantis skončil legendární program Space Shuttle. Třicet let vesmírných letů, které by nevzlétly bez armády počítačů a softwaru.
+  year: 2011
+07-22:
+  evergreen: false
+  headline_cs: Odstartoval úplně první automobilový závod historie
+  keywords:
+  - videohra
+  - konzole
+  source_lang: cs
+  story_cs: Mezi Paříží a Rouenem proběhl první automobilový závod na světě. Dnes si stejné napětí dopřejete v závodní hře na konzoli, a bez oleje na rukou.
+  year: 1894
+07-23:
+  evergreen: false
+  headline_cs: Čipový gigant Intel čelil žalobě od DEC
+  keywords:
+  - intel
+  - chip
+  - procesor
+  source_lang: en
+  story_cs: Společnost Digital Equipment Corporation podala na výrobce čipů Intel antimonopolní žalobu. I v křemíkovém byznysu se občas bojuje spíš u soudu než v laboratoři.
+  year: 1997
+07-24:
+  evergreen: false
+  headline_cs: Posádka Apolla 11 se vrátila z Měsíce domů
+  keywords:
+  - pocitac
+  - kalkulacka
+  source_lang: fill
+  story_cs: Armstrong, Aldrin a Collins po historické misi Apollo 11 bezpečně přistáli v Tichém oceánu. Navigační počítač lodi měl výkon menší než dnešní kalkulačka.
+  year: 1969
+07-25:
+  evergreen: false
+  headline_cs: Mars se na fotce zatvářil jako lidský obličej
+  keywords:
+  - monitor
+  - graficka
+  source_lang: cs
+  story_cs: Sonda Viking 1 pořídila slavný snímek „Tváře na Marsu“, obyčejného kopce, který díky stínům vypadal jako obličej. Nejslavnější pareidolie zaslouží kvalitní monitor.
+  year: 1976
+07-26:
+  evergreen: false
+  headline_cs: První obžaloba za počítačového červa
+  keywords:
+  - virus
+  - hacker
+  - internet
+  source_lang: en
+  story_cs: Federální porota obžalovala studenta Cornellu Roberta T. Morrise za vypuštění červa Morris. Stal se tak prvním člověkem stíhaným podle nového zákona o počítačové kriminalitě.
+  year: 1989
+07-27:
+  evergreen: false
+  headline_cs: Narodil se Demis Hassabis, mozek za umělou inteligencí
+  keywords:
+  - algoritmus
+  - pocitac
+  - videohra
+  source_lang: en
+  story_cs: Narodil se Demis Hassabis, informatik a spoluzakladatel DeepMind, jehož algoritmy porazily mistry ve hře go. Začínal přitom jako návrhář videoher.
+  year: 1976
+07-28:
+  evergreen: false
+  headline_cs: Narodil se Richard Wright, klávesový mág Pink Floyd
+  keywords:
+  - sluchatka
+  - audio
+  source_lang: en
+  story_cs: Narodil se Richard Wright, klávesista a skladatel skupiny Pink Floyd. Jeho vesmírné plochy z alba The Dark Side of the Moon si zaslouží pořádná sluchátka.
+  year: 1943
+07-29:
+  evergreen: false
+  headline_cs: Windows 10 dorazily, a to zdarma
+  keywords:
+  - windows
+  - microsoft
+  - software
+  source_lang: cs
+  story_cs: Microsoft vydal Windows 10 pro běžné uživatele a majitelé Windows 7 a 8.1 je poprvé dostali zdarma. Upgrade zadarmo? To se nevidí každý den.
+  year: 2015
+07-30:
+  evergreen: false
+  headline_cs: Narodil se Clive Sinclair, otec ZX Spectra
+  keywords:
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: Narodil se britský podnikatel Clive Sinclair, díky němuž se počítač ZX Spectrum dostal do milionů domácností. Pro spoustu lidí to byl úplně první počítač v životě.
+  year: 1940
+07-31:
+  evergreen: false
+  headline_cs: Sonda Lunar Prospector zakončila hon na měsíční vodu
+  keywords:
+  - pamet
+  - pocitac
+  - mobil
+  source_lang: en
+  story_cs: NASA plánovaně ukončila misi sondy Lunar Prospector, která hledala zmrzlou vodu na Měsíci. Roky dat o Měsíci se vešly do paměti menší než jedna fotka z mobilu.
+  year: 1999
+08-01:
+  evergreen: false
+  headline_cs: Video killed the radio star odstartovalo éru MTV
+  keywords:
+  - televize
+  - radio
+  source_lang: en
+  story_cs: Americká hudební televize MTV odvysílala svůj úplně první videoklip – Video Killed the Radio Star od The Buggles. Symboličtější start hudební televize si vymyslet nešlo.
+  year: 1981
+08-02:
+  evergreen: false
+  headline_cs: Raketoplán Atlantis vynesl do vesmíru spojovací družici TDRS
+  keywords:
+  - network
+  - router
+  - radio
+  source_lang: en
+  story_cs: Raketoplán Atlantis odstartoval na misi STS-43 a vynesl na oběžnou dráhu družici TDRS-5. Ta pomáhala NASA přenášet data mezi vesmírem a Zemí – takový kosmický router.
+  year: 1991
+08-03:
+  evergreen: false
+  headline_cs: TRS-80 ukázal, že počítač může mít doma každý
+  keywords:
+  - pocitac
+  - computer
+  source_lang: en
+  story_cs: Firma Tandy představila TRS-80, jeden z prvních sériově vyráběných osobních počítačů na světě. Počítače tak přestaly být hračkou laboratoří a vydaly se do obýváků.
+  year: 1977
+08-04:
+  evergreen: false
+  headline_cs: Narodila se Frances Allen, průkopnice překladačů a legenda IBM
+  keywords:
+  - programator
+  - ibm
+  - turing
+  - software
+  source_lang: en
+  story_cs: Frances E. Allen zasvětila kariéru v IBM optimalizaci překladačů, díky nimž běží programy rychleji. Jako první žena v historii získala prestižní Turingovu cenu.
+  year: 1932
+08-05:
+  evergreen: false
+  headline_cs: Bertha Benz vyrazila na první dálkovou jízdu autem
+  keywords:
+  - pocitac
+  source_lang: en
+  story_cs: Bertha Benz ujela 106 km z Mannheimu do Pforzheimu ve voze Benz Patent-Motorwagen – bez navigace i servisu. První road trip historie dokázal světu, že nová technologie funguje.
+  year: 1888
+08-06:
+  evergreen: false
+  headline_cs: Web se poprvé ukázal světu
+  keywords:
+  - www
+  - web
+  - internet
+  source_lang: en
+  story_cs: Tim Berners-Lee zveřejnil pozvánku ke spolupráci na systému propojených hypertextových dokumentů – World Wide Webu. Web se tím poprvé objevil jako veřejně dostupná služba na internetu.
+  year: 1991
+08-07:
+  evergreen: false
+  headline_cs: IBM předala Harvardu první programově řízenou kalkulačku
+  keywords:
+  - ibm
+  - kalkulacka
+  - computer
+  source_lang: en
+  story_cs: IBM slavnostně uvedla Automatic Sequence Controlled Calculator, známý jako Harvard Mark I. Byl to první programově řízený kalkulátor – praprapředek všeho, na čem dnes počítáme.
+  year: 1944
+08-08:
+  evergreen: false
+  headline_cs: Narodil se Ken Kutaragi, otec PlayStationu
+  keywords:
+  - playstation
+  - konzole
+  - videohra
+  source_lang: en
+  story_cs: Japonský inženýr Ken Kutaragi v Sony prosadil vývoj herní konzole PlayStation. Jeho nápad navždy změnil svět videoher a obýváky milionů hráčů.
+  year: 1950
+08-09:
+  evergreen: false
+  headline_cs: Narodil se Marvin Minsky, průkopník umělé inteligence
+  keywords:
+  - pocitac
+  - algoritmus
+  - software
+  source_lang: en
+  story_cs: Americký vědec Marvin Minsky patřil k zakladatelům oboru umělé inteligence a spoluzaložil slavnou AI laboratoř na MIT. Bez jeho myšlenek by dnešní chytré počítače vypadaly úplně jinak.
+  year: 1927
+08-10:
+  evergreen: false
+  headline_cs: Ve Strašnicích se zrodila legendární TESLA
+  keywords:
+  - radio
+  - televize
+  source_lang: cs
+  story_cs: Sloučením desítek znárodněných elektrotechnických podniků vznikl národní podnik TESLA se sídlem ve Strašnicích. Pro generace Čechů se stal synonymem domácí elektroniky.
+  year: 1946
+08-11:
+  evergreen: false
+  headline_cs: 'Praha se poprvé dovolala: ústředna s 11 účastníky'
+  keywords:
+  - telefon
+  source_lang: cs
+  story_cs: V Praze zahájila provoz první telefonní ústředna – první den měla síť jen 11 účastníků, do prosince už 30. Personál se do sluchátka hlásil zvoláním „Ha-he“.
+  year: 1882
+08-12:
+  evergreen: false
+  headline_cs: IBM PC zahájil éru osobních počítačů
+  keywords:
+  - ibm
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: IBM začala prodávat svůj první osobní počítač IBM PC. Právě od něj se odvíjí celá rodina „pécéček“, na kterých dnes pracujeme i hrajeme.
+  year: 1981
+08-13:
+  evergreen: false
+  headline_cs: Narodil se John Logie Baird, vynálezce televize
+  keywords:
+  - televize
+  - displej
+  - monitor
+  source_lang: cs
+  story_cs: Britský vynálezce John Logie Baird jako první na světě předvedl fungující televizní přenos. Každý dnešní monitor i televize tak trochu slaví jeho narozeniny.
+  year: 1888
+08-14:
+  evergreen: false
+  headline_cs: Edisonův fonograf přehrál jednu z prvních nahrávek hudby
+  keywords:
+  - audio
+  - sluchatka
+  source_lang: en
+  story_cs: Na tiskové konferenci v Londýně zazněla nahrávka skladby The Lost Chord – jedna z prvních hudebních nahrávek vůbec. Představila světu Edisonův fonograf, pradědečka všech přehrávačů.
+  year: 1888
+08-15:
+  evergreen: false
+  headline_cs: Apple představil iMac a počítače dostaly barvu
+  keywords:
+  - apple
+  - macintosh
+  - pocitac
+  source_lang: en
+  story_cs: Apple uvedl počítač iMac, který pomohl firmě zpět na výsluní. Stal se jedním z nejikoničtějších strojů v historii osobních počítačů.
+  year: 1998
+08-16:
+  evergreen: false
+  headline_cs: Slunce vypnulo burzu v Torontu
+  keywords:
+  - pocitac
+  - computer
+  source_lang: en
+  story_cs: Sluneční erupce zasáhla počítače torontské burzy a obchodování se muselo zastavit. Ano, i vesmírné počasí umí shodit počítač.
+  year: 1989
+08-17:
+  evergreen: false
+  headline_cs: Sbohem, Internet Explorere
+  keywords:
+  - microsoft
+  - internet
+  - web
+  source_lang: cs
+  story_cs: Microsoft ukončil veškerou podporu prohlížeče Internet Explorer. Legendární modré „e“, se kterým půlka internetu vyrostla, tak definitivně odešlo do důchodu.
+  year: 2021
+08-18:
+  evergreen: false
+  headline_cs: Narodila se Klara Dan von Neumann, programátorka prvních počítačů
+  keywords:
+  - programator
+  - pocitac
+  - software
+  source_lang: en
+  story_cs: Klara Dan von Neumann patřila k prvním programátorům historie a psala kód pro legendární počítače ENIAC a MANIAC. Programování tehdy znamenalo přepínat tisíce spínačů ručně.
+  year: 1911
+08-19:
+  evergreen: false
+  headline_cs: Bělka a Strelka odstartovaly na oběžnou dráhu
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: en
+  story_cs: Sovětská loď Korabl-Sputnik 2 vynesla do vesmíru psí posádku Bělku a Strelku, 40 myší a dvě krysy. Celá chlupatá výprava se v pořádku vrátila na Zemi.
+  year: 1960
+08-20:
+  evergreen: false
+  headline_cs: Voyager 2 odstartoval na nejdelší služební cestu historie
+  keywords:
+  - pocitac
+  - memory
+  source_lang: en
+  story_cs: NASA vypustila sondu Voyager 2, která postupně navštívila Jupiter, Saturn, Uran i Neptun. Její palubní počítač s miniaturní pamětí funguje dodnes, miliardy kilometrů od Země.
+  year: 1977
+08-21:
+  evergreen: false
+  headline_cs: Hořící pařez z Kohoutovic dobyl český internet
+  keywords:
+  - internet
+  source_lang: cs
+  story_cs: V Kohoutovicích hořel pařez a stal se předmětem internetového memu. Důkaz, že českou internetovou legendou se může stát opravdu cokoliv.
+  year: 2012
+08-22:
+  evergreen: false
+  headline_cs: Narodil se Masatoshi Shima, spolutvůrce prvního mikroprocesoru
+  keywords:
+  - intel
+  - procesor
+  - chip
+  - cpu
+  source_lang: en
+  story_cs: Japonský inženýr Masatoshi Shima spolunavrhl Intel 4004, první komerční mikroprocesor světa. Malý čip odstartoval revoluci, která vede až k CPU ve vašem počítači.
+  year: 1943
+08-23:
+  evergreen: false
+  headline_cs: Web se otevřel veřejnosti a už nešel zastavit
+  keywords:
+  - www
+  - web
+  - internet
+  source_lang: en
+  story_cs: World Wide Web byl zpřístupněn veřejnosti. Od toho dne může brouzdat po webu opravdu každý – a svět už nikdy nebyl stejný.
+  year: 1991
+08-24:
+  evergreen: false
+  headline_cs: Windows 95 spustily počítačovou horečku
+  keywords:
+  - microsoft
+  - windows
+  - software
+  source_lang: cs
+  story_cs: Microsoft uvedl na trh nový operační systém Windows 95. Tlačítko Start a hlavní panel, které představil, používáme ve Windows dodnes.
+  year: 1995
+08-25:
+  evergreen: false
+  headline_cs: Student oznámil systém, ze kterého vyrostl Linux
+  keywords:
+  - linux
+  - software
+  source_lang: en
+  story_cs: Linus Torvalds oznámil první verzi toho, co se později stalo Linuxem. Ze studentského projektu vyrostl operační systém, který dnes pohání obrovskou část světa.
+  year: 1991
+08-26:
+  evergreen: false
+  headline_cs: Narodil se Patrick Zandl, průkopník českého internetu
+  keywords:
+  - internet
+  - mobil
+  - web
+  source_lang: cs
+  story_cs: Patrick Zandl založil zpravodajský server Mobil.cz a patří k zakladatelům českého internetového podnikání. Psal o mobilech v době, kdy byly velké jako cihla.
+  year: 1974
+08-27:
+  evergreen: false
+  headline_cs: Narodil se Kristen Nygaard, otec objektového programování
+  keywords:
+  - programator
+  - software
+  - algoritmus
+  source_lang: en
+  story_cs: Norský informatik Kristen Nygaard spoluvytvořil jazyk Simula, první objektově orientovaný programovací jazyk. Na jeho principech dnes stojí prakticky veškerý moderní software.
+  year: 1926
+08-28:
+  evergreen: false
+  headline_cs: Narodil se Satoshi Tajiri, tvůrce Pokémonů
+  keywords:
+  - nintendo
+  - videohra
+  - konzole
+  source_lang: en
+  story_cs: Japonský vývojář Satoshi Tajiri vymyslel Pokémony inspirované svým dětským sbíráním brouků. Z nápadu pro kapesní konzole Nintendo se stal největší herní fenomén planety.
+  year: 1965
+08-29:
+  evergreen: false
+  headline_cs: Netflix odstartoval jako půjčovna DVD přes internet
+  keywords:
+  - internet
+  source_lang: en
+  story_cs: Netflix zahájil provoz jako internetová půjčovna DVD. Kdo by tehdy řekl, že z posílání disků poštou vyroste streamovací gigant.
+  year: 1997
+08-30:
+  evergreen: false
+  headline_cs: Narodil se John Mauchly, spolutvůrce počítače ENIAC
+  keywords:
+  - pocitac
+  - computer
+  - notebook
+  source_lang: en
+  story_cs: Americký fyzik John Mauchly spolunavrhl ENIAC, jeden z prvních elektronických počítačů, a spoluzaložil vůbec první počítačovou firmu. Jeho stroj vážil 27 tun – dnešní notebook zvládne víc.
+  year: 1907
+08-31:
+  evergreen: false
+  headline_cs: Edison si nechal patentovat předchůdce filmového projektoru
+  keywords:
+  - displej
+  source_lang: en
+  story_cs: Thomas Edison získal patent na kinetoskop, předchůdce moderního filmového projektoru. Bez tohohle vynálezu by dnes nebylo kino ani filmové večery u obrazovky.
+  year: 1897
+09-01:
+  evergreen: false
+  headline_cs: Pioneer 11 prosvištěl kolem Saturnu jako první stroj lidstva
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: Sonda Pioneer 11 proletěla pouhých 21 000 km od Saturnu a poslala domů první detailní data o prstencích. Takový výhled by chtěl mít každý monitor.
+  year: 1979
+09-02:
+  evergreen: false
+  headline_cs: Google vypustil do světa prohlížeč Chrome
+  keywords:
+  - web
+  - internet
+  source_lang: en
+  story_cs: Google v tento den spustil svůj webový prohlížeč Chrome. Dnes si bez něj spousta z nás brouzdání po internetu vůbec neumí představit.
+  year: 2008
+09-03:
+  evergreen: false
+  headline_cs: Viking 2 dosedl na Mars a začal fotit rudou pláň
+  keywords:
+  - pocitac
+  - kalkulacka
+  source_lang: cs
+  story_cs: Americká sonda Viking 2 přistála na marsovské pláni Utopia Planitia. Snímky z jiné planety tehdy počítala elektronika slabší než dnešní kalkulačka.
+  year: 1976
+09-04:
+  evergreen: false
+  headline_cs: Morse poprvé předvedl telegraf a jeho tečky s čárkami
+  keywords:
+  - network
+  - radio
+  source_lang: cs
+  story_cs: Samuel Morse poprvé předvedl svůj telegraf a o měsíc později ho přihlásil k patentování. Pro přenos zpráv vymyslel vlastní abecedu z teček a čárek, kterou zná svět dodnes.
+  year: 1837
+09-05:
+  evergreen: false
+  headline_cs: Voyager 1 odstartoval na nejdelší služební cestu všech dob
+  keywords:
+  - radio
+  source_lang: cs
+  story_cs: NASA vypustila sondu Voyager 1, dnes nejvzdálenější objekt, jaký kdy člověk vytvořil. Kus techniky ze sedmdesátek pořád letí vesmírem, to je teda výdrž.
+  year: 1977
+09-06:
+  evergreen: false
+  headline_cs: Narodil se William Ross Ashby, průkopník kybernetiky
+  keywords:
+  - pocitac
+  - algoritmus
+  source_lang: cs
+  story_cs: Britský kybernetik William Ross Ashby položil základy vědy o řízení a zpětné vazbě. Bez jeho myšlenek by dnešní počítače a chytré algoritmy vypadaly úplně jinak.
+  year: 1903
+09-07:
+  evergreen: false
+  headline_cs: Dva studenti ze Stanfordu založili Google
+  keywords:
+  - internet
+  - web
+  source_lang: cs
+  story_cs: Larry Page a Sergey Brin, tehdy studenti Stanfordovy univerzity, založili internetový vyhledávač Google. Ze studentského projektu se stal nástroj, kterým dnes hledá celý svět.
+  year: 1998
+09-08:
+  evergreen: false
+  headline_cs: Televize poprvé odvysílala Star Trek a zrodila legendu
+  keywords:
+  - televize
+  - pocitac
+  - mobil
+  source_lang: cs
+  story_cs: Diváci poprvé viděli kapitána Kirka a loď Enterprise. Seriál pak inspiroval generace vývojářů – od mobilů po hlasové ovládání počítačů.
+  year: 1966
+09-09:
+  evergreen: false
+  headline_cs: První počítačový bug byl doslova brouk
+  keywords:
+  - pocitac
+  - computer
+  - software
+  source_lang: en
+  story_cs: V relé počítače Harvard Mark II na Harvardu uvízla můra a stala se prvním zdokumentovaným počítačovým bugem. Odchytávání much v kódu tak dostalo úplně doslovný začátek.
+  year: 1947
+09-10:
+  evergreen: false
+  headline_cs: Apple ukázal iPhone 5S a barevný iPhone 5C
+  keywords:
+  - iphone
+  - apple
+  - smartphone
+  source_lang: cs
+  story_cs: Apple v tento den představil nové modely iPhone 5S a iPhone 5C. Jedna keynote, dva telefony – a fronty před obchody byly zase o něco delší.
+  year: 2013
+09-11:
+  evergreen: false
+  headline_cs: Maraldi objevil hvězdokupu Messier 2 v souhvězdí Vodnáře
+  keywords:
+  - monitor
+  - displej
+  source_lang: cs
+  story_cs: Astronom Giovanni Domenico Maraldi spatřil ve Vodnáři zářivou kulovou hvězdokupu, dnes známou jako Messier 2. My ji dnes obdivujeme na displeji ve 4K, on měl jen dalekohled.
+  year: 1746
+09-12:
+  evergreen: false
+  headline_cs: Steam vyšel poprvé ke stažení a změnil hraní na PC
+  keywords:
+  - videohra
+  - software
+  - pocitac
+  source_lang: en
+  story_cs: Ke stažení se dostala první veřejná verze Steamu, distribuční služby pro počítačové hry. Od té doby máme herní knihovny v cloudu a peněženky lehčí po každém výprodeji.
+  year: 2003
+09-13:
+  evergreen: false
+  headline_cs: Super Mario Bros. poprvé vyskočil na obrazovky
+  keywords:
+  - nintendo
+  - videohra
+  - konzole
+  source_lang: en
+  story_cs: V Japonsku vyšla hra Super Mario Bros. pro konzoli Nintendo Entertainment System. Jedna z nejvlivnějších a nejprodávanějších videoher historie odstartovala knírkovou legendu.
+  year: 1985
+09-14:
+  evergreen: false
+  headline_cs: Microsoft vydal Windows Me, systém s pověstí rebela
+  keywords:
+  - windows
+  - microsoft
+  source_lang: en
+  story_cs: Microsoft v tento den vydal operační systém Windows Me. Do dějin se zapsal spíš svou nestabilitou než slávou, ale nostalgici na něj vzpomínají dodnes.
+  year: 2000
+09-15:
+  evergreen: false
+  headline_cs: Darwin dorazil na Galapágy a věda se změnila navždy
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: en
+  story_cs: Loď HMS Beagle s Charlesem Darwinem na palubě doplula ke Galapágám. Pozorování odsud pomohla zrodit evoluční teorii – dnes bychom to celé streamovali na monitor.
+  year: 1835
+09-16:
+  evergreen: false
+  headline_cs: Narodil se Ross Greenberg, průkopník boje s počítačovými viry
+  keywords:
+  - virus
+  - software
+  - pocitac
+  source_lang: en
+  story_cs: Americký programátor Ross Greenberg patřil k prvním, kdo psali antivirový software. Díky pionýrům jako on dnes viry nemají v počítači šanci.
+  year: 1956
+09-17:
+  evergreen: false
+  headline_cs: GTA V dorazilo na PlayStation 3 a Xbox 360
+  keywords:
+  - videohra
+  - playstation
+  - xbox
+  - konzole
+  source_lang: cs
+  story_cs: Dlouho očekávané Grand Theft Auto V vyšlo na konzole PlayStation 3 a Xbox 360. Herní svět se na pár týdnů zastavil, protože všichni vyrazili do Los Santos.
+  year: 2013
+09-18:
+  evergreen: false
+  headline_cs: Narodil se Mark Shuttleworth, táta Ubuntu
+  keywords:
+  - linux
+  - software
+  - pocitac
+  source_lang: cs
+  story_cs: Zakladatel nejpopulárnější linuxové distribuce Ubuntu slaví narozeniny. Jeho systém dnes běží na milionech počítačů i serverů po celém světě.
+  year: 1973
+09-19:
+  evergreen: false
+  headline_cs: Narodil se Hidetaka Miyazaki, tvůrce nejtěžších her světa
+  keywords:
+  - videohra
+  - konzole
+  - playstation
+  source_lang: en
+  story_cs: Japonský herní designér Hidetaka Miyazaki stvořil Dark Souls a Elden Ring. Miliony hráčů mu dodnes děkují i nadávají – většinou obojí najednou.
+  year: 1974
+09-20:
+  evergreen: false
+  headline_cs: Sonda Surveyor 2 vyrazila na cestu k Měsíci
+  keywords:
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: Americká sonda Surveyor 2 odstartovala v rámci příprav na přistání lidí na Měsíci. Vesmírný závod tehdy poháněly počítače slabší než dnešní chytré hodinky.
+  year: 1966
+09-21:
+  evergreen: false
+  headline_cs: V Americe otevřeli první továrnu na automobily
+  keywords:
+  - procesor
+  - chip
+  source_lang: cs
+  story_cs: Duryea Motor Wagon Company se stala první továrnou vyrábějící automobily. Dnes auta z výrobních linek řídí víc procesorů, než měl tehdy celý svět.
+  year: 1895
+09-22:
+  evergreen: false
+  headline_cs: Dolphin rozjel hry z GameCube i mimo konzoli
+  keywords:
+  - nintendo
+  - konzole
+  - videohra
+  source_lang: en
+  story_cs: Vyšel Dolphin, první emulátor konzole GameCube, který zvládl rozběhnout komerční videohry. Fanoušci tak mohli hrát konzolové tituly i bez samotné krabičky od Nintenda.
+  year: 2003
+09-23:
+  evergreen: false
+  headline_cs: Ohnivá liška poprvé vyběhla na internet
+  keywords:
+  - web
+  - internet
+  source_lang: en
+  story_cs: Organizace Mozilla vydala první verzi webového prohlížeče Firefox. Rusá šelma se postupně stala jednou z nejoblíbenějších bran na internet.
+  year: 2002
+09-24:
+  evergreen: false
+  headline_cs: Kapsle OSIRIS-REx přivezla na Zemi kousky asteroidu
+  keywords:
+  - pocitac
+  - computer
+  source_lang: en
+  story_cs: NASA úspěšně dopravila na Zemi vzorky z planetky Bennu, které sonda OSIRIS-REx sbírala miliony kilometrů daleko. Data z nich vědci louskají na počítačích dodnes.
+  year: 2023
+09-25:
+  evergreen: false
+  headline_cs: První telefonní kabel propojil kontinenty pod Atlantikem
+  keywords:
+  - telefon
+  - network
+  source_lang: cs
+  story_cs: Slavnostně byl zprovozněn TAT-1, první transatlantický podmořský telefonní kabel. Hovory přes oceán tak konečně dostaly vlastní drát na dně Atlantiku.
+  year: 1956
+09-26:
+  evergreen: false
+  headline_cs: Muž, který nevěřil počítači, a zachránil svět
+  keywords:
+  - pocitac
+  - computer
+  source_lang: en
+  story_cs: Sovětský důstojník Stanislav Petrov vyhodnotil hlášení o letící jaderné raketě jako chybu počítače, ne americký útok. Zdravá nedůvěra k technice tehdy nejspíš odvrátila jadernou katastrofu.
+  year: 1983
+09-27:
+  evergreen: false
+  headline_cs: Stallman oznámil GNU a odstartoval svobodný software
+  keywords:
+  - software
+  - linux
+  - programator
+  source_lang: en
+  story_cs: Vývojář Richard Stallman oznámil plány na operační systém GNU podobný Unixu. Šlo o první svobodný software projektu GNU – a začátek celého hnutí free software.
+  year: 1983
+09-28:
+  evergreen: false
+  headline_cs: Narodil se Seymour Cray, otec superpočítačů
+  keywords:
+  - pocitac
+  - cpu
+  - notebook
+  source_lang: cs
+  story_cs: Americký konstruktér Seymour Cray dal jméno legendárním superpočítačům Cray. Jeho stroje byly svého času nejrychlejší na planetě – dnes je trumfne leckterý notebook.
+  year: 1925
+09-29:
+  evergreen: false
+  headline_cs: Narodil se László Bíró, vynálezce kuličkového pera
+  keywords:
+  - klavesnice
+  - keyboard
+  source_lang: cs
+  story_cs: Maďarský vynálezce László Bíró dal světu kuličkové pero, které psaní změnilo navždy. Než přišla klávesnice, byla to největší psací revoluce.
+  year: 1899
+09-30:
+  evergreen: false
+  headline_cs: Ethernet dostal oficiální specifikaci a síťování pravidla
+  keywords:
+  - ethernet
+  - network
+  - intel
+  source_lang: en
+  story_cs: Xerox spolu s Intelem a Digital Equipment Corporation zveřejnili specifikace Ethernetu. Kabel, který dodnes drží pohromadě naše sítě, tím dostal oficiální pravidla hry.
+  year: 1980
+10-01:
+  evergreen: false
+  headline_cs: Do vesmíru odletěl teprve třetí vesmírný turista
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: Z Bajkonuru odstartoval Sojuz a na palubě seděl Američan Gregory Olsen, teprve třetí vesmírný turista historie. Zatímco my ladíme sestavy, někdo si prostě koupil letenku na oběžnou dráhu.
+  year: 2005
+10-02:
+  evergreen: false
+  headline_cs: Legendární ENIAC šel definitivně do důchodu
+  keywords:
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: V USA byl definitivně odstaven počítač ENIAC, jeden z prvních elektronických počítačů historie. Stroj, který odstartoval éru výpočetní techniky, si tak zasloužil zasloužený odpočinek.
+  year: 1955
+10-03:
+  evergreen: false
+  headline_cs: Raketoplán Atlantis poprvé vzlétl k hvězdám
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: Z Kennedyho vesmírného střediska odstartoval raketoplán Atlantis na svou úplně první misi STS-51-J. Legenda vesmírných letů tak zahájila kariéru, která trvala přes čtvrt století.
+  year: 1985
+10-04:
+  evergreen: false
+  headline_cs: Den, kdy zmizel Facebook, Instagram i WhatsApp
+  keywords:
+  - internet
+  - network
+  - mobil
+  source_lang: cs
+  story_cs: Svět zažil rozsáhlý globální výpadek Facebooku, Instagramu a WhatsAppu. S problémy se tehdy potýkal i mobilní operátor Vodafone, takže úniku od offline reality nebylo snadné dosáhnout.
+  year: 2021
+10-05:
+  evergreen: false
+  headline_cs: 'Tučňák se vylíhl: vyšlo první oficiální jádro Linuxu'
+  keywords:
+  - linux
+  - software
+  source_lang: cs
+  story_cs: Vyšlo první oficiální jádro operačního systému Linux, verze 0.02. Z malého projektu se časem stal systém, který dnes pohání obrovskou část internetu.
+  year: 1991
+10-06:
+  evergreen: false
+  headline_cs: Astronomové objevili první planetu mimo Sluneční soustavu
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: cs
+  story_cs: V souhvězdí Pegase byla objevena 51 Pegasi b, vůbec první potvrzená exoplaneta u hvězdy podobné Slunci. Vesmír se rázem stal mnohem zajímavějším místem — ideální téma na velký monitor.
+  year: 1995
+10-07:
+  evergreen: false
+  headline_cs: Narodil se John Hopcroft, velmistr algoritmů
+  keywords:
+  - algoritmus
+  - turing
+  - programator
+  - pocitac
+  source_lang: cs
+  story_cs: Na svět přišel John Hopcroft, americký počítačový vědec a držitel Turingovy ceny. Jeho práce o algoritmech a datových strukturách se dodnes učí každý pořádný programátor.
+  year: 1939
+10-08:
+  evergreen: false
+  headline_cs: Mikrovlnka dostala patent a kuchyně se změnila navždy
+  keywords:
+  - pocitac
+  source_lang: cs
+  story_cs: Percy Spencer si v USA nechal patentovat mikrovlnnou troubu. Z náhodného objevu při práci s radarem se stal spotřebič, bez kterého si dnes ohřev pizzy u počítače neumíme představit.
+  year: 1945
+10-09:
+  evergreen: false
+  headline_cs: NASA schválně narazila do Měsíce, a mělo to smysl
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: en
+  story_cs: Proběhl první měsíční dopad v rámci programu Lunar Precursor Robotic Program NASA. Řízený náraz pomohl vědcům zkoumat měsíční povrch — datová analýza jak z learbooku.
+  year: 2009
+10-10:
+  evergreen: false
+  headline_cs: Olympiáda poprvé letěla přes satelity živě
+  keywords:
+  - televize
+  source_lang: en
+  story_cs: Zahájení letních olympijských her v Tokiu bylo jako první přenášeno živě přes satelity. Televizní diváci po celém světě tak poprvé sledovali velkou událost v reálném čase.
+  year: 1964
+10-11:
+  evergreen: false
+  headline_cs: Apollo 7 odstartovalo a s ním nová éra letů
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: en
+  story_cs: NASA vypustila Apollo 7, první úspěšnou pilotovanou misi programu Apollo a první americký let se třemi astronauty. Cesta k Měsíci právě dostala zelenou.
+  year: 1968
+10-12:
+  evergreen: false
+  headline_cs: Narodil se muž, který stál u zrodu Simuly
+  keywords:
+  - programator
+  - software
+  - pocitac
+  source_lang: en
+  story_cs: Na svět přišel norský informatik Ole-Johan Dahl, spolutvůrce programovacího jazyka Simula. Právě ten položil základy objektově orientovaného programování, na kterém stojí dnešní software.
+  year: 1931
+10-13:
+  evergreen: false
+  headline_cs: V Chicagu odstartovala první mobilní síť v USA
+  keywords:
+  - mobil
+  - telefon
+  - network
+  source_lang: en
+  story_cs: Firma Ameritech Mobile Communications spustila v Chicagu první mobilní síť ve Spojených státech. Éra telefonování na cestách tím dostala pořádný start.
+  year: 1983
+10-14:
+  evergreen: false
+  headline_cs: Narodil se otec prvních československých počítačů
+  keywords:
+  - pocitac
+  - computer
+  source_lang: cs
+  story_cs: Narodil se Antonín Svoboda, konstruktér prvních československých počítačů. Díky němu jsme měli vlastní výpočetní techniku dřív, než bylo slovo počítač vůbec cool.
+  year: 1907
+10-15:
+  evergreen: false
+  headline_cs: FORTRAN ukázal světu, jak se mluví s počítači
+  keywords:
+  - programator
+  - software
+  - computer
+  source_lang: en
+  story_cs: Programátorská komunita se poprvé seznámila s FORTRANem, prvním moderním programovacím jazykem. Právě on otevřel cestu k softwaru, jak ho známe dnes.
+  year: 1956
+10-16:
+  evergreen: false
+  headline_cs: Narodil se knihkupec, který rozjel českou automobilku
+  keywords:
+  - pocitac
+  source_lang: cs
+  story_cs: Narodil se Václav Klement, knihkupec a zakladatel automobilky Laurin & Klement, ze které vyrostla Škoda. Důkaz, že z malé dílny může vzniknout světová značka.
+  year: 1868
+10-17:
+  evergreen: false
+  headline_cs: Edison si zapsal další vynález do sbírky patentů
+  keywords:
+  - mobil
+  source_lang: cs
+  story_cs: Thomas Alva Edison si nechal patentovat vynález optické fotografie. Slavný vynálezce zkrátka nezastavil — jeho patentová sbírka rostla rychleji než dnešní fotogalerie v mobilu.
+  year: 1888
+10-18:
+  evergreen: false
+  headline_cs: 'Tranzistorové rádio do kapsy: hudba najednou šla s vámi'
+  keywords:
+  - tranzistor
+  - radio
+  source_lang: cs
+  story_cs: Texas Instruments oznámila výrobu prvního přenosného tranzistorového rozhlasového přijímače, který se vzápětí začal sériově vyrábět. Hudba a zprávy se tak poprvé vešly do kapsy.
+  year: 1954
+10-19:
+  evergreen: false
+  headline_cs: V Mladé Boleslavi se rozjela výroba Škody Fabia
+  keywords:
+  - pocitac
+  source_lang: cs
+  story_cs: Škoda Auto zahájila v Mladé Boleslavi sériovou výrobu modelu Fabia, který nahradil ikonickou Felicii. Malý kompakt se stal jedním z nejúspěšnějších českých produktů vůbec.
+  year: 1999
+10-20:
+  evergreen: false
+  headline_cs: Narodil se zakladatel Slackwaru, nejstarší žijící linuxové distribuce
+  keywords:
+  - linux
+  - software
+  - pocitac
+  source_lang: en
+  story_cs: Narodil se Patrick Volkerding, americký informatik a zakladatel distribuce Slackware. Jeho dílo patří k pilířům linuxového světa a běží na strojích nadšenců dodnes.
+  year: 1966
+10-21:
+  evergreen: false
+  headline_cs: Edisonova žárovka poprvé svítila celých čtyřicet hodin
+  keywords:
+  - monitor
+  source_lang: cs
+  story_cs: Thomas Alva Edison vyzkoušel žárovku s uhlíkovým vláknem, která vydržela svítit 40 hodin. Bez tohohle momentu by dnes nesvítily ani naše RGB sestavy.
+  year: 1879
+10-22:
+  evergreen: false
+  headline_cs: Windows 7 dorazily a spravily Microsoftu náladu
+  keywords:
+  - windows
+  - microsoft
+  - software
+  source_lang: cs
+  story_cs: Microsoft vydal operační systém Windows 7. Pro mnoho uživatelů šlo o jednu z nejoblíbenějších verzí Windows, na kterou dodnes rádi vzpomínají.
+  year: 2009
+10-23:
+  evergreen: false
+  headline_cs: Apple vytáhl iPod a hudba se vešla do dlaně
+  keywords:
+  - apple
+  - audio
+  source_lang: en
+  story_cs: Společnost Apple uvedla na trh přehrávač iPod. Malá bílá krabička s kolečkem změnila způsob, jakým svět poslouchá hudbu.
+  year: 2001
+10-24:
+  evergreen: false
+  headline_cs: Do vesmíru zamířila první československá družice Magion
+  keywords:
+  - pocitac
+  - network
+  source_lang: cs
+  story_cs: Spolu s družicí Interkosmos 18 byla vypuštěna Magion, první československá družice. Malý satelit dokázal, že i my umíme poslat techniku na oběžnou dráhu.
+  year: 1978
+10-25:
+  evergreen: false
+  headline_cs: Windows XP jdou do prodeje a míří do legend
+  keywords:
+  - windows
+  - microsoft
+  - software
+  source_lang: cs
+  story_cs: Microsoft uvolnil k prodeji operační systém Windows XP. Stal se jednou z nejúspěšnějších a nejrozšířenějších verzí Windows vůbec.
+  year: 2001
+10-26:
+  evergreen: false
+  headline_cs: San Andreas dobyl PlayStation 2 a lámal rekordy
+  keywords:
+  - playstation
+  - videohra
+  - konzole
+  source_lang: en
+  story_cs: 'Rockstar Games vydal Grand Theft Auto: San Andreas pro PlayStation 2 v Severní Americe. S 12 miliony prodaných kusů se stal nejprodávanější hrou této konzole.'
+  year: 2004
+10-27:
+  evergreen: false
+  headline_cs: Narodil se Otto Wichterle, vynálezce kontaktních čoček
+  keywords:
+  - monitor
+  - displej
+  source_lang: cs
+  story_cs: Narodil se český chemik Otto Wichterle, vynálezce měkkých kontaktních čoček. Geniální nápad, který dnes miliony lidí nosí přímo v oku — třeba i při koukání do monitoru.
+  year: 1913
+10-28:
+  evergreen: false
+  headline_cs: Narodil se Bill Gates, muž, který dal světu Windows
+  keywords:
+  - microsoft
+  - windows
+  - software
+  - pocitac
+  source_lang: cs
+  story_cs: Narodil se Bill Gates, zakladatel softwarové společnosti Microsoft. Jeho vize počítače v každé domácnosti se stala realitou — a my u toho rádi asistujeme.
+  year: 1955
+10-29:
+  evergreen: false
+  headline_cs: Dva vzdálené počítače si poprvé popovídaly
+  keywords:
+  - arpanet
+  - internet
+  - pocitac
+  source_lang: cs
+  story_cs: Proběhla první komunikace mezi dvěma vzdálenými počítači — spojení sítě ARPANET mezi UCLA a SCRI v Kalifornii. Právě tenhle okamžik bývá označován za start internetu.
+  year: 1969
+10-30:
+  evergreen: false
+  headline_cs: Narodila se legenda herního vývoje Rebecca Heineman
+  keywords:
+  - videohra
+  - programator
+  - konzole
+  source_lang: en
+  story_cs: Narodila se Rebecca Heineman, americká herní designérka a programátorka. Její kariéra sahá až do zlaté éry videoher, kdy se hry psaly na kolenou a s obrovskou vášní.
+  year: 1963
+10-31:
+  evergreen: false
+  headline_cs: Na ISS dorazila vůbec první stálá posádka
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: Odstartovala ruská loď Sojuz TM-31, která dopravila na Mezinárodní vesmírnou stanici její první posádku. Od té chvíle je ISS nepřetržitě obydlená — nejdelší přespávačka historie.
+  year: 2000
+11-01:
+  evergreen: false
+  headline_cs: Narodil se Mitch Kapor, otec legendární tabulky Lotus 1-2-3
+  keywords:
+  - software
+  - pocitac
+  source_lang: en
+  story_cs: V tento den se narodil Mitch Kapor, zakladatel Lotus Development a pozdější spoluzakladatel Electronic Frontier Foundation. Jeho tabulkový procesor Lotus 1-2-3 pomohl v 80. letech prodat miliony osobních počítačů.
+  year: 1950
+11-02:
+  evergreen: false
+  headline_cs: První internetový červ vypuštěn do světa
+  keywords:
+  - virus
+  - internet
+  - cyber
+  source_lang: cs
+  story_cs: Morrisův červ byl první počítačový červ, který se šířil internetem. Jeho autor Robert Tappan Morris tak nechtěně ukázal, jak zranitelná síť tehdy byla.
+  year: 1988
+11-03:
+  evergreen: false
+  headline_cs: Fenka Lajka odstartovala jako první zvíře do vesmíru
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: Sovětský Sputnik 2 vynesl v tento den na oběžnou dráhu fenku Lajku, vůbec první živou bytost ve vesmíru. Kosmický závod se rozjel naplno a s ním i vývoj elektroniky, ze které dnes těží každý počítač.
+  year: 1957
+11-04:
+  evergreen: false
+  headline_cs: Nejzáhadnější píseň internetu konečně odhalena
+  keywords:
+  - internet
+  - web
+  source_lang: cs
+  story_cs: Internet léta pátral po autorech skladby zvané The Most Mysterious Song on the Internet. Po letech detektivky se původní autoři konečně našli a fenomén byl rozluštěn.
+  year: 2024
+11-05:
+  evergreen: false
+  headline_cs: Google ukazuje světu Android
+  keywords:
+  - smartphone
+  - mobil
+  - telefon
+  source_lang: en
+  story_cs: Google představil mobilní operační systém Android. Právě ten dnes pohání většinu chytrých telefonů na planetě.
+  year: 2007
+11-06:
+  evergreen: false
+  headline_cs: Narodil se Adolphe Sax, muž, který dal jméno saxofonu
+  keywords:
+  - sluchatka
+  - audio
+  source_lang: cs
+  story_cs: V tento den se narodil Adolphe Sax, vynálezce saxofonu a velký experimentátor se zvukem. Bez podobných zvukových nadšenců by dnes vaše sluchátka neměla co hrát.
+  year: 1814
+11-07:
+  evergreen: false
+  headline_cs: První internetové rádio na světě spustili studenti
+  keywords:
+  - internet
+  - radio
+  source_lang: en
+  story_cs: Studentská stanice WXYC z Univerzity Severní Karolíny odvysílala první internetové rádiové vysílání na světě. Streamování hudby tak odstartovali studenti, ne velké firmy.
+  year: 1994
+11-08:
+  evergreen: false
+  headline_cs: Startuje HBO a mění pravidla televize
+  keywords:
+  - televize
+  source_lang: en
+  story_cs: V USA odstartovala placená televizní síť Home Box Office, známá jako HBO. Položila základ modelu, ze kterého později vyrostlo dnešní streamování.
+  year: 1972
+11-09:
+  evergreen: false
+  headline_cs: Firefox 1.0 vyráží do boje o internet
+  keywords:
+  - internet
+  - web
+  - software
+  source_lang: cs
+  story_cs: Vyšel open source prohlížeč Mozilla Firefox ve verzi 1.0. Ohnivá liška se stala symbolem svobodnějšího brouzdání po webu.
+  year: 2004
+11-10:
+  evergreen: false
+  headline_cs: Bill Gates poprvé ukazuje Windows
+  keywords:
+  - microsoft
+  - windows
+  - software
+  source_lang: en
+  story_cs: Bill Gates představil Windows 1.0. Okna, která tehdy ukázal, dodnes svítí na většině počítačů světa.
+  year: 1983
+11-11:
+  evergreen: false
+  headline_cs: Einstein si nechal patentovat vlastní ledničku
+  keywords:
+  - pocitac
+  - procesor
+  source_lang: en
+  story_cs: Albert Einstein a Leó Szilárd dostali v tento den americký patent na ledničku bez pohyblivých částí. Génius relativity tedy řešil chlazení dřív, než se stalo posedlostí každého stavitele počítačů.
+  year: 1930
+11-12:
+  evergreen: false
+  headline_cs: PlayStation 5 dorazil na pulty
+  keywords:
+  - playstation
+  - konzole
+  - videohra
+  source_lang: en
+  story_cs: Sony vypustilo do světa konzoli PlayStation 5. Lovila se pak tak urputně, že sehnat ji bylo skoro achievement sám o sobě.
+  year: 2020
+11-13:
+  evergreen: false
+  headline_cs: Internetová honba za prvočísly slaví první úlovek
+  keywords:
+  - internet
+  - pocitac
+  - algoritmus
+  source_lang: en
+  story_cs: V projektu GIMPS, velkém internetovém hledání Mersennových prvočísel, objevil Joel Armengaud první prvočíslo projektu. Dobrovolníci propůjčili výkon svých počítačů matematice.
+  year: 1996
+11-14:
+  evergreen: false
+  headline_cs: První laser na světě dostal svůj patent
+  keywords:
+  - mys
+  - mouse
+  source_lang: en
+  story_cs: Fyzik Theodore Maiman získal v tento den patent na rubínový laser, úplně první laser na světě. Dnes stejný princip svítí v mechanikách, tiskárnách i ve vaší herní myši.
+  year: 1967
+11-15:
+  evergreen: false
+  headline_cs: Intel 4004 zahajuje éru mikroprocesorů
+  keywords:
+  - intel
+  - procesor
+  - cpu
+  - chip
+  source_lang: en
+  story_cs: Intel vydal první komerční jednočipový mikroprocesor na světě, legendární 4004. Od tohoto čipu vede přímá cesta k procesoru ve vašem počítači i telefonu.
+  year: 1971
+11-16:
+  evergreen: false
+  headline_cs: Narodil se Gene Amdahl, architekt slavných mainframů IBM
+  keywords:
+  - ibm
+  - procesor
+  - pocitac
+  source_lang: en
+  story_cs: V tento den se narodil Gene Amdahl, počítačový vědec a hlavní architekt legendárního sálového počítače IBM System/360. Jeho Amdahlův zákon dodnes určuje, kolik výkonu vytěžíte z vícejádrového procesoru.
+  year: 1922
+11-17:
+  evergreen: false
+  headline_cs: Douglas Engelbart patentuje počítačovou myš
+  keywords:
+  - mys
+  - pocitac
+  source_lang: cs
+  story_cs: Douglas Engelbart získal patent na počítačovou myš. Malá krabička pod dlaní se stala jedním z nejdůležitějších vynálezů historie počítačů.
+  year: 1970
+11-18:
+  evergreen: false
+  headline_cs: Češi bojkotem zachránili levný internet
+  keywords:
+  - internet
+  source_lang: cs
+  story_cs: Petice a jednodenní bojkot monopolního SPT Telecomu odvrátily zdražení vytáčeného připojení k internetu. Čeští uživatelé tak vybojovali jedno z prvních internetových vítězství u nás.
+  year: 1998
+11-19:
+  evergreen: false
+  headline_cs: Narodil se Dries Buytaert, tvůrce webového systému Drupal
+  keywords:
+  - web
+  - software
+  - internet
+  source_lang: en
+  story_cs: V tento den se narodil Dries Buytaert, programátor a otec open-source systému Drupal. Na jeho díle dnes běží statisíce webů po celém internetu, od blogů po vládní portály.
+  year: 1978
+11-20:
+  evergreen: false
+  headline_cs: Windows 1.0 přichází na počítače
+  keywords:
+  - microsoft
+  - windows
+  - pocitac
+  source_lang: en
+  story_cs: Microsoft vydal Windows 1.0, své první grafické prostředí pro osobní počítače. Klikání do oken místo psaní příkazů právě začalo dobývat svět.
+  year: 1985
+11-21:
+  evergreen: false
+  headline_cs: Edison ohlašuje stroj, který umí nahrát zvuk
+  keywords:
+  - audio
+  source_lang: en
+  story_cs: Thomas Edison oznámil vynález fonografu, zařízení schopného nahrávat a přehrávat zvuk. Bez tohoto momentu by dnes nebyla žádná sluchátka ani playlisty.
+  year: 1877
+11-22:
+  evergreen: false
+  headline_cs: Toy Story dokazuje, co zvládne počítačová grafika
+  keywords:
+  - pocitac
+  - graficka
+  - software
+  source_lang: en
+  story_cs: Do amerických kin dorazil Toy Story, první celovečerní film vytvořený čistě počítačovou grafikou. Buzz a Woody tak odstartovali éru CGI animace.
+  year: 1995
+11-23:
+  evergreen: false
+  headline_cs: IBM Simon, první smartphone na světě
+  keywords:
+  - smartphone
+  - ibm
+  - telefon
+  - mobil
+  source_lang: en
+  story_cs: Na veletrhu COMDEX v Las Vegas se představil IBM Simon, první smartphone. Chytré telefony tu tedy byly dávno před iPhonem.
+  year: 1992
+11-24:
+  evergreen: false
+  headline_cs: Pioneer 11 poslal Zemi svůj úplně poslední signál
+  keywords:
+  - pocitac
+  - pamet
+  source_lang: cs
+  story_cs: NASA v tento den zachytila poslední slabé signály sondy Pioneer 11, průkopníka letů k Jupiteru a Saturnu. Sonda přitom měla méně paměti než dnešní nejlevnější kalkulačka.
+  year: 1995
+11-25:
+  evergreen: false
+  headline_cs: Narodil se Karl Benz, konstruktér prvního automobilu
+  keywords:
+  - videohra
+  - konzole
+  source_lang: cs
+  story_cs: V tento den se narodil Karl Benz, německý konstruktér, jehož Benz Patent-Motorwagen odstartoval éru automobilů. Bez něj by dnes nebyly ani závodní videohry, ve kterých pálíme virtuální benzín.
+  year: 1844
+11-26:
+  evergreen: false
+  headline_cs: Narodil se Norbert Wiener, zakladatel kybernetiky
+  keywords:
+  - cyber
+  - pocitac
+  source_lang: cs
+  story_cs: V tento den se narodil americký matematik Norbert Wiener, který dal světu kybernetiku. Slovo cyber, které dnes slyšíte na každém rohu, má kořeny právě v jeho práci.
+  year: 1894
+11-27:
+  evergreen: false
+  headline_cs: Narodil se Anders Celsius, muž, podle kterého měříme teplotu
+  keywords:
+  - procesor
+  - cpu
+  source_lang: cs
+  story_cs: V tento den se narodil švédský astronom Anders Celsius, autor slavné teplotní stupnice. Právě v jeho stupních dnes hlídáme, jestli se procesor nepeče víc, než má.
+  year: 1701
+11-28:
+  evergreen: false
+  headline_cs: Mariner 4 odstartoval na historickou cestu k Marsu
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: en
+  story_cs: NASA v tento den vypustila sondu Mariner 4, která později pořídila první detailní snímky Marsu zblízka. Fotky rudé planety tehdy vědci vykreslovali ručně, dnes by je měli na monitoru za pár vteřin.
+  year: 1964
+11-29:
+  evergreen: false
+  headline_cs: Atari vypouští Pong a herní průmysl ožívá
+  keywords:
+  - atari
+  - videohra
+  - konzole
+  source_lang: en
+  story_cs: Atari vydalo Pong, první komerčně úspěšnou videohru. Dva obdélníky a míček stačily k tomu, aby se zrodil celý herní průmysl.
+  year: 1972
+11-30:
+  evergreen: false
+  headline_cs: Turing popisuje stroj, který umí simulovat každý algoritmus
+  keywords:
+  - turing
+  - algoritmus
+  - pocitac
+  source_lang: en
+  story_cs: Anglický matematik Alan Turing publikoval první popis Turingova stroje. Tento abstraktní přístroj dokáže simulovat logiku libovolného počítačového algoritmu a stal se základem informatiky.
+  year: 1936
+12-01:
+  evergreen: false
+  headline_cs: Ford spustil první pohyblivou montážní linku
+  keywords:
+  - algoritmus
+  - pocitac
+  source_lang: fill
+  story_cs: Henry Ford v tento den rozjel první pohyblivou montážní linku a výroba Modelu T zrychlila z hodin na minuty. Automatizace se zrodila dávno před roboty a dnes díky ní skládáme i počítače.
+  year: 1913
+12-02:
+  evergreen: false
+  headline_cs: Sonda SOHO odstartovala hlídat Slunce
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: cs
+  story_cs: ESA a NASA vyslaly do vesmíru sondu SOHO, která od té doby nepřetržitě sleduje Slunce. Její snímky sluneční koróny si dodnes můžete pustit na monitoru — vesmírný livestream běží už desítky let.
+  year: 1995
+12-03:
+  evergreen: false
+  headline_cs: Sony vypustilo PlayStation a herní svět už nebyl stejný
+  keywords:
+  - playstation
+  - konzole
+  - videohra
+  source_lang: en
+  story_cs: Sony v tento den vydalo první PlayStation. Stala se z něj první herní platforma, která prodala 100 milionů kusů — konzole, co definovala celou generaci hráčů.
+  year: 1994
+12-04:
+  evergreen: false
+  headline_cs: Narodil se Eric S. Raymond, guru open source
+  keywords:
+  - programator
+  - linux
+  - software
+  source_lang: en
+  story_cs: Narodil se Eric S. Raymond, programátor a autor slavné eseje Katedrála a tržiště. Právě on pomohl prosadit myšlenku open source, na které dnes stojí Linux i půlka internetu.
+  year: 1957
+12-05:
+  evergreen: false
+  headline_cs: Narodil se tvůrce The Last of Us
+  keywords:
+  - videohra
+  - playstation
+  source_lang: en
+  story_cs: Narodil se Neil Druckmann, herní designér, který stojí za sérií The Last of Us. Jeho příběhy dokázaly, že videohra umí dojmout stejně jako film — a prodat miliony konzolí.
+  year: 1978
+12-06:
+  evergreen: false
+  headline_cs: Narodil se Satoru Iwata, legenda Nintenda
+  keywords:
+  - nintendo
+  - konzole
+  - videohra
+  source_lang: en
+  story_cs: Narodil se Satoru Iwata, programátor, který to dotáhl až na šéfa Nintenda. Pod jeho vedením vznikly Wii a Nintendo DS — konzole, které dostaly hraní do každého obýváku.
+  year: 1959
+12-07:
+  evergreen: false
+  headline_cs: Edison předvedl fonograf a svět poprvé slyšel záznam zvuku
+  keywords:
+  - audio
+  - sluchatka
+  source_lang: cs
+  story_cs: Thomas Edison v tento den ukázal svůj nový vynález — fonograf, předchůdce gramofonu. Bez něj by dnes nebyly gramofony ani vaše oblíbená sluchátka plná hudby.
+  year: 1877
+12-08:
+  evergreen: false
+  headline_cs: Narodila se průkopnice programování Kateryna Juščenko
+  keywords:
+  - programator
+  - pocitac
+  - software
+  source_lang: en
+  story_cs: Narodila se Kateryna Juščenko, ukrajinská informatička a jedna z prvních programátorek v Evropě. Vytvořila adresní programovací jazyk, který předběhl svou dobu — psala software, když počítače zabíraly celé místnosti.
+  year: 1919
+12-09:
+  evergreen: false
+  headline_cs: 'Matka všech dem: svět poprvé uviděl počítačovou myš'
+  keywords:
+  - mys
+  - computer
+  - pocitac
+  source_lang: en
+  story_cs: Douglas Engelbart předvedl legendární „Mother of All Demos“ — veřejnou premiéru počítačové myši, hypertextu i grafického rozhraní. Prakticky celý moderní počítač v jedné prezentaci.
+  year: 1968
+12-10:
+  evergreen: false
+  headline_cs: Vyšel Doom, otec všech stříleček
+  keywords:
+  - videohra
+  - pocitac
+  source_lang: en
+  story_cs: V tento den vyšla legendární hra Doom, později označovaná za otce žánru first-person stříleček. Bez ní by dnešní FPS pecky vypadaly úplně jinak.
+  year: 1993
+12-11:
+  evergreen: false
+  headline_cs: Naštvaní ptáci vzlétli a dobyli mobily celého světa
+  keywords:
+  - mobil
+  - videohra
+  - smartphone
+  source_lang: en
+  story_cs: Finské studio Rovio vypustilo na iOS hru Angry Birds. Z prakování ptáků po prasatech se stal celosvětový mobilní fenomén.
+  year: 2009
+12-12:
+  evergreen: false
+  headline_cs: Narodil se Robert Noyce, spoluzakladatel Intelu
+  keywords:
+  - intel
+  - chip
+  - procesor
+  source_lang: en
+  story_cs: Narodil se Robert Noyce, vynálezce integrovaného obvodu a spoluzakladatel Intelu. Přezdívalo se mu starosta Silicon Valley — bez jeho čipů by dnes nejel žádný procesor ve vašem počítači.
+  year: 1927
+12-13:
+  evergreen: false
+  headline_cs: Do vesmíru letěl první aktivní komunikační satelit
+  keywords:
+  - network
+  - televize
+  source_lang: en
+  story_cs: NASA vypustila družici Relay 1, první aktivní retranslační komunikační satelit na oběžné dráze. Přenášel televizní signál přes oceán — praprababička dnešních sítí, díky kterým streamujete odkudkoliv.
+  year: 1962
+12-14:
+  evergreen: false
+  headline_cs: Mariner 2 jako první proletěl kolem Venuše
+  keywords:
+  - pocitac
+  - kalkulacka
+  source_lang: en
+  story_cs: Sonda NASA Mariner 2 jako první v historii proletěla kolem Venuše. Zvládla to s palubní elektronikou slabší než dnešní kalkulačka — a poslala domů data, která změnila pohled na planetu.
+  year: 1962
+12-15:
+  evergreen: false
+  headline_cs: Dvě kosmické lodě se poprvé potkaly ve vesmíru
+  keywords:
+  - pocitac
+  - monitor
+  source_lang: cs
+  story_cs: V rámci programu Gemini se poprvé setkaly dvě kosmické lodě ve vesmíru. Piloti Gemini 6A a 7 se k sobě přiblížili na pár metrů — navigace, o které si tehdejší počítače mohly nechat zdát.
+  year: 1965
+12-16:
+  evergreen: false
+  headline_cs: V Bellových laboratořích se zrodil tranzistor
+  keywords:
+  - tranzistor
+  - chip
+  - procesor
+  source_lang: cs
+  story_cs: V Bellových laboratořích byl objeven tranzistor — nenápadná součástka, která odstartovala celou digitální éru. Dnes jich máte v procesoru miliardy.
+  year: 1947
+12-17:
+  evergreen: false
+  headline_cs: Narodil se Kenneth Iverson, otec jazyka APL
+  keywords:
+  - programator
+  - software
+  - klavesnice
+  source_lang: en
+  story_cs: Narodil se Kenneth E. Iverson, kanadský informatik a tvůrce programovacího jazyka APL. Jeho notace plná zvláštních symbolů vyžadovala speciální klávesnici — a přesto ovlivnila celé generace programátorů.
+  year: 1920
+12-18:
+  evergreen: false
+  headline_cs: Larry Wall vypustil Perl a programátoři zajásali
+  keywords:
+  - programator
+  - software
+  source_lang: cs
+  story_cs: Programátor Larry Wall vydal první verzi jazyka Perl. Skriptovací legenda si pak dlouhé roky držela pověst švýcarského nože internetu.
+  year: 1987
+12-19:
+  evergreen: false
+  headline_cs: Narodila se Orna Berry, průkopnice izraelského high-tech
+  keywords:
+  - pocitac
+  - software
+  - network
+  source_lang: en
+  story_cs: Narodila se Orna Berry, izraelská informatička a podnikatelka. Pomohla vybudovat z Izraele technologickou velmoc a stála u zrodu firem, které posunuly svět sítí a softwaru kupředu.
+  year: 1949
+12-20:
+  evergreen: false
+  headline_cs: Jaderný reaktor poprvé rozsvítil žárovky
+  keywords:
+  - graficka
+  - pocitac
+  source_lang: en
+  story_cs: Experimentální reaktor EBR-1 v Idahu jako první na světě vyrobil elektřinu z jádra. Výkon stačil přesně na čtyři žárovky — dnes by neutáhl ani jednu pořádnou grafickou kartu.
+  year: 1951
+12-21:
+  evergreen: false
+  headline_cs: Narodila se Adele Goldstine, programátorka počítače ENIAC
+  keywords:
+  - programator
+  - pocitac
+  source_lang: en
+  story_cs: Narodila se Adele Goldstine, matematička, která napsala manuál k legendárnímu počítači ENIAC. Školila i jeho první programátorky — v době, kdy se programovalo přepojováním kabelů.
+  year: 1920
+12-22:
+  evergreen: false
+  headline_cs: Edison rozsvítil první elektrický vánoční stromek
+  keywords:
+  - monitor
+  - pocitac
+  source_lang: cs
+  story_cs: Thomas Alva Edison nechal rozsvítit první elektricky osvětlený vánoční stromek. Zapomeňte na svíčky — tenhle moment odstartoval tradici, která dnes končí u RGB podsvícení celého herního setupu.
+  year: 1882
+12-23:
+  evergreen: false
+  headline_cs: Tranzistor poprvé předveden — den, kdy začala digitální doba
+  keywords:
+  - tranzistor
+  - chip
+  - cpu
+  source_lang: cs
+  story_cs: John Bardeen, Walter Brattain a William Shockley v Bellových laboratořích poprvé předvedli tranzistor. Bez této malé součástky by nebyl žádný čip, procesor ani váš počítač.
+  year: 1947
+12-24:
+  evergreen: false
+  headline_cs: Éter poprvé rozezněl hlas a hudba
+  keywords:
+  - radio
+  - audio
+  - sluchatka
+  source_lang: fill
+  story_cs: Reginald Fessenden odvysílal na Štědrý večer první rozhlasový přenos hudby a lidského hlasu. Radisté na lodích nevěřili vlastním sluchátkům — místo morseovky slyšeli housle a koledy.
+  year: 1906
+12-25:
+  evergreen: false
+  headline_cs: Tim Berners-Lee spustil úplně první webový prohlížeč
+  keywords:
+  - www
+  - web
+  - internet
+  source_lang: en
+  story_cs: Britský programátor Tim Berners-Lee představil WorldWideWeb — první webový prohlížeč a zároveň WYSIWYG editor HTML na světě. Ten nejlepší vánoční dárek pro celý internet.
+  year: 1990
+12-26:
+  evergreen: false
+  headline_cs: Dvě zemětřesení přestřihla Asii internet
+  keywords:
+  - internet
+  - network
+  source_lang: en
+  story_cs: Zemětřesení u Tchaj-wanu poškodila podmořské komunikační kabely a vyřadila internet ve velké části Asie. Připomínka, že celý online svět visí na pár kabelech na dně oceánu.
+  year: 2006
+12-27:
+  evergreen: false
+  headline_cs: Narodila se Jean Bartik, programátorka prvního počítače
+  keywords:
+  - programator
+  - pocitac
+  source_lang: en
+  story_cs: Narodila se Jean Bartik, jedna z šesti původních programátorek počítače ENIAC. Programovala doslova rukama — přepojováním stovek kabelů a přepínačů na stroji o váze třiceti tun.
+  year: 1924
+12-28:
+  evergreen: false
+  headline_cs: Narodil se Linus Torvalds, tvůrce Linuxu
+  keywords:
+  - linux
+  - programator
+  - software
+  source_lang: en
+  story_cs: Narodil se Linus Torvalds, finský programátor a otec jádra Linux. Ze studentského projektu z pokojíčku se stal systém, který dnes pohání servery, superpočítače i váš Android.
+  year: 1969
+12-29:
+  evergreen: false
+  headline_cs: Narodil se Macintosh — ale ten s pláštěnkou
+  keywords:
+  - macintosh
+  - apple
+  source_lang: en
+  story_cs: Narodil se Charles Macintosh, skotský chemik a vynálezce nepromokavé látky. Jeho jméno nese slavná pláštěnka — a shodou okolností i legendární počítač od Applu, jen s jiným pravopisem.
+  year: 1766
+12-30:
+  evergreen: false
+  headline_cs: Narodil se Bjarne Stroustrup, otec jazyka C++
+  keywords:
+  - programator
+  - software
+  source_lang: en
+  story_cs: Narodil se Bjarne Stroustrup, dánský informatik a tvůrce programovacího jazyka C++. Právě v něm dnes běží operační systémy, herní enginy i software, na kterém stojí půlka moderního světa.
+  year: 1950
+12-31:
+  evergreen: false
+  headline_cs: Edison poprvé veřejně předvedl svou žárovku
+  keywords:
+  - monitor
+  - klavesnice
+  source_lang: cs
+  story_cs: Thomas Alva Edison na Silvestra veřejně předvedl svou žárovku v Menlo Parku. Davy žasly nad elektrickým světlem — dnes nám podobné diody svítí z monitorů, klávesnic i celých PC sestav.
+  year: 1879

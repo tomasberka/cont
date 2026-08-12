@@ -1,0 +1,30 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-22",
+  "fact": "Narodil se Masatoshi Shima, spolutvůrce prvního mikroprocesoru",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "intel",
+    "procesor",
+    "chip",
+    "cpu"
+  ],
+  "product": {
+    "id": "AMD5-5600X_NOV",
+    "name": "AMD Ryzen 5 5600X 100-100000065BOX Stav: Nový",
+    "price": "3 390 Kč",
+    "url": "https://www.hellocomp.cz/amd-ryzen-5-5600x-tray/?variantId=47197"
+  },
+  "caption": "📅 Píše se rok 1943. Narodil se Masatoshi Shima, spolutvůrce prvního mikroprocesoru\n\nJaponský inženýr Masatoshi Shima spolunavrhl Intel 4004, první komerční mikroprocesor světa. Malý čip odstartoval revoluci, která vede až k CPU ve vašem počítači.\n\nVíc v carouselu. A jestli tě to chytlo — odkaz v bio. ⚡\n➡️ AMD Ryzen 5 5600X 100-100000065BOX Stav: Nový za 3 390 Kč\n\n#hellocomp #vtentoden #historietechniky #intel #pcbuild\n\n🛒 https://www.hellocomp.cz/amd-ryzen-5-5600x-tray/?variantId=47197&utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "duotone",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-22-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-22-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-22-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-22-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

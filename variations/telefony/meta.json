@@ -1,0 +1,21 @@
+{
+  "topic": "telefony",
+  "day": "09-10",
+  "year": 2013,
+  "headline": "Apple ukázal iPhone 5S a barevný iPhone 5C",
+  "story": "Apple v tento den představil nové modely iPhone 5S a iPhone 5C. Jedna keynote, dva telefony – a fronty před obchody byly zase o něco delší.",
+  "keywords": [
+    "iphone",
+    "apple",
+    "smartphone"
+  ],
+  "style": "classic",
+  "product": {
+    "id": "OSCL-FALT-1C-2_32GB-MB",
+    "name": "Oscal FLAT 1C 2+32GB - Moonshade Black",
+    "price": "1 990 Kč",
+    "url": "https://www.hellocomp.cz/oscal-flat-1c-2-32gb-moonshade-black/",
+    "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/14476_oscal-flat-1c-2-32gb-moonshade-black.jpg?6a4a78a2",
+    "category": "Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Mobilní telefony"
+  }
+}

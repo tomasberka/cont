@@ -1,0 +1,29 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-15",
+  "fact": "Apple představil iMac a počítače dostaly barvu",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "apple",
+    "macintosh",
+    "pocitac"
+  ],
+  "product": {
+    "id": "AMDGAMERMAX5070TI_DK431-B",
+    "name": "HelloComp AMD GAMER Max 5070 Ti/DK431-B Skříň: darkFlash DK431 Black",
+    "price": "55 490 Kč",
+    "url": "https://www.hellocomp.cz/hellocomp-amd-gamer-max-5070-ti/?variantId=24887"
+  },
+  "caption": "📅 Píše se rok 1998. Apple představil iMac a počítače dostaly barvu\n\nApple uvedl počítač iMac, který pomohl firmě zpět na výsluní. Stal se jedním z nejikoničtějších strojů v historii osobních počítačů.\n\nSwipni pro celý příběh. Produkt najdeš v odkazu v bio. 👀\n➡️ HelloComp AMD GAMER Max 5070 Ti/DK431-B Skříň: darkFlash DK431 Black za 55 490 Kč\n\n#hellocomp #vtentoden #historietechniky #apple #technika\n\n🛒 https://www.hellocomp.cz/hellocomp-amd-gamer-max-5070-ti/?variantId=24887&utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "editorial",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-15-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-15-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-15-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-15-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

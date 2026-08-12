@@ -1,0 +1,29 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-24",
+  "fact": "Windows 95 spustily počítačovou horečku",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "microsoft",
+    "windows",
+    "software"
+  ],
+  "product": {
+    "id": "AMDGAMERINDIVIDUALPRODDR55060WHT",
+    "name": "HelloComp AMD GAMER Individual Pro DDR5 5060 White",
+    "price": "35 990 Kč",
+    "url": "https://www.hellocomp.cz/hellocomp-amd-gamer-individual-pro-ddr5-5060-white/"
+  },
+  "caption": "📅 Píše se rok 1995. Windows 95 spustily počítačovou horečku\n\nMicrosoft uvedl na trh nový operační systém Windows 95. Tlačítko Start a hlavní panel, které představil, používáme ve Windows dodnes.\n\nSwipni pro celý příběh. Produkt najdeš v odkazu v bio. 👀\n➡️ HelloComp AMD GAMER Individual Pro DDR5 5060 White za 35 990 Kč\n\n#hellocomp #vtentoden #historietechniky\n\n🛒 https://www.hellocomp.cz/hellocomp-amd-gamer-individual-pro-ddr5-5060-white/?utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "editorial",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-24-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-24-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-24-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-24-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

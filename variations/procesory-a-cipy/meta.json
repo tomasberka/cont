@@ -1,0 +1,20 @@
+{
+  "topic": "procesory-a-cipy",
+  "day": "10-18",
+  "year": 1954,
+  "headline": "Tranzistorové rádio do kapsy: hudba najednou šla s vámi",
+  "story": "Texas Instruments oznámila výrobu prvního přenosného tranzistorového rozhlasového přijímače, který se vzápětí začal sériově vyrábět. Hudba a zprávy se tak poprvé vešly do kapsy.",
+  "keywords": [
+    "tranzistor",
+    "radio"
+  ],
+  "style": "editorial",
+  "product": {
+    "id": "AMD7-3700X",
+    "name": "AMD Ryzen 7 3700X 100-100000071BOX",
+    "price": "2 790 Kč",
+    "url": "https://www.hellocomp.cz/amd-ryzen-7-3700x-tray/",
+    "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/1954_amd-ryzen-7-3700x-tray.png?6a4a78a2",
+    "category": "Heureka.cz | Elektronika | Počítače a notebooky | Počítačové komponenty | Procesory"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-27",
+  "fact": "Narodil se Kristen Nygaard, otec objektového programování",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "programator",
+    "software",
+    "algoritmus"
+  ],
+  "product": {
+    "id": "INTELGAMERINDIVIDUALULTRA55070",
+    "name": "HelloComp Intel GAMER Individual Ultra5 5070",
+    "price": "42 990 Kč",
+    "url": "https://www.hellocomp.cz/hellocomp-intel-gamer-individual-ultra5-5070/"
+  },
+  "caption": "📅 Píše se rok 1926. Narodil se Kristen Nygaard, otec objektového programování\n\nNorský informatik Kristen Nygaard spoluvytvořil jazyk Simula, první objektově orientovaný programovací jazyk. Na jeho principech dnes stojí prakticky veškerý moderní software.\n\nSwipni pro celý příběh. Produkt najdeš v odkazu v bio. 👀\n➡️ HelloComp Intel GAMER Individual Ultra5 5070 za 42 990 Kč\n\n#hellocomp #vtentoden #historietechniky\n\n🛒 https://www.hellocomp.cz/hellocomp-intel-gamer-individual-ultra5-5070/?utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "editorial",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-27-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-27-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-27-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-27-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

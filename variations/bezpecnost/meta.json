@@ -1,0 +1,21 @@
+{
+  "topic": "bezpecnost",
+  "day": "11-02",
+  "year": 1988,
+  "headline": "První internetový červ vypuštěn do světa",
+  "story": "Morrisův červ byl první počítačový červ, který se šířil internetem. Jeho autor Robert Tappan Morris tak nechtěně ukázal, jak zranitelná síť tehdy byla.",
+  "keywords": [
+    "virus",
+    "internet",
+    "cyber"
+  ],
+  "style": "classic",
+  "product": {
+    "id": "HPE-ARUBA-AP505-WE",
+    "name": "HPE Aruba AP-505 - White R2H28A",
+    "price": "2 390 Kč",
+    "url": "https://www.hellocomp.cz/hpe-aruba-ap-505-white/",
+    "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/19011_c502dfd14b5a10de-l.webp?6a513a28",
+    "category": "Heureka.cz | Elektronika | Počítače a notebooky | Síťové prvky | Access pointy a routery"
+  }
+}

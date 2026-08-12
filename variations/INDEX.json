@@ -1,0 +1,231 @@
+[
+  {
+    "topic": "bezpecnost",
+    "day": "11-02",
+    "year": 1988,
+    "headline": "První internetový červ vypuštěn do světa",
+    "story": "Morrisův červ byl první počítačový červ, který se šířil internetem. Jeho autor Robert Tappan Morris tak nechtěně ukázal, jak zranitelná síť tehdy byla.",
+    "keywords": [
+      "virus",
+      "internet",
+      "cyber"
+    ],
+    "style": "classic",
+    "product": {
+      "id": "HPE-ARUBA-AP505-WE",
+      "name": "HPE Aruba AP-505 - White R2H28A",
+      "price": "2 390 Kč",
+      "url": "https://www.hellocomp.cz/hpe-aruba-ap-505-white/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/19011_c502dfd14b5a10de-l.webp?6a513a28",
+      "category": "Heureka.cz | Elektronika | Počítače a notebooky | Síťové prvky | Access pointy a routery"
+    }
+  },
+  {
+    "topic": "procesory-a-cipy",
+    "day": "10-18",
+    "year": 1954,
+    "headline": "Tranzistorové rádio do kapsy: hudba najednou šla s vámi",
+    "story": "Texas Instruments oznámila výrobu prvního přenosného tranzistorového rozhlasového přijímače, který se vzápětí začal sériově vyrábět. Hudba a zprávy se tak poprvé vešly do kapsy.",
+    "keywords": [
+      "tranzistor",
+      "radio"
+    ],
+    "style": "editorial",
+    "product": {
+      "id": "AMD7-3700X",
+      "name": "AMD Ryzen 7 3700X 100-100000071BOX",
+      "price": "2 790 Kč",
+      "url": "https://www.hellocomp.cz/amd-ryzen-7-3700x-tray/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/1954_amd-ryzen-7-3700x-tray.png?6a4a78a2",
+      "category": "Heureka.cz | Elektronika | Počítače a notebooky | Počítačové komponenty | Procesory"
+    }
+  },
+  {
+    "topic": "graficke-karty",
+    "day": "11-22",
+    "year": 1995,
+    "headline": "Toy Story dokazuje, co zvládne počítačová grafika",
+    "story": "Do amerických kin dorazil Toy Story, první celovečerní film vytvořený čistě počítačovou grafikou. Buzz a Woody tak odstartovali éru CGI animace.",
+    "keywords": [
+      "pocitac",
+      "graficka",
+      "software"
+    ],
+    "style": "duotone",
+    "product": {
+      "id": "ASUSPRIME5070OC_NOV",
+      "name": "ASUS PRIME GeForce RTX 5070 12GB OC Stav: Nový 90YV0M10-M0NA00",
+      "price": "17 490 Kč",
+      "url": "https://www.hellocomp.cz/asus-prime-geforce-rtx-5070-12gb-oc/?variantId=49381",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/8000_ecr57p1.jpg?6a4a78a2",
+      "category": "Heureka.cz | Elektronika | Počítače a notebooky | Počítačové komponenty | Grafické karty"
+    }
+  },
+  {
+    "topic": "mysi-a-klavesnice",
+    "day": "11-17",
+    "year": 1970,
+    "headline": "Douglas Engelbart patentuje počítačovou myš",
+    "story": "Douglas Engelbart získal patent na počítačovou myš. Malá krabička pod dlaní se stala jedním z nejdůležitějších vynálezů historie počítačů.",
+    "keywords": [
+      "mys",
+      "pocitac"
+    ],
+    "style": "classic",
+    "product": {
+      "id": "080570",
+      "name": "ONIKUMA G69 - Black G69 black",
+      "price": "1 090 Kč",
+      "url": "https://www.hellocomp.cz/onikuma-g69-black/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/14884_onikuma-g69-black.jpg?6a4a78a2",
+      "category": "Heureka.cz | Elektronika | Počítače a notebooky | Klávesnice a myši | Klávesnice"
+    }
+  },
+  {
+    "topic": "monitory-a-tv",
+    "day": "01-18",
+    "year": 1921,
+    "headline": "Zrodil se základ legendární československé TESLY",
+    "story": "V Praze vznikla společnost Elektra, výrobce žárovek, elektronek a rozhlasové techniky. Právě z ní se v roce 1946 stal základ obřího národního podniku TESLA.",
+    "keywords": [
+      "radio",
+      "televize"
+    ],
+    "style": "editorial",
+    "product": {
+      "id": "UYY-U3-161-FHD",
+      "name": "UYY U3 16.1\" FHD Portable Monitor U3",
+      "price": "2 490 Kč",
+      "url": "https://www.hellocomp.cz/uyy-u3-16-1--fhd-portable-monitor/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/19626_image-photoroom.jpg?6a6bc0ea",
+      "category": "Heureka.cz | Elektronika | Počítače a notebooky | Monitory"
+    }
+  },
+  {
+    "topic": "internet-a-wifi",
+    "day": "08-17",
+    "year": 2021,
+    "headline": "Sbohem, Internet Explorere",
+    "story": "Microsoft ukončil veškerou podporu prohlížeče Internet Explorer. Legendární modré „e“, se kterým půlka internetu vyrostla, tak definitivně odešlo do důchodu.",
+    "keywords": [
+      "microsoft",
+      "internet",
+      "web"
+    ],
+    "style": "duotone",
+    "product": {
+      "id": "HPE-ARUBA-AP505-WE",
+      "name": "HPE Aruba AP-505 - White R2H28A",
+      "price": "2 390 Kč",
+      "url": "https://www.hellocomp.cz/hpe-aruba-ap-505-white/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/19011_c502dfd14b5a10de-l.webp?6a513a28",
+      "category": "Heureka.cz | Elektronika | Počítače a notebooky | Síťové prvky | Access pointy a routery"
+    }
+  },
+  {
+    "topic": "telefony",
+    "day": "09-10",
+    "year": 2013,
+    "headline": "Apple ukázal iPhone 5S a barevný iPhone 5C",
+    "story": "Apple v tento den představil nové modely iPhone 5S a iPhone 5C. Jedna keynote, dva telefony – a fronty před obchody byly zase o něco delší.",
+    "keywords": [
+      "iphone",
+      "apple",
+      "smartphone"
+    ],
+    "style": "classic",
+    "product": {
+      "id": "OSCL-FALT-1C-2_32GB-MB",
+      "name": "Oscal FLAT 1C 2+32GB - Moonshade Black",
+      "price": "1 990 Kč",
+      "url": "https://www.hellocomp.cz/oscal-flat-1c-2-32gb-moonshade-black/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/14476_oscal-flat-1c-2-32gb-moonshade-black.jpg?6a4a78a2",
+      "category": "Heureka.cz | Elektronika | Mobily, tablety, nositelná elektronika | Mobilní telefony"
+    }
+  },
+  {
+    "topic": "gaming",
+    "day": "09-17",
+    "year": 2013,
+    "headline": "GTA V dorazilo na PlayStation 3 a Xbox 360",
+    "story": "Dlouho očekávané Grand Theft Auto V vyšlo na konzole PlayStation 3 a Xbox 360. Herní svět se na pár týdnů zastavil, protože všichni vyrazili do Los Santos.",
+    "keywords": [
+      "videohra",
+      "playstation",
+      "xbox",
+      "konzole"
+    ],
+    "style": "editorial",
+    "product": {
+      "id": "LENOVO-LEGON-GOS-8ARP1-512-GW",
+      "name": "Lenovo Legion Go S 8ARP1 512GB - Glacier White 83L3000HFR",
+      "price": "10 490 Kč",
+      "url": "https://www.hellocomp.cz/lenovo-legion-go-s-8arp1-512gb-glacier-white/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/15762_lenovo-legion-go-s-8arp1-512gb-glacier-white.jpg?6a4a78a2",
+      "category": "Heureka.cz | Gaming | Herní konzole"
+    }
+  },
+  {
+    "topic": "ukladani-dat",
+    "day": "06-21",
+    "year": 1948,
+    "headline": "První program uložený v paměti se rozběhl",
+    "story": "Na počítači Manchester Mark I běžel poprvé počítačový program uložený v paměti. Přesně tenhle princip pohání každý dnešní počítač, mobil i konzoli.",
+    "keywords": [
+      "pocitac",
+      "pamet",
+      "software",
+      "computer"
+    ],
+    "style": "duotone",
+    "product": {
+      "id": "PATRIOTSLB8-S-DDR4-2133CL16",
+      "name": "Patriot Signature Line Black 8GB (1x8GB) DDR4 2133MHz CL15 PSD48G213381",
+      "price": "990 Kč",
+      "url": "https://www.hellocomp.cz/patriot-signature-line-black-8gb--1x8gb--ddr4-2133mhz-cl15/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/17511-1_f6106c501cca491e-l.webp?6a4a78a2",
+      "category": "Heureka.cz | Elektronika | Počítače a notebooky | Počítačové komponenty | Paměti"
+    }
+  },
+  {
+    "topic": "pocitace",
+    "day": "08-12",
+    "year": 1981,
+    "headline": "IBM PC zahájil éru osobních počítačů",
+    "story": "IBM začala prodávat svůj první osobní počítač IBM PC. Právě od něj se odvíjí celá rodina „pécéček“, na kterých dnes pracujeme i hrajeme.",
+    "keywords": [
+      "ibm",
+      "pocitac",
+      "computer"
+    ],
+    "style": "classic",
+    "product": {
+      "id": "AMDGAMERINDIVIDUALPRODDR59060XT",
+      "name": "HelloComp AMD GAMER Individual Pro DDR5 9060 XT",
+      "price": "36 990 Kč",
+      "url": "https://www.hellocomp.cz/hellocomp-amd-gamer-individual-pro-ddr5-9060-xt/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/7157_hellocomp-amd-gamer-individual-pro-ddr5-9060-xt.png?6a4a78a2",
+      "category": "Heureka.cz | Elektronika | Počítače a notebooky | Stolní počítače"
+    }
+  },
+  {
+    "topic": "audio",
+    "day": "09-04",
+    "year": 1837,
+    "headline": "Morse poprvé předvedl telegraf a jeho tečky s čárkami",
+    "story": "Samuel Morse poprvé předvedl svůj telegraf a o měsíc později ho přihlásil k patentování. Pro přenos zpráv vymyslel vlastní abecedu z teček a čárek, kterou zná svět dodnes.",
+    "keywords": [
+      "network",
+      "radio"
+    ],
+    "style": "editorial",
+    "product": {
+      "id": "ANKER-SOUNDCORE-P30I-BK",
+      "name": "Anker Soundcore P30i - Black A3959Z11",
+      "price": "1 390 Kč",
+      "url": "https://www.hellocomp.cz/anker-soundcore-p30i-black/",
+      "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/15415_anker-soundcore-p30i-black.jpg?6a4a78a2",
+      "category": "Heureka.cz | Elektronika | TV, audio, video | Sluchátka"
+    }
+  }
+]

@@ -1,0 +1,41 @@
+name: Make reels (video)
+
+# ONE-CLICK background video generation — free on GitHub Actions.
+# Trigger from the Actions tab (Run workflow) or the link in the presentation
+# timeline. Renders a 9:16 MP4 reel for every day in the range and uploads
+# them as a downloadable artifact. No paid services, no local compute.
+
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: "Od (YYYY-MM-DD)"
+        required: true
+        default: "2026-08-14"
+      end:
+        description: "Do (YYYY-MM-DD)"
+        required: true
+        default: "2026-08-31"
+
+jobs:
+  reels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: |
+          sudo apt-get update -q && sudo apt-get install -y -q ffmpeg
+          pip install -r requirements.txt
+      - name: Render reels
+        env:
+          PYTHONPATH: src
+        run: python scripts/make_reels.py "${{ inputs.start }}" "${{ inputs.end }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reels-${{ inputs.start }}-${{ inputs.end }}
+          path: out/reels/
+          retention-days: 30

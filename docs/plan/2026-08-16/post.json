@@ -1,0 +1,28 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-16",
+  "fact": "Slunce vypnulo burzu v Torontu",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "pocitac",
+    "computer"
+  ],
+  "product": {
+    "id": "AMDGAMERMAXDDR55060TI_DK431-B",
+    "name": "HelloComp AMD GAMER Max DDR5 5060 Ti/DK431-B Skříň: darkFlash DK431 Black",
+    "price": "47 490 Kč",
+    "url": "https://www.hellocomp.cz/hellocomp-amd-gamer-max-ddr5-5060-ti/?variantId=32294"
+  },
+  "caption": "📅 Píše se rok 1989. Slunce vypnulo burzu v Torontu\n\nSluneční erupce zasáhla počítače torontské burzy a obchodování se muselo zastavit. Ano, i vesmírné počasí umí shodit počítač.\n\nVíc v carouselu. A jestli tě to chytlo — odkaz v bio. ⚡\n➡️ HelloComp AMD GAMER Max DDR5 5060 Ti/DK431-B Skříň: darkFlash DK431 Black za 47 490 Kč\n\n#hellocomp #vtentoden #historietechniky #pocitac #technika\n\n🛒 https://www.hellocomp.cz/hellocomp-amd-gamer-max-ddr5-5060-ti/?variantId=32294&utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "duotone",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-16-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-16-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-16-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-16-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

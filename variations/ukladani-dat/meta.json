@@ -1,0 +1,22 @@
+{
+  "topic": "ukladani-dat",
+  "day": "06-21",
+  "year": 1948,
+  "headline": "První program uložený v paměti se rozběhl",
+  "story": "Na počítači Manchester Mark I běžel poprvé počítačový program uložený v paměti. Přesně tenhle princip pohání každý dnešní počítač, mobil i konzoli.",
+  "keywords": [
+    "pocitac",
+    "pamet",
+    "software",
+    "computer"
+  ],
+  "style": "duotone",
+  "product": {
+    "id": "PATRIOTSLB8-S-DDR4-2133CL16",
+    "name": "Patriot Signature Line Black 8GB (1x8GB) DDR4 2133MHz CL15 PSD48G213381",
+    "price": "990 Kč",
+    "url": "https://www.hellocomp.cz/patriot-signature-line-black-8gb--1x8gb--ddr4-2133mhz-cl15/",
+    "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/17511-1_f6106c501cca491e-l.webp?6a4a78a2",
+    "category": "Heureka.cz | Elektronika | Počítače a notebooky | Počítačové komponenty | Paměti"
+  }
+}

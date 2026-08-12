@@ -1,0 +1,28 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-19",
+  "fact": "Bělka a Strelka odstartovaly na oběžnou dráhu",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "pocitac",
+    "monitor"
+  ],
+  "product": {
+    "id": "AMDGAMERPRO5070_DK431-B",
+    "name": "HelloComp AMD GAMER Pro 5070/DK431-B Skříň: darkFlash DK431 Black",
+    "price": "40 490 Kč",
+    "url": "https://www.hellocomp.cz/hellocomp-amd-gamer-pro-5070/?variantId=25667"
+  },
+  "caption": "📅 Píše se rok 1960. Bělka a Strelka odstartovaly na oběžnou dráhu\n\nSovětská loď Korabl-Sputnik 2 vynesla do vesmíru psí posádku Bělku a Strelku, 40 myší a dvě krysy. Celá chlupatá výprava se v pořádku vrátila na Zemi.\n\nVíc v carouselu. A jestli tě to chytlo — odkaz v bio. ⚡\n➡️ HelloComp AMD GAMER Pro 5070/DK431-B Skříň: darkFlash DK431 Black za 40 490 Kč\n\n#hellocomp #vtentoden #historietechniky #pocitac #technika\n\n🛒 https://www.hellocomp.cz/hellocomp-amd-gamer-pro-5070/?variantId=25667&utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "duotone",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-19-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-19-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-19-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-19-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

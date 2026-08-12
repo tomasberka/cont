@@ -1,0 +1,28 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-20",
+  "fact": "Voyager 2 odstartoval na nejdelší služební cestu historie",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "pocitac",
+    "memory"
+  ],
+  "product": {
+    "id": "INTELGAMERDDR55070_DK431-B",
+    "name": "HelloComp Intel GAMER DDR5 5070/DK431-B Skříň: darkFlash DK431 Black",
+    "price": "43 490 Kč",
+    "url": "https://www.hellocomp.cz/hellocomp-intel-gamer-ddr5-5070/?variantId=27893"
+  },
+  "caption": "📅 Píše se rok 1977. Voyager 2 odstartoval na nejdelší služební cestu historie\n\nNASA vypustila sondu Voyager 2, která postupně navštívila Jupiter, Saturn, Uran i Neptun. Její palubní počítač s miniaturní pamětí funguje dodnes, miliardy kilometrů od Země.\n\nCelý příběh máš v carouselu — a produkt v odkazu v bio. 👆\n➡️ HelloComp Intel GAMER DDR5 5070/DK431-B Skříň: darkFlash DK431 Black za 43 490 Kč\n\n#hellocomp #vtentoden #historietechniky #pocitac #technika\n\n🛒 https://www.hellocomp.cz/hellocomp-intel-gamer-ddr5-5070/?variantId=27893&utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "classic",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-20-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-20-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-20-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-20-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}
