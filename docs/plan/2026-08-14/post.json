@@ -1,0 +1,28 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-14",
+  "fact": "Edisonův fonograf přehrál jednu z prvních nahrávek hudby",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "audio",
+    "sluchatka"
+  ],
+  "product": {
+    "id": "065065",
+    "name": "ONIKUMA X15Pro Pink/Deer Horns",
+    "price": "790 Kč",
+    "url": "https://www.hellocomp.cz/onikuma-x15pro-pink-deer-horns/"
+  },
+  "caption": "📅 Píše se rok 1888. Edisonův fonograf přehrál jednu z prvních nahrávek hudby\n\nNa tiskové konferenci v Londýně zazněla nahrávka skladby The Lost Chord – jedna z prvních hudebních nahrávek vůbec. Představila světu Edisonův fonograf, pradědečka všech přehrávačů.\n\nCelý příběh máš v carouselu — a produkt v odkazu v bio. 👆\n➡️ ONIKUMA X15Pro Pink/Deer Horns za 790 Kč\n\n#hellocomp #vtentoden #historietechniky #sluchatka #audio\n\n🛒 https://www.hellocomp.cz/onikuma-x15pro-pink-deer-horns/?utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "classic",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-14-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-14-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-14-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-14-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

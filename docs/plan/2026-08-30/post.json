@@ -1,0 +1,29 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-30",
+  "fact": "Narodil se John Mauchly, spolutvůrce počítače ENIAC",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "pocitac",
+    "computer",
+    "notebook"
+  ],
+  "product": {
+    "id": "INTELGAMER5070TIPA-ASUS",
+    "name": "HelloComp Intel GAMER 5070 Ti ProArt (Powered by ASUS)",
+    "price": "79 990 Kč",
+    "url": "https://www.hellocomp.cz/hellocomp-intel-gamer-5070-ti-proart--powered-by-asus/"
+  },
+  "caption": "📅 Píše se rok 1907. Narodil se John Mauchly, spolutvůrce počítače ENIAC\n\nAmerický fyzik John Mauchly spolunavrhl ENIAC, jeden z prvních elektronických počítačů, a spoluzaložil vůbec první počítačovou firmu. Jeho stroj vážil 27 tun – dnešní notebook zvládne víc.\n\nSwipni pro celý příběh. Produkt najdeš v odkazu v bio. 👀\n➡️ HelloComp Intel GAMER 5070 Ti ProArt (Powered by ASUS) za 79 990 Kč\n\n#hellocomp #vtentoden #historietechniky #pocitac #technika\n\n🛒 https://www.hellocomp.cz/hellocomp-intel-gamer-5070-ti-proart--powered-by-asus/?utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "editorial",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-30-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-30-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-30-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-30-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

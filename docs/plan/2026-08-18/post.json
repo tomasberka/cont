@@ -1,0 +1,29 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-18",
+  "fact": "Narodila se Klara Dan von Neumann, programátorka prvních počítačů",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "programator",
+    "pocitac",
+    "software"
+  ],
+  "product": {
+    "id": "AMDGAMEREXTREME5060TI_DK431-B",
+    "name": "HelloComp AMD GAMER Extreme 5060 Ti/DK431-B Skříň: darkFlash DK431 Black",
+    "price": "60 490 Kč",
+    "url": "https://www.hellocomp.cz/hellocomp-amd-gamer-extreme-5060-ti/?variantId=32231"
+  },
+  "caption": "📅 Píše se rok 1911. Narodila se Klara Dan von Neumann, programátorka prvních počítačů\n\nKlara Dan von Neumann patřila k prvním programátorům historie a psala kód pro legendární počítače ENIAC a MANIAC. Programování tehdy znamenalo přepínat tisíce spínačů ručně.\n\nSwipni pro celý příběh. Produkt najdeš v odkazu v bio. 👀\n➡️ HelloComp AMD GAMER Extreme 5060 Ti/DK431-B Skříň: darkFlash DK431 Black za 60 490 Kč\n\n#hellocomp #vtentoden #historietechniky #pocitac #technika\n\n🛒 https://www.hellocomp.cz/hellocomp-amd-gamer-extreme-5060-ti/?variantId=32231&utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "editorial",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-18-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-18-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-18-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-18-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

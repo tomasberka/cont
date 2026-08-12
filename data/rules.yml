@@ -1,0 +1,169 @@
+# Keyword rules for the contenthub pipeline.
+# All matching is done on lowercase, diacritics-stripped text
+# ("grafická karta" -> "graficka karta"), so write triggers without diacritics.
+#
+# tech_scoring: words that make an "on this day" fact TECH-relevant.
+#   Higher weight = stronger signal. A fact must reach min_score to be used;
+#   otherwise the pipeline falls back to an evergreen product post.
+#
+# product_rules: fact keywords -> search terms matched against
+#   product name + category + manufacturer in the Shoptet feed.
+
+min_score: 3
+
+tech_scoring:
+  # computing (cs + en, diacritics stripped)
+  pocitac: 4        # počítač
+  computer: 4
+  procesor: 4
+  processor: 4
+  microprocessor: 5
+  cpu: 4
+  intel: 4
+  amd: 4
+  nvidia: 4
+  apple: 3
+  microsoft: 4
+  ibm: 4
+  google: 3
+  software: 3
+  hardware: 4
+  operacni system: 4
+  operating system: 4
+  windows: 4
+  linux: 4
+  macintosh: 4
+  internet: 4
+  web: 3
+  www: 4
+  browser: 3
+  prohlizec: 3      # prohlížeč
+  email: 3
+  e-mail: 3
+  virus: 4
+  hacker: 4
+  kyber: 4          # kyberútok, kybernetický
+  cyber: 4
+  robot: 3
+  umela inteligence: 4   # umělá inteligence
+  artificial intelligence: 4
+  cip: 4            # čip
+  chip: 4
+  tranzistor: 5
+  transistor: 5
+  telefon: 3
+  smartphone: 4
+  iphone: 4
+  mobil: 3
+  konzole: 3
+  playstation: 4
+  nintendo: 4
+  xbox: 4
+  videohra: 4
+  video game: 4
+  atari: 4
+  commodore: 4
+  klavesnice: 4     # klávesnice
+  keyboard: 3
+  mys: 3            # myš — short, only as whole word (handled in code)
+  monitor: 3
+  displej: 3
+  television: 2
+  televize: 2
+  druzice: 3        # družice
+  satellite: 3
+  vesmir: 2         # vesmír
+  nasa: 3
+  sputnik: 3
+  raketa: 2
+  laser: 3
+  disketa: 5
+  floppy: 5
+  pevny disk: 5
+  hard disk: 5
+  usb: 4
+  wifi: 4
+  wi-fi: 4
+  bluetooth: 4
+  gps: 3
+  ethernet: 5
+  sit: 2            # síť
+  network: 2
+  programator: 4    # programátor
+  programmer: 4
+  programovani: 4
+  programming: 4
+  algoritmus: 4
+  algorithm: 3
+  turing: 5
+  babbage: 5
+  ada lovelace: 5
+  elektronika: 3
+  electronics: 3
+  polovodic: 4      # polovodič
+  semiconductor: 5
+  kalkulacka: 4     # kalkulačka
+  calculator: 4
+  arpanet: 5
+  wikipedia: 3
+  patent: 2
+  vynalez: 3        # vynález
+  invention: 3
+  elektricky: 2     # elektrický
+  electric: 2
+  edison: 4
+  tesla: 4
+
+# Fact keyword -> product search terms (matched against product blob).
+# First matching rule wins; terms are tried in order.
+product_rules:
+  - triggers: [virus, hacker, kyber, cyber, security]
+    terms: [antivir, zabezpec, software]
+  - triggers: [procesor, processor, microprocessor, cpu, intel, amd, tranzistor, transistor, cip, chip, polovodic, semiconductor]
+    terms: [procesory, procesor]
+  - triggers: [nvidia, graficka, graphics, gpu]
+    terms: [graficke karty, graficka]
+  - triggers: [mys, mouse]
+    terms: [mysi, mys]
+  - triggers: [klavesnice, keyboard]
+    terms: [klavesnice]
+  - triggers: [monitor, displej, display, televize, television]
+    terms: [monitory, monitor, televiz]
+  - triggers: [internet, web, www, arpanet, ethernet, sit, network, wifi, wi-fi, router]
+    terms: [routery, router, sitov, wifi]
+  - triggers: [telefon, smartphone, iphone, mobil, phone]
+    terms: [mobilni telefony, telefon, mobil]
+  - triggers: [playstation, nintendo, xbox, videohra, video game, konzole, atari, commodore]
+    terms: [konzole, herni, gaming]
+  - triggers: [disketa, floppy, pevny disk, hard disk, usb, pamet, memory, storage]
+    terms: [pameti, disky, ssd, usb]
+  - triggers: [notebook, laptop]
+    terms: [notebooky, notebook]
+  - triggers: [pocitac, computer, ibm, macintosh, apple, microsoft, windows, linux, operacni system, operating system, programator, programmer, turing, algoritmus, algorithm, software]
+    terms: [stolni pocitace, pocitac]
+  - triggers: [sluchatka, headphones, audio, zvuk, sound, radio]
+    terms: [sluchatka, audio]
+  - triggers: [kalkulacka, calculator]
+    terms: [kalkulacky, kalkulacka]
+
+# Product priority (margin proxy — TUNE THIS with real margin knowledge).
+# Feed carries no margin data, so selection prefers/penalizes by terms matched
+# against the product blob. Only in-stock products (DELIVERY_DATE=0) are ever
+# picked; among candidates the highest-priority tier wins, then daily rotation.
+product_priority:
+  boost:        # vlastní sestavy a privátní řada = typicky nejvyšší marže
+    - hellocomp
+    - gamer
+  penalty:      # nízkomaržové položky (TRAY CPU bez krabice apod.)
+    - tray
+
+# When no fact matches (evergreen day): rotate through these category terms.
+evergreen_terms:
+  - stolni pocitace
+  - graficke karty
+  - procesory
+  - mysi
+  - klavesnice
+  - sluchatka
+  - monitory
+  - mobilni telefony

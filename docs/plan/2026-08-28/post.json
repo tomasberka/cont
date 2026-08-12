@@ -1,0 +1,29 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-28",
+  "fact": "Narodil se Satoshi Tajiri, tvůrce Pokémonů",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "nintendo",
+    "videohra",
+    "konzole"
+  ],
+  "product": {
+    "id": "LENOVO-LEGON-GOS-8ARP1-512-GW",
+    "name": "Lenovo Legion Go S 8ARP1 512GB - Glacier White 83L3000HFR",
+    "price": "10 490 Kč",
+    "url": "https://www.hellocomp.cz/lenovo-legion-go-s-8arp1-512gb-glacier-white/"
+  },
+  "caption": "📅 Píše se rok 1965. Narodil se Satoshi Tajiri, tvůrce Pokémonů\n\nJaponský vývojář Satoshi Tajiri vymyslel Pokémony inspirované svým dětským sbíráním brouků. Z nápadu pro kapesní konzole Nintendo se stal největší herní fenomén planety.\n\nVíc v carouselu. A jestli tě to chytlo — odkaz v bio. ⚡\n➡️ Lenovo Legion Go S 8ARP1 512GB - Glacier White 83L3000HFR za 10 490 Kč\n\n#hellocomp #vtentoden #historietechniky #gaming #retrogaming\n\n🛒 https://www.hellocomp.cz/lenovo-legion-go-s-8arp1-512gb-glacier-white/?utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "duotone",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-28-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-28-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-28-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-28-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

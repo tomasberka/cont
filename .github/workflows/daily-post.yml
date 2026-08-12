@@ -1,0 +1,102 @@
+name: Daily post
+
+on:
+  schedule:
+    # 17:17 Prague time (native timezone support, added to Actions in March 2026).
+    # Off-the-hour minute chosen deliberately — top-of-hour crons get delayed most.
+    - cron: "17 17 * * *"
+      timezone: "Europe/Prague"
+  workflow_dispatch:
+    inputs:
+      live:
+        description: "Actually publish to Instagram (otherwise dry-run)"
+        type: boolean
+        default: false
+      date:
+        description: "Override date YYYY-MM-DD (empty = today)"
+        required: false
+
+permissions:
+  contents: write # commit state.db back + upload artifacts
+
+concurrency:
+  group: daily-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          MEDIA_PUBLIC_BASE: ${{ vars.MEDIA_PUBLIC_BASE }}
+          CAROUSEL_STYLE: ${{ vars.CAROUSEL_STYLE || 'auto' }}
+          DRY_RUN: ${{ (github.event_name == 'workflow_dispatch' && inputs.live) && '0' || '1' }}
+          PYTHONPATH: src
+        run: |
+          ARGS=""
+          if [ -n "${{ inputs.date }}" ]; then ARGS="--date ${{ inputs.date }}"; fi
+          if [ "$DRY_RUN" = "0" ]; then ARGS="$ARGS --live"; fi
+          python -m contenthub run $ARGS
+
+      - name: Upload generated post (review artifact)
+        uses: actions/upload-artifact@v4
+        with:
+          name: post-${{ github.run_id }}
+          path: out/
+          retention-days: 14
+
+      # --- OPTIONAL: upload media to Cloudflare R2 (uncomment after enabling R2;
+      #     see AUTONOMY.md step 2) ---
+      # - name: Upload media to R2
+      #   env:
+      #     AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      #     AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      #   run: |
+      #     aws s3 cp out/ s3://contenthub-media/ --recursive --exclude "*" \
+      #       --include "post-*.jpg" --endpoint-url ${{ secrets.R2_ENDPOINT }}
+
+      - name: Sync post record to Cloudflare D1 (optional, needs CF_* secrets)
+        if: always()
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CF_D1_DATABASE_ID: ${{ secrets.CF_D1_DATABASE_ID }}
+        run: |
+          J=$(ls out/post-*.json 2>/dev/null | head -1)
+          if [ -n "$J" ]; then python scripts/sync_d1.py "$J"; fi
+
+      - name: Post pack summary (manual publishing)
+        if: always()
+        run: |
+          {
+            echo "## 📱 Dnešní post — ručně zkopíruj a nahraj"
+            echo ""
+            echo "**Slidy:** stáhni artifact \`post-${{ github.run_id }}\` výše (3× JPG)."
+            echo ""
+            echo "**Caption (zkopíruj):**"
+            echo '```'
+            cat out/post-*-caption.txt 2>/dev/null || echo "(caption nenalezen)"
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Persist state.db (also resets the 60-day scheduler clock)
+        run: |
+          git config user.name "contenthub-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f data/state.db
+          git commit -m "state: $(date -u +%F) post recorded [skip ci]" || echo "no change"
+          git push

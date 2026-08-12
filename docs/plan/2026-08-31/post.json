@@ -1,0 +1,27 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-31",
+  "fact": "Edison si nechal patentovat předchůdce filmového projektoru",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "displej"
+  ],
+  "product": {
+    "id": "PHILIPS-27M2N3201A",
+    "name": "Philips 27M2N3201A 27\"",
+    "price": "3 890 Kč",
+    "url": "https://www.hellocomp.cz/philips-27m2n3201a-27/"
+  },
+  "caption": "📅 Píše se rok 1897. Edison si nechal patentovat předchůdce filmového projektoru\n\nThomas Edison získal patent na kinetoskop, předchůdce moderního filmového projektoru. Bez tohohle vynálezu by dnes nebylo kino ani filmové večery u obrazovky.\n\nVíc v carouselu. A jestli tě to chytlo — odkaz v bio. ⚡\n➡️ Philips 27M2N3201A 27\" za 3 890 Kč\n\n#hellocomp #vtentoden #historietechniky\n\n🛒 https://www.hellocomp.cz/philips-27m2n3201a-27/?utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "duotone",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-31-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-31-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-31-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-31-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

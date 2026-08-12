@@ -1,0 +1,29 @@
+{
+  "status": "dry-run",
+  "date": "2026-08-23",
+  "fact": "Web se otevřel veřejnosti a už nešel zastavit",
+  "fact_lang": "cs",
+  "fact_keywords": [
+    "www",
+    "web",
+    "internet"
+  ],
+  "product": {
+    "id": "HPE-ARUBA-AP505-WE",
+    "name": "HPE Aruba AP-505 - White R2H28A",
+    "price": "2 390 Kč",
+    "url": "https://www.hellocomp.cz/hpe-aruba-ap-505-white/"
+  },
+  "caption": "📅 Píše se rok 1991. Web se otevřel veřejnosti a už nešel zastavit\n\nWorld Wide Web byl zpřístupněn veřejnosti. Od toho dne může brouzdat po webu opravdu každý – a svět už nikdy nebyl stejný.\n\nCelý příběh máš v carouselu — a produkt v odkazu v bio. 👆\n➡️ HPE Aruba AP-505 - White R2H28A za 2 390 Kč\n\n#hellocomp #vtentoden #historietechniky #internet #wifi\n\n🛒 https://www.hellocomp.cz/hpe-aruba-ap-505-white/?utm_source=instagram&utm_medium=social&utm_campaign=onthisday",
+  "caption_source": "bank",
+  "format": "carousel",
+  "style": "classic",
+  "slides": [
+    "/home/claude/contenthub/out/post-2026-08-23-1.jpg",
+    "/home/claude/contenthub/out/post-2026-08-23-2.jpg",
+    "/home/claude/contenthub/out/post-2026-08-23-3.jpg"
+  ],
+  "image": "/home/claude/contenthub/out/post-2026-08-23-1.jpg",
+  "reel": null,
+  "publish_note": "No MEDIA_PUBLIC_BASE configured — dry run"
+}

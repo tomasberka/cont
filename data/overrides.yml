@@ -1,0 +1,21 @@
+# RUČNÍ VÝBĚR PRODUKTU KE DNI — nejvyšší priorita, přebije automatický matcher.
+#
+# Tři způsoby, jak určit produkt (stačí jeden):
+#   product_id:   přesné ITEM_ID z feedu  -> vždy tenhle konkrétní produkt
+#   product_term: hledaný výraz            -> nejlepší skladem produkt na výraz
+#                                             (bez diakritiky, hledá se v názvu
+#                                              + kategorii + výrobci)
+#   skip: true                              -> ten den se post negeneruje
+#
+# Formát data: YYYY-MM-DD (konkrétní den) nebo MM-DD (každý rok).
+# Automatika zůstává výchozí — sem piš jen dny, kde chceš mít poslední slovo.
+#
+# Příklady (odkomentuj a uprav):
+# "2026-08-24":            # Windows 95 -> chci tlačit konkrétní sestavu
+#   product_id: "041314"
+# "09-09":                 # každoročně 9. 9. -> herní klávesnice
+#   product_term: "klavesnice herni"
+# "2026-12-24":
+#   skip: true             # Štědrý den bez postu
+
+{}

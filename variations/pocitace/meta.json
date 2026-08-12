@@ -1,0 +1,21 @@
+{
+  "topic": "pocitace",
+  "day": "08-12",
+  "year": 1981,
+  "headline": "IBM PC zahájil éru osobních počítačů",
+  "story": "IBM začala prodávat svůj první osobní počítač IBM PC. Právě od něj se odvíjí celá rodina „pécéček“, na kterých dnes pracujeme i hrajeme.",
+  "keywords": [
+    "ibm",
+    "pocitac",
+    "computer"
+  ],
+  "style": "classic",
+  "product": {
+    "id": "AMDGAMERINDIVIDUALPRODDR59060XT",
+    "name": "HelloComp AMD GAMER Individual Pro DDR5 9060 XT",
+    "price": "36 990 Kč",
+    "url": "https://www.hellocomp.cz/hellocomp-amd-gamer-individual-pro-ddr5-9060-xt/",
+    "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/7157_hellocomp-amd-gamer-individual-pro-ddr5-9060-xt.png?6a4a78a2",
+    "category": "Heureka.cz | Elektronika | Počítače a notebooky | Stolní počítače"
+  }
+}

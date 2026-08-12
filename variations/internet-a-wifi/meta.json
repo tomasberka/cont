@@ -1,0 +1,21 @@
+{
+  "topic": "internet-a-wifi",
+  "day": "08-17",
+  "year": 2021,
+  "headline": "Sbohem, Internet Explorere",
+  "story": "Microsoft ukončil veškerou podporu prohlížeče Internet Explorer. Legendární modré „e“, se kterým půlka internetu vyrostla, tak definitivně odešlo do důchodu.",
+  "keywords": [
+    "microsoft",
+    "internet",
+    "web"
+  ],
+  "style": "duotone",
+  "product": {
+    "id": "HPE-ARUBA-AP505-WE",
+    "name": "HPE Aruba AP-505 - White R2H28A",
+    "price": "2 390 Kč",
+    "url": "https://www.hellocomp.cz/hpe-aruba-ap-505-white/",
+    "img": "https://cdn.myshoptet.com/usr/www.hellocomp.cz/user/shop/orig/19011_c502dfd14b5a10de-l.webp?6a513a28",
+    "category": "Heureka.cz | Elektronika | Počítače a notebooky | Síťové prvky | Access pointy a routery"
+  }
+}
