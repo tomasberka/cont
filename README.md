@@ -46,14 +46,12 @@ PYTHONPATH=src pytest -q                         # offline test suite
 
 ### Clean reels on Mac
 
-The reel generator uses the existing slides, with no extra overlays or icons:
-
 ```bash
-PYTHONPATH=src python3 scripts/make_reels_v5.py 2026-08-14 2026-08-31
+PYTHONPATH=src python scripts/make_reels.py 2026-08-14 2026-08-31
 ```
 
 Files are written to `out/reels/`. Add `--dry` to verify the date range without
-rendering.
+rendering. Copies into `docs/reels/` for GitHub Pages.
 
 Outputs land in `out/`: `post-YYYY-MM-DD.jpg`, `.json` (fact, product, caption), optionally `.mp4`.
 

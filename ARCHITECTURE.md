@@ -57,7 +57,8 @@ contenthub/
 │   │                      gradient, wordmark, smile, dot-grid)
 │   ├── media_carousel.py← 3 slidy, 3 styly, 9:16+4:5, safe zóna
 │   ├── media_image.py   ← jednokartový režim (POST_FORMAT=image)
-│   ├── media_reel.py    ← 9:16 MP4 (FFmpeg)
+│   ├── media_reel.py    ← 9:16 MP4 jednokartový (legacy, pipeline --reel)
+│   ├── media_reel_v5.py ← 9:16 MP4 cinematický: 3 slidy + Ken Burns + smooth xfade
 │   ├── publish.py       ← Meta Graph API v26.0 (image/carousel/reel, dry-run)
 │   ├── state.py         ← SQLite (dedup, cooldown, idempotence)
 │   ├── config.py        ← všechna env nastavení na jednom místě

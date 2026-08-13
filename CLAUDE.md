@@ -31,5 +31,5 @@ značkový carousel → caption). Python 3.11+, žádné placené služby, vše 
 PYTHONPATH=src python -m contenthub run              # dnešní post (dry-run)
 PYTHONPATH=src python scripts/make_plan.py A B       # plán pro rozsah dat
 PYTHONPATH=src python scripts/make_presentation.py   # prezentace z plánu
-PYTHONPATH=src python3 scripts/make_reels_v5.py A B # clean MP4 reels for Mac
+PYTHONPATH=src python scripts/make_reels.py A B       # MP4 reels
 ```

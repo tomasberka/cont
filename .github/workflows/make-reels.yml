@@ -33,7 +33,7 @@ jobs:
       - name: Render reels
         env:
           PYTHONPATH: src
-        run: python scripts/make_reels_v5.py "${{ inputs.start }}" "${{ inputs.end }}"
+        run: python scripts/make_reels.py "${{ inputs.start }}" "${{ inputs.end }}"
       - uses: actions/upload-artifact@v4
         with:
           name: reels-${{ inputs.start }}-${{ inputs.end }}
