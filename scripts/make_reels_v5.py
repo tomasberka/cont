@@ -1,13 +1,14 @@
-"""Batch render clean reels for all plan dates.
+"""Batch render clean reels for a date range on macOS.
 
-Reads PLAN.json + facts_bank.yml to get fact year, headline, and story
-for the data-driven overlays. Uses media_reel_v5.compose_reel().
+Usage:
+  PYTHONPATH=src python3 scripts/make_reels_v5.py 2026-08-14 2026-08-31
+  PYTHONPATH=src python3 scripts/make_reels_v5.py 2026-08-14 2026-08-14 --dry
 """
 from __future__ import annotations
 
+import datetime as dt
 import json
 import logging
-import re
 import sys
 from pathlib import Path
 
@@ -18,91 +19,53 @@ REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO / "src"))
 
 from contenthub.config import Config
-from contenthub.reel_icons import pick_icon
 from contenthub.media_reel_v5 import compose_reel
 
 PLAN = REPO / "docs" / "plan" / "PLAN.json"
-FACTS = REPO / "data" / "facts_bank.yml"
 OUT = REPO / "out" / "reels"
 
 
-def _parse_year_from_caption(caption: str) -> int | None:
-    m = re.search(r"rok\s+(\d{4})", caption)
-    return int(m.group(1)) if m else None
-
-
-def _load_facts_years() -> dict[str, int]:
-    """Parse facts_bank.yml to extract year per MM-DD key."""
-    years: dict[str, int] = {}
-    if not FACTS.exists():
-        return years
-    cur_key = None
-    for line in FACTS.read_text().splitlines():
-        m = re.match(r'^"?(?:0?(?:\d{1,2})-(?:\d{1,2}))"?\s*:', line)
-        if m:
-            raw = line.split(":")[0].strip().strip('"')
-            # normalize MM-DD
-            parts = raw.split("-")
-            if len(parts) == 2:
-                mm = parts[0].zfill(2)
-                dd = parts[1].zfill(2)
-                cur_key = f"{mm}-{dd}"
-        elif line.strip().startswith("year:") and cur_key:
-            ym = re.search(r"year:\s*(\d{4})", line)
-            if ym:
-                years[cur_key] = int(ym.group(1))
-    return years
-
-
-def main(dry: bool = False):
+def main(start: dt.date, end: dt.date, dry: bool = False) -> int:
     cfg = Config()
     plan = json.loads(PLAN.read_text())
-    fact_years = _load_facts_years()
-    log.info("Loaded %d fact years from bank", len(fact_years))
 
     rendered = 0
+    selected = 0
     for entry in plan:
-        date = entry["date"]
-        mm_dd = entry.get("dir", date[5:])  # "2026-08-14" → "08-14"
-        slide_dir = REPO / "docs" / "plan" / mm_dd
+        date = dt.date.fromisoformat(entry["date"])
+        if not start <= date <= end:
+            continue
+        selected += 1
+        slide_dir = REPO / "docs" / "plan" / entry.get("dir", entry["date"])
         slides = [slide_dir / f"post-{n}.jpg" for n in (1, 2, 3)]
 
         if not all(s.exists() for s in slides):
-            log.warning("Skip %s — missing slides", date)
+            log.error("Skip %s — missing slides", date)
             continue
 
-        icon = pick_icon(
-            entry.get("fact_keywords", []),
-            entry.get("pillar", ""),
-            entry.get("fact", ""),
-        )
-
-        # year from facts_bank (preferred) or from caption
-        year = fact_years.get(mm_dd)
-        if not year:
-            year = _parse_year_from_caption(entry.get("caption", ""))
-        if not year:
-            year = 2000
-
-        enriched = {
-            **entry,
-            "fact_year": year,
-            "headline": entry.get("fact", ""),
-            "story": entry.get("caption", "").split("\n\n")[0] if entry.get("caption") else "",
-        }
-
-        out = OUT / f"reel-{date}.mp4"
+        out = OUT / f"reel-{date.isoformat()}.mp4"
         if dry:
-            log.info("DRY %s  icon=%s  year=%d", date, icon, year)
+            log.info("DRY %s", date)
+            rendered += 1
             continue
 
         log.info("Rendering %s…", date)
-        compose_reel(slides, out, cfg)
-        rendered += 1
+        if compose_reel(slides, out, cfg):
+            rendered += 1
+        else:
+            log.error("Failed %s", date)
 
-    log.info("Done — rendered %d clean reels", rendered)
+    action = "checked" if dry else "rendered"
+    log.info("Done — %s %d/%d clean reels", action, rendered, selected)
+    return 0 if rendered == selected else 1
 
 
 if __name__ == "__main__":
-    dry = "--dry" in sys.argv
-    main(dry)
+    args = [arg for arg in sys.argv[1:] if arg != "--dry"]
+    if len(args) != 2:
+        raise SystemExit("Usage: make_reels_v5.py START_DATE END_DATE [--dry]")
+    start = dt.date.fromisoformat(args[0])
+    end = dt.date.fromisoformat(args[1])
+    if start > end:
+        raise SystemExit("START_DATE must not be after END_DATE")
+    raise SystemExit(main(start, end, "--dry" in sys.argv))
