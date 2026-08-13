@@ -4,8 +4,8 @@ topic icon overlay, Ken Burns motion and crossfades. All local (FFmpeg + Pillow)
 Pipeline:
   1. Each slide (1080x1920) gets a Ken Burns zoompan (in / pan / out).
   2. Slides are joined with smooth xfade crossfades.
-  3. A low-res animated icon overlay (reel_icons.render_overlay_sequence)
-     is upscaled and composited over the video with its alpha channel.
+  3. A full-res animated icon overlay (reel_icons.render_overlay_sequence)
+     is composited over the video with its alpha channel.
   4. Subtle vignette + fade in/out; optional music from assets/music.mp3.
 """
 from __future__ import annotations

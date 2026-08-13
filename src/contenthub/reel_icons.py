@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import math
 import random
+from functools import lru_cache
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter
@@ -210,21 +211,34 @@ def draw_icon(d, name, cx, cy, s, color, lw):
 
 
 # ---- clean glass badge overlay ----
+@lru_cache(maxsize=256)
 def radial_glow(radius: int, color, max_alpha: int) -> Image.Image:
+    """Soft center-bright radial glow on transparent canvas.
+
+    Cached: identical (radius, color, max_alpha) calls reuse one image — the
+    orbit-dot halos are the same every frame, so this cuts render time hard.
+    Returned images are only alpha-composited (never mutated) — safe to share.
+    """
     size = radius * 2
     img = Image.new("RGBA", (size, size), (0, 0, 0, 0))
     d = ImageDraw.Draw(img)
     steps = 14
+    # Draw largest (most transparent) first, smallest (most opaque) last so the
+    # center ends brightest — ImageDraw overwrites alpha rather than blending.
     for i in range(steps, 0, -1):
         r = radius * i / steps
-        a = int(max_alpha * (i / steps) ** 2)
+        a = int(max_alpha * (1 - i / steps) ** 2)
         d.ellipse([radius - r, radius - r, radius + r, radius + r], fill=(*color, a))
     return img.filter(ImageFilter.GaussianBlur(radius * 0.15))
 
 
 def _badge(icon: str, badge_r: int, t: float, orbit: list[tuple[float, float, float]]) -> Image.Image:
     """One supersampled badge frame: glow + glass circle + glyph + orbit dots."""
-    S = int(badge_r * 2 * SS) + 60 * SS
+    # Canvas must fit the badge plus the widest orbit (off is in *display* px,
+    # multiplied by SS to land in supersampled space) and its halo.
+    orbit_max = max(off for _, _, off in orbit) if orbit else 0
+    glow_pad = int(badge_r * 0.7)
+    S = int((badge_r + orbit_max + glow_pad) * 2 * SS) + 20 * SS
     img = Image.new("RGBA", (S, S), (0, 0, 0, 0))
     c = S // 2
     d = ImageDraw.Draw(img)
@@ -246,11 +260,12 @@ def _badge(icon: str, badge_r: int, t: float, orbit: list[tuple[float, float, fl
     # glyph
     draw_icon(d, icon, c, c, int(r * 0.52), (*B.WHITE, 235), max(3, int(r * 0.075)))
 
-    # orbit dots
+    # orbit dots (off is display-px -> scale to supersampled space)
     for (off, speed, phase) in orbit:
         ang = phase + speed * t
-        px = c + math.cos(ang) * (r + off)
-        py = c + math.sin(ang) * (r + off)
+        rr = r + off * SS
+        px = c + math.cos(ang) * rr
+        py = c + math.sin(ang) * rr
         pr = 3 * SS
         halo = radial_glow(int(pr * 2.6), B.BRIGHT, 150)
         img.alpha_composite(halo, (int(px) - halo.width // 2, int(py) - halo.height // 2))
